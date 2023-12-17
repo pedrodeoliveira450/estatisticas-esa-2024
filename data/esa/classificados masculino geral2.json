@@ -1,0 +1,5067 @@
+[
+    {
+        "classificacao": 1,
+        "inscricao": "2011233376",
+        "nome": "VINICIUS DE OLIVEIRA MORENO DOS SANTOS",
+        "nota": 9.822,
+        "data_nascimento": "28\/08\/2005"
+    },
+    {
+        "classificacao": 2,
+        "inscricao": "4031230035",
+        "nome": "ALEXANDRE GOMES TENORIO JUNIOR",
+        "nota": 9.822,
+        "data_nascimento": "27\/09\/2001"
+    },
+    {
+        "classificacao": 3,
+        "inscricao": "4071231899",
+        "nome": "KAUAN BARROSO RODRIGUES",
+        "nota": 9.822,
+        "data_nascimento": "03\/01\/2004"
+    },
+    {
+        "classificacao": 4,
+        "inscricao": "1121230201",
+        "nome": "GUILHERME DE ALMEIDA SOARES",
+        "nota": 9.792,
+        "data_nascimento": "05\/11\/2004"
+    },
+    {
+        "classificacao": 5,
+        "inscricao": "3031230576",
+        "nome": "WINICIUS RIBEIRO DOS ANJOS",
+        "nota": 9.792,
+        "data_nascimento": "29\/07\/2005"
+    },
+    {
+        "classificacao": 6,
+        "inscricao": "1011231355",
+        "nome": "DANIEL MENDES NEGREIROS",
+        "nota": 9.75,
+        "data_nascimento": "03\/03\/2005"
+    },
+    {
+        "classificacao": 7,
+        "inscricao": "4021230243",
+        "nome": "ENDREW ADONNAY SOARES DE OLIVEIRA",
+        "nota": 9.643,
+        "data_nascimento": "10\/10\/2001"
+    },
+    {
+        "classificacao": 8,
+        "inscricao": "1011238045",
+        "nome": "SAMUEL DUARTE REIS",
+        "nota": 9.643,
+        "data_nascimento": "18\/05\/2002"
+    },
+    {
+        "classificacao": 9,
+        "inscricao": "3011232065",
+        "nome": "THIAGO TOMASZEWSKI MARTINS",
+        "nota": 9.643,
+        "data_nascimento": "02\/09\/2002"
+    },
+    {
+        "classificacao": 10,
+        "inscricao": "1011232364",
+        "nome": "GABRIEL AMORIM VILLA REAL DE BARROS",
+        "nota": 9.643,
+        "data_nascimento": "15\/04\/2003"
+    },
+    {
+        "classificacao": 11,
+        "inscricao": "1041230377",
+        "nome": "JOAO HENRIQUE GOMES MACIEL",
+        "nota": 9.643,
+        "data_nascimento": "12\/05\/2005"
+    },
+    {
+        "classificacao": 12,
+        "inscricao": "1021237029",
+        "nome": "VINICIUS PRESTES DA ASSUMPCAO",
+        "nota": 9.643,
+        "data_nascimento": "24\/04\/2000"
+    },
+    {
+        "classificacao": 13,
+        "inscricao": "1091230968",
+        "nome": "VINICIUS RODRIGUES DOMINGUES",
+        "nota": 9.643,
+        "data_nascimento": "25\/01\/2002"
+    },
+    {
+        "classificacao": 14,
+        "inscricao": "1011233157",
+        "nome": "GUSTAVO FLORENTINO BITTENCOURT",
+        "nota": 9.643,
+        "data_nascimento": "27\/10\/2005"
+    },
+    {
+        "classificacao": 15,
+        "inscricao": "3011230136",
+        "nome": "ARTHUR FERREIRA DA SILVA",
+        "nota": 9.643,
+        "data_nascimento": "29\/11\/2006"
+    },
+    {
+        "classificacao": 16,
+        "inscricao": "4071231262",
+        "nome": "GUSTAVO BRENO AGUIAR FERREIRA",
+        "nota": 9.613,
+        "data_nascimento": "24\/05\/2001"
+    },
+    {
+        "classificacao": 17,
+        "inscricao": "1061231374",
+        "nome": "JOAO GABRIEL SAMPAIO VIEIRA",
+        "nota": 9.613,
+        "data_nascimento": "23\/04\/2002"
+    },
+    {
+        "classificacao": 18,
+        "inscricao": "4041232469",
+        "nome": "JOAO FELIPE PADILHA MACIEL",
+        "nota": 9.613,
+        "data_nascimento": "03\/06\/2002"
+    },
+    {
+        "classificacao": 19,
+        "inscricao": "6011230611",
+        "nome": "DAVI WESLEY COSTA DE LIMA",
+        "nota": 9.613,
+        "data_nascimento": "20\/11\/2002"
+    },
+    {
+        "classificacao": 20,
+        "inscricao": "6011230431",
+        "nome": "CARLOS FELIPE DIRSCHEN CABRAL",
+        "nota": 9.613,
+        "data_nascimento": "26\/12\/2002"
+    },
+    {
+        "classificacao": 21,
+        "inscricao": "1021230687",
+        "nome": "CAIO HENRIQUE SANT ANNA CONCEICAO",
+        "nota": 9.613,
+        "data_nascimento": "31\/01\/2003"
+    },
+    {
+        "classificacao": 22,
+        "inscricao": "3031230269",
+        "nome": "JOAO EDUARDO MC MANNIS DE LIMA",
+        "nota": 9.613,
+        "data_nascimento": "29\/03\/2003"
+    },
+    {
+        "classificacao": 23,
+        "inscricao": "4081230566",
+        "nome": "GABRIEL LIMA LEITE",
+        "nota": 9.613,
+        "data_nascimento": "28\/02\/2004"
+    },
+    {
+        "classificacao": 24,
+        "inscricao": "4041230941",
+        "nome": "DAVI ENOQUE DE AQUINO SILVA",
+        "nota": 9.613,
+        "data_nascimento": "13\/05\/2004"
+    },
+    {
+        "classificacao": 25,
+        "inscricao": "2011232559",
+        "nome": "MAYLTON DA CRUZ ROCHA",
+        "nota": 9.613,
+        "data_nascimento": "24\/06\/2004"
+    },
+    {
+        "classificacao": 26,
+        "inscricao": "3021231436",
+        "nome": "LUCAS CHUMA ALVES",
+        "nota": 9.613,
+        "data_nascimento": "18\/07\/2004"
+    },
+    {
+        "classificacao": 27,
+        "inscricao": "1061230314",
+        "nome": "CARLOS ALBERTO LEONARDO DE ARAUJO",
+        "nota": 9.613,
+        "data_nascimento": "13\/10\/2004"
+    },
+    {
+        "classificacao": 28,
+        "inscricao": "1021236197",
+        "nome": "RENAN BORTONCELLO",
+        "nota": 9.613,
+        "data_nascimento": "16\/12\/2004"
+    },
+    {
+        "classificacao": 29,
+        "inscricao": "1021232578",
+        "nome": "GUSTAVO LOPES",
+        "nota": 9.613,
+        "data_nascimento": "03\/06\/2005"
+    },
+    {
+        "classificacao": 30,
+        "inscricao": "3011231296",
+        "nome": "LEONARDO LUCAS BENTO DE MORAES",
+        "nota": 9.613,
+        "data_nascimento": "19\/11\/2005"
+    },
+    {
+        "classificacao": 31,
+        "inscricao": "4071230531",
+        "nome": "DANNY SECUDINO SOUSA FILHO",
+        "nota": 9.613,
+        "data_nascimento": "25\/05\/2006"
+    },
+    {
+        "classificacao": 32,
+        "inscricao": "6011231615",
+        "nome": "JOAO GABRIEL ALVARES DA CUNHA",
+        "nota": 9.613,
+        "data_nascimento": "23\/04\/2007"
+    },
+    {
+        "classificacao": 33,
+        "inscricao": "1081230275",
+        "nome": "CARLOS DAVI BONIFACIO FREIRE",
+        "nota": 9.583,
+        "data_nascimento": "12\/08\/2006"
+    },
+    {
+        "classificacao": 34,
+        "inscricao": "1011235486",
+        "nome": "LUCAS NASCIMENTO VISCONTE",
+        "nota": 9.572,
+        "data_nascimento": "12\/01\/2004"
+    },
+    {
+        "classificacao": 35,
+        "inscricao": "1061232558",
+        "nome": "PEDRO ALEX DA SILVA NEVES",
+        "nota": 9.572,
+        "data_nascimento": "26\/04\/2004"
+    },
+    {
+        "classificacao": 36,
+        "inscricao": "4081230097",
+        "nome": "ANTONIO GABRIEL DE MENDONCA SOUSA",
+        "nota": 9.572,
+        "data_nascimento": "22\/12\/2004"
+    },
+    {
+        "classificacao": 37,
+        "inscricao": "7021230521",
+        "nome": "LUIZ EDUARDO SANTI SILVA",
+        "nota": 9.464,
+        "data_nascimento": "11\/05\/2005"
+    },
+    {
+        "classificacao": 38,
+        "inscricao": "1011230030",
+        "nome": "ADRIANO ANTONIO BASTOS FERREIRA",
+        "nota": 9.464,
+        "data_nascimento": "26\/10\/2000"
+    },
+    {
+        "classificacao": 39,
+        "inscricao": "1021236063",
+        "nome": "RAFAEL FELIPE COELHO SANTOS DA SILVA",
+        "nota": 9.464,
+        "data_nascimento": "05\/01\/2002"
+    },
+    {
+        "classificacao": 40,
+        "inscricao": "4041235331",
+        "nome": "VITOR GABRIEL SOUSA RIBEIRO",
+        "nota": 9.464,
+        "data_nascimento": "12\/01\/2002"
+    },
+    {
+        "classificacao": 41,
+        "inscricao": "4071230859",
+        "nome": "FILIPE ALVES DA SILVA",
+        "nota": 9.464,
+        "data_nascimento": "27\/03\/2004"
+    },
+    {
+        "classificacao": 42,
+        "inscricao": "1071231685",
+        "nome": "SAMUEL FILLIPE NASCIMENTO SANTOS",
+        "nota": 9.464,
+        "data_nascimento": "18\/12\/2005"
+    },
+    {
+        "classificacao": 43,
+        "inscricao": "4011232686",
+        "nome": "JOSE DANIEL DA SILVA GOIS",
+        "nota": 9.435,
+        "data_nascimento": "21\/09\/2000"
+    },
+    {
+        "classificacao": 44,
+        "inscricao": "1061232740",
+        "nome": "RAFAEL SOBREIRA COSTA DA SILVA",
+        "nota": 9.435,
+        "data_nascimento": "31\/10\/2002"
+    },
+    {
+        "classificacao": 45,
+        "inscricao": "2021231492",
+        "nome": "MIGUEL AUGUSTO DIAS",
+        "nota": 9.435,
+        "data_nascimento": "12\/11\/2003"
+    },
+    {
+        "classificacao": 46,
+        "inscricao": "1061232615",
+        "nome": "PEDRO HENRIQUE DE OLIVEIRA NASCIMENTO",
+        "nota": 9.435,
+        "data_nascimento": "30\/03\/2004"
+    },
+    {
+        "classificacao": 47,
+        "inscricao": "4041233627",
+        "nome": "LUIS FELIPE SANTIAGO DE LIMA",
+        "nota": 9.435,
+        "data_nascimento": "16\/11\/2004"
+    },
+    {
+        "classificacao": 48,
+        "inscricao": "1021235472",
+        "nome": "MOISES GODINHO ATHAYDES DA SILVA",
+        "nota": 9.435,
+        "data_nascimento": "15\/03\/2001"
+    },
+    {
+        "classificacao": 49,
+        "inscricao": "1021233144",
+        "nome": "JOAO PEDRO BITENCOURT DOS SANTOS COSTA",
+        "nota": 9.435,
+        "data_nascimento": "20\/04\/2001"
+    },
+    {
+        "classificacao": 50,
+        "inscricao": "1061230953",
+        "nome": "GABRIEL MOTTA DO NASCIMENTO",
+        "nota": 9.435,
+        "data_nascimento": "07\/07\/2001"
+    },
+    {
+        "classificacao": 51,
+        "inscricao": "1011233290",
+        "nome": "HENRIQUE DILELIS DE RESENDE SOUSA",
+        "nota": 9.435,
+        "data_nascimento": "17\/07\/2002"
+    },
+    {
+        "classificacao": 52,
+        "inscricao": "1021237070",
+        "nome": "VITOR ESTANECH SILVA",
+        "nota": 9.435,
+        "data_nascimento": "16\/12\/2002"
+    },
+    {
+        "classificacao": 53,
+        "inscricao": "4011230813",
+        "nome": "DANILO DANIEL PASSOS",
+        "nota": 9.435,
+        "data_nascimento": "18\/12\/2002"
+    },
+    {
+        "classificacao": 54,
+        "inscricao": "1061230621",
+        "nome": "DOUGLAS TERRA DE OLIVEIRA LOPES",
+        "nota": 9.435,
+        "data_nascimento": "19\/12\/2002"
+    },
+    {
+        "classificacao": 55,
+        "inscricao": "3061230748",
+        "nome": "GUILHERME MORETTO DIAS",
+        "nota": 9.435,
+        "data_nascimento": "15\/03\/2003"
+    },
+    {
+        "classificacao": 56,
+        "inscricao": "4011232570",
+        "nome": "JOAO VITOR SANTOS BARBOSA",
+        "nota": 9.435,
+        "data_nascimento": "03\/04\/2003"
+    },
+    {
+        "classificacao": 57,
+        "inscricao": "1061231365",
+        "nome": "JOAO GABRIEL CORDEIRO RAMALHO",
+        "nota": 9.435,
+        "data_nascimento": "23\/08\/2003"
+    },
+    {
+        "classificacao": 58,
+        "inscricao": "1151230090",
+        "nome": "IURI CERQUEIRA ROCHA",
+        "nota": 9.435,
+        "data_nascimento": "28\/08\/2003"
+    },
+    {
+        "classificacao": 59,
+        "inscricao": "1041230216",
+        "nome": "FELIPE FERREIRA DE LIMA",
+        "nota": 9.435,
+        "data_nascimento": "14\/04\/2004"
+    },
+    {
+        "classificacao": 60,
+        "inscricao": "2021230610",
+        "nome": "GABRIEL YOSHIRARU DELFINO MAZZO",
+        "nota": 9.435,
+        "data_nascimento": "20\/07\/2004"
+    },
+    {
+        "classificacao": 61,
+        "inscricao": "7011230799",
+        "nome": "JOAO VITOR ARAUJO BATISTA",
+        "nota": 9.435,
+        "data_nascimento": "31\/01\/2005"
+    },
+    {
+        "classificacao": 62,
+        "inscricao": "1021235675",
+        "nome": "PATRICK MEDEIROS DE CARVALHO",
+        "nota": 9.435,
+        "data_nascimento": "26\/06\/2005"
+    },
+    {
+        "classificacao": 63,
+        "inscricao": "1011232608",
+        "nome": "GABRIEL GUERRA PEREIRA FERNANDES",
+        "nota": 9.435,
+        "data_nascimento": "31\/07\/2006"
+    },
+    {
+        "classificacao": 64,
+        "inscricao": "6031230341",
+        "nome": "FELIPE DE CARVALHO SOARES DE MENDONCA",
+        "nota": 9.405,
+        "data_nascimento": "08\/09\/2005"
+    },
+    {
+        "classificacao": 65,
+        "inscricao": "3021230289",
+        "nome": "CARLOS GERMANO SCHLITTLER GUARANI",
+        "nota": 9.405,
+        "data_nascimento": "26\/04\/2002"
+    },
+    {
+        "classificacao": 66,
+        "inscricao": "2031230605",
+        "nome": "LUCAS ALVES GAZALE",
+        "nota": 9.405,
+        "data_nascimento": "26\/03\/2003"
+    },
+    {
+        "classificacao": 67,
+        "inscricao": "1041230899",
+        "nome": "VINICIUS EDUARDO BATISTA MENDONCA",
+        "nota": 9.405,
+        "data_nascimento": "08\/10\/2003"
+    },
+    {
+        "classificacao": 68,
+        "inscricao": "5041230099",
+        "nome": "DANIEL MELO DOS PASSOS",
+        "nota": 9.405,
+        "data_nascimento": "14\/02\/2005"
+    },
+    {
+        "classificacao": 69,
+        "inscricao": "4061231870",
+        "nome": "MATHEUS LIMA DE SOUZA",
+        "nota": 9.405,
+        "data_nascimento": "06\/10\/2005"
+    },
+    {
+        "classificacao": 70,
+        "inscricao": "1021233846",
+        "nome": "KAUA LEMOS RODRIGUES",
+        "nota": 9.405,
+        "data_nascimento": "11\/10\/2005"
+    },
+    {
+        "classificacao": 71,
+        "inscricao": "7011230756",
+        "nome": "JOAO PAULO BRASIL BARROS",
+        "nota": 9.405,
+        "data_nascimento": "27\/11\/2005"
+    },
+    {
+        "classificacao": 72,
+        "inscricao": "3021231397",
+        "nome": "LORENZO GABRIEL SCHMIDT HERTER",
+        "nota": 9.405,
+        "data_nascimento": "14\/01\/2006"
+    },
+    {
+        "classificacao": 73,
+        "inscricao": "4081230008",
+        "nome": "ADONIAS JOBSON SILVA MEDEIROS",
+        "nota": 9.405,
+        "data_nascimento": "04\/06\/2006"
+    },
+    {
+        "classificacao": 74,
+        "inscricao": "4041235248",
+        "nome": "VINICIUS FERREIRA COSTA",
+        "nota": 9.393,
+        "data_nascimento": "10\/08\/2002"
+    },
+    {
+        "classificacao": 75,
+        "inscricao": "1071230041",
+        "nome": "ALONSO DALMORO COUTINHO",
+        "nota": 9.393,
+        "data_nascimento": "12\/11\/2004"
+    },
+    {
+        "classificacao": 76,
+        "inscricao": "8021230480",
+        "nome": "DANIEL WILSON LOPES DE SOUZA",
+        "nota": 9.375,
+        "data_nascimento": "29\/12\/2003"
+    },
+    {
+        "classificacao": 77,
+        "inscricao": "1081230554",
+        "nome": "FELIPE MENDES LOPES",
+        "nota": 9.363,
+        "data_nascimento": "14\/04\/2000"
+    },
+    {
+        "classificacao": 78,
+        "inscricao": "4071231859",
+        "nome": "JULIO CESAR SOUSA ALVES",
+        "nota": 9.363,
+        "data_nascimento": "03\/03\/2002"
+    },
+    {
+        "classificacao": 79,
+        "inscricao": "1061231745",
+        "nome": "KAUA MURAOKA",
+        "nota": 9.363,
+        "data_nascimento": "14\/05\/2003"
+    },
+    {
+        "classificacao": 80,
+        "inscricao": "3031230521",
+        "nome": "SELMAR SANTA CATARINA JUNIOR",
+        "nota": 9.363,
+        "data_nascimento": "01\/09\/2003"
+    },
+    {
+        "classificacao": 81,
+        "inscricao": "4071233140",
+        "nome": "YURI ALMEIDA BENTO ALCANTARA DE FREITAS",
+        "nota": 9.363,
+        "data_nascimento": "28\/01\/2004"
+    },
+    {
+        "classificacao": 82,
+        "inscricao": "4041231945",
+        "nome": "GUILHERME RIAN FERREIRA BARBOSA DA SILVA",
+        "nota": 9.363,
+        "data_nascimento": "23\/01\/2006"
+    },
+    {
+        "classificacao": 83,
+        "inscricao": "3021231564",
+        "nome": "LUIZ FELIPE MAZUI MANENTE",
+        "nota": 9.322,
+        "data_nascimento": "03\/09\/2000"
+    },
+    {
+        "classificacao": 84,
+        "inscricao": "4061231942",
+        "nome": "NATAN PEREIRA DA SILVA",
+        "nota": 9.286,
+        "data_nascimento": "11\/01\/2003"
+    },
+    {
+        "classificacao": 85,
+        "inscricao": "5041230050",
+        "nome": "AUGUSTO ROCHA",
+        "nota": 9.286,
+        "data_nascimento": "15\/03\/2003"
+    },
+    {
+        "classificacao": 86,
+        "inscricao": "4041230852",
+        "nome": "DANIEL BEZERRA LIMA",
+        "nota": 9.286,
+        "data_nascimento": "29\/05\/2004"
+    },
+    {
+        "classificacao": 87,
+        "inscricao": "1081231856",
+        "nome": "PEDRO RESENDE SILVA",
+        "nota": 9.286,
+        "data_nascimento": "19\/08\/2004"
+    },
+    {
+        "classificacao": 88,
+        "inscricao": "1021235187",
+        "nome": "MATHEUS FAGUNDES GIL",
+        "nota": 9.286,
+        "data_nascimento": "05\/03\/2000"
+    },
+    {
+        "classificacao": 89,
+        "inscricao": "2021231942",
+        "nome": "VINICIUS CORREIA LEITE",
+        "nota": 9.286,
+        "data_nascimento": "12\/02\/2002"
+    },
+    {
+        "classificacao": 90,
+        "inscricao": "4041233131",
+        "nome": "JULIO FELIPE DE ALMEIDA SA",
+        "nota": 9.286,
+        "data_nascimento": "22\/09\/2005"
+    },
+    {
+        "classificacao": 91,
+        "inscricao": "4031230271",
+        "nome": "DIEGO LISBOA NETO CAVALCANTE",
+        "nota": 9.256,
+        "data_nascimento": "11\/05\/2000"
+    },
+    {
+        "classificacao": 92,
+        "inscricao": "1021230638",
+        "nome": "CAIO CESAR RIO DE JESUS",
+        "nota": 9.256,
+        "data_nascimento": "04\/10\/2000"
+    },
+    {
+        "classificacao": 93,
+        "inscricao": "1021236411",
+        "nome": "RODRIGO WENDERROSCHY GARCIA",
+        "nota": 9.256,
+        "data_nascimento": "26\/10\/2000"
+    },
+    {
+        "classificacao": 94,
+        "inscricao": "3021230743",
+        "nome": "GABRIEL SILVA ESCOBAR",
+        "nota": 9.256,
+        "data_nascimento": "18\/06\/2001"
+    },
+    {
+        "classificacao": 95,
+        "inscricao": "4061230833",
+        "nome": "GLEYSON DAVID DA SILVA",
+        "nota": 9.256,
+        "data_nascimento": "03\/01\/2002"
+    },
+    {
+        "classificacao": 96,
+        "inscricao": "1021232691",
+        "nome": "HUDSON LEO ARAUJO PINHEIRO DA SILVA",
+        "nota": 9.256,
+        "data_nascimento": "14\/04\/2002"
+    },
+    {
+        "classificacao": 97,
+        "inscricao": "8021230148",
+        "nome": "ANDRE RYAN BARBOSA PANTOJA",
+        "nota": 9.256,
+        "data_nascimento": "15\/05\/2002"
+    },
+    {
+        "classificacao": 98,
+        "inscricao": "3021231079",
+        "nome": "JOAO GABRIEL KINCZIKOWSKI TABACZENISKI",
+        "nota": 9.256,
+        "data_nascimento": "16\/04\/2003"
+    },
+    {
+        "classificacao": 99,
+        "inscricao": "4071232719",
+        "nome": "RENATO DOS SANTOS GUINA",
+        "nota": 9.256,
+        "data_nascimento": "09\/08\/2003"
+    },
+    {
+        "classificacao": 100,
+        "inscricao": "4061230458",
+        "nome": "DIOGO DUARTE OLIVEIRA DE ARAUJO",
+        "nota": 9.256,
+        "data_nascimento": "13\/11\/2003"
+    },
+    {
+        "classificacao": 101,
+        "inscricao": "1011234464",
+        "nome": "JOSE ROBERTO DA SILVA SARMENTO",
+        "nota": 9.256,
+        "data_nascimento": "30\/03\/2005"
+    },
+    {
+        "classificacao": 102,
+        "inscricao": "1021233325",
+        "nome": "JOAO VICTOR GUIMARAES DE SOUZA",
+        "nota": 9.256,
+        "data_nascimento": "28\/02\/2007"
+    },
+    {
+        "classificacao": 103,
+        "inscricao": "2021230053",
+        "nome": "ANDRE LUIGI THOMAZETTO LOBOS JIMENEZ",
+        "nota": 9.256,
+        "data_nascimento": "25\/05\/2001"
+    },
+    {
+        "classificacao": 104,
+        "inscricao": "3011231766",
+        "nome": "PAULO DOUGLAS FRANKLIN DA SILVA CARDOSO",
+        "nota": 9.256,
+        "data_nascimento": "30\/09\/2001"
+    },
+    {
+        "classificacao": 105,
+        "inscricao": "1041230097",
+        "nome": "CARLOS EDUARDO DE CASTRO MAXIMO RODRIGUES",
+        "nota": 9.256,
+        "data_nascimento": "11\/01\/2002"
+    },
+    {
+        "classificacao": 106,
+        "inscricao": "1071231088",
+        "nome": "LUCA CORREA TAVARES",
+        "nota": 9.256,
+        "data_nascimento": "16\/04\/2002"
+    },
+    {
+        "classificacao": 107,
+        "inscricao": "2011231272",
+        "nome": "GUSTAVO GOUVEIA LOPES DA SILVA",
+        "nota": 9.256,
+        "data_nascimento": "21\/12\/2002"
+    },
+    {
+        "classificacao": 108,
+        "inscricao": "1011233816",
+        "nome": "JOAO LUIZ LARANJEIRA DA SILVA",
+        "nota": 9.256,
+        "data_nascimento": "25\/12\/2002"
+    },
+    {
+        "classificacao": 109,
+        "inscricao": "2011233163",
+        "nome": "SAMUEL PIMENTEL MARINHO",
+        "nota": 9.256,
+        "data_nascimento": "26\/02\/2003"
+    },
+    {
+        "classificacao": 110,
+        "inscricao": "1021232871",
+        "nome": "IURY DE CARVALHO DOS SANTOS",
+        "nota": 9.256,
+        "data_nascimento": "18\/03\/2003"
+    },
+    {
+        "classificacao": 111,
+        "inscricao": "2021232008",
+        "nome": "VITOR RIBEIRO DA SILVA NETO",
+        "nota": 9.256,
+        "data_nascimento": "12\/05\/2003"
+    },
+    {
+        "classificacao": 112,
+        "inscricao": "4051231422",
+        "nome": "VICTOR GABRIELL MARQUES LEITE",
+        "nota": 9.256,
+        "data_nascimento": "07\/06\/2003"
+    },
+    {
+        "classificacao": 113,
+        "inscricao": "2011230810",
+        "nome": "FELIPE MARTIN JIMENEZ MEIRA GOSSLER",
+        "nota": 9.256,
+        "data_nascimento": "08\/09\/2003"
+    },
+    {
+        "classificacao": 114,
+        "inscricao": "8021230882",
+        "nome": "GABRIEL ROCHA DA SILVA",
+        "nota": 9.256,
+        "data_nascimento": "28\/09\/2003"
+    },
+    {
+        "classificacao": 115,
+        "inscricao": "2011232193",
+        "nome": "LUCCAS CUNHA DA COSTA GOMES",
+        "nota": 9.256,
+        "data_nascimento": "26\/11\/2003"
+    },
+    {
+        "classificacao": 116,
+        "inscricao": "4081230055",
+        "nome": "ALVARO RODRIGUES FONTES CAMINHA",
+        "nota": 9.256,
+        "data_nascimento": "16\/01\/2004"
+    },
+    {
+        "classificacao": 117,
+        "inscricao": "4041232983",
+        "nome": "JOSE MATHEUS PEREIRA DA SILVA",
+        "nota": 9.256,
+        "data_nascimento": "07\/02\/2004"
+    },
+    {
+        "classificacao": 118,
+        "inscricao": "1011230460",
+        "nome": "ARTHUR DIAS CZARNY",
+        "nota": 9.256,
+        "data_nascimento": "15\/03\/2004"
+    },
+    {
+        "classificacao": 119,
+        "inscricao": "4041233341",
+        "nome": "LEONARDO MELO MONTEIRO DE ARRUDA",
+        "nota": 9.256,
+        "data_nascimento": "08\/04\/2004"
+    },
+    {
+        "classificacao": 120,
+        "inscricao": "1061232056",
+        "nome": "LUIS GABRIEL DA SILVA CURTY",
+        "nota": 9.256,
+        "data_nascimento": "31\/07\/2004"
+    },
+    {
+        "classificacao": 121,
+        "inscricao": "1121230468",
+        "nome": "PEDRO HENRIQUE AZEVEDO BASTOS DE SOUZA",
+        "nota": 9.256,
+        "data_nascimento": "31\/08\/2004"
+    },
+    {
+        "classificacao": 122,
+        "inscricao": "3041230353",
+        "nome": "GABRIEL MARQUES NUNES",
+        "nota": 9.256,
+        "data_nascimento": "29\/01\/2005"
+    },
+    {
+        "classificacao": 123,
+        "inscricao": "4071230462",
+        "nome": "CESAR MATOS DA SILVA JUNIOR",
+        "nota": 9.226,
+        "data_nascimento": "01\/08\/2005"
+    },
+    {
+        "classificacao": 124,
+        "inscricao": "3061230785",
+        "nome": "GUSTAVO DE MOURA RIBAS",
+        "nota": 9.226,
+        "data_nascimento": "25\/01\/2001"
+    },
+    {
+        "classificacao": 125,
+        "inscricao": "1021232324",
+        "nome": "GILWESLYN AUGUSTO DE LIMA",
+        "nota": 9.226,
+        "data_nascimento": "19\/08\/2001"
+    },
+    {
+        "classificacao": 126,
+        "inscricao": "6011230758",
+        "nome": "ELIAS BITTENCOURT BRAGA",
+        "nota": 9.226,
+        "data_nascimento": "22\/10\/2001"
+    },
+    {
+        "classificacao": 127,
+        "inscricao": "1011235680",
+        "nome": "LUIS PAULO COSTA TORRES PAES",
+        "nota": 9.226,
+        "data_nascimento": "28\/08\/2003"
+    },
+    {
+        "classificacao": 128,
+        "inscricao": "1011233732",
+        "nome": "JOAO FREDERICO MOURA DE DEUS",
+        "nota": 9.226,
+        "data_nascimento": "27\/11\/2003"
+    },
+    {
+        "classificacao": 129,
+        "inscricao": "1021232066",
+        "nome": "GABRIEL DE MESQUITA LEAL PEREIRA",
+        "nota": 9.226,
+        "data_nascimento": "22\/04\/2004"
+    },
+    {
+        "classificacao": 130,
+        "inscricao": "2021232062",
+        "nome": "YURI ACSANY DE ALMEIDA VIEIRA",
+        "nota": 9.226,
+        "data_nascimento": "14\/10\/2004"
+    },
+    {
+        "classificacao": 131,
+        "inscricao": "1021237073",
+        "nome": "VITOR FONSECA AMBROSIO",
+        "nota": 9.226,
+        "data_nascimento": "05\/12\/2004"
+    },
+    {
+        "classificacao": 132,
+        "inscricao": "1051230524",
+        "nome": "HENRIQUE BOSI SANDOVAL",
+        "nota": 9.226,
+        "data_nascimento": "31\/07\/2006"
+    },
+    {
+        "classificacao": 133,
+        "inscricao": "2021230199",
+        "nome": "CARLOS EDUARDO DUTRA DE CARVALHO ALMEIDA",
+        "nota": 9.226,
+        "data_nascimento": "29\/07\/2007"
+    },
+    {
+        "classificacao": 134,
+        "inscricao": "4061230879",
+        "nome": "GUSTAVO BORGES RODRIGUES",
+        "nota": 9.226,
+        "data_nascimento": "29\/01\/2002"
+    },
+    {
+        "classificacao": 135,
+        "inscricao": "3011231093",
+        "nome": "JOAO VICTOR NUNES RHODEN",
+        "nota": 9.226,
+        "data_nascimento": "20\/05\/2002"
+    },
+    {
+        "classificacao": 136,
+        "inscricao": "4081231505",
+        "nome": "RODRIGO DLUCAS DA SILVA OLIVEIRA",
+        "nota": 9.226,
+        "data_nascimento": "24\/11\/2002"
+    },
+    {
+        "classificacao": 137,
+        "inscricao": "2021231768",
+        "nome": "RICARDO VINICIUS SILVA",
+        "nota": 9.226,
+        "data_nascimento": "07\/02\/2003"
+    },
+    {
+        "classificacao": 138,
+        "inscricao": "1061232357",
+        "nome": "MAURICIO SILVA LOPES",
+        "nota": 9.226,
+        "data_nascimento": "14\/08\/2003"
+    },
+    {
+        "classificacao": 139,
+        "inscricao": "3021231099",
+        "nome": "JOAO NEI DA SILVA LOPES",
+        "nota": 9.226,
+        "data_nascimento": "06\/09\/2003"
+    },
+    {
+        "classificacao": 140,
+        "inscricao": "1011236502",
+        "nome": "MAXSANDRO WASHINGTON MONTEIRO DA SILVA",
+        "nota": 9.226,
+        "data_nascimento": "07\/01\/2004"
+    },
+    {
+        "classificacao": 141,
+        "inscricao": "1071230359",
+        "nome": "DIEGO NASSIF CARDOZO",
+        "nota": 9.226,
+        "data_nascimento": "07\/06\/2004"
+    },
+    {
+        "classificacao": 142,
+        "inscricao": "1011230510",
+        "nome": "ARTHUR RUIS FERREIRA DOS SANTOS",
+        "nota": 9.226,
+        "data_nascimento": "07\/03\/2005"
+    },
+    {
+        "classificacao": 143,
+        "inscricao": "1121230287",
+        "nome": "JOAO VICTOR TELES DE SOUZA",
+        "nota": 9.226,
+        "data_nascimento": "26\/07\/2005"
+    },
+    {
+        "classificacao": 144,
+        "inscricao": "4041230772",
+        "nome": "CAUA MACHADO FRAGOSO",
+        "nota": 9.226,
+        "data_nascimento": "07\/12\/2005"
+    },
+    {
+        "classificacao": 145,
+        "inscricao": "4071232484",
+        "nome": "PAULO ALEXANDRE BORGES MOURA",
+        "nota": 9.226,
+        "data_nascimento": "14\/07\/2006"
+    },
+    {
+        "classificacao": 146,
+        "inscricao": "4011232088",
+        "nome": "IRAN LINALDO DOS SANTOS REIS",
+        "nota": 9.214,
+        "data_nascimento": "09\/10\/2000"
+    },
+    {
+        "classificacao": 147,
+        "inscricao": "4051230735",
+        "nome": "JOEL PEREIRA DA SILVA JUNIOR",
+        "nota": 9.214,
+        "data_nascimento": "18\/06\/2002"
+    },
+    {
+        "classificacao": 148,
+        "inscricao": "8011230692",
+        "nome": "KEDSON LEONARDO XAVIER LIMA",
+        "nota": 9.214,
+        "data_nascimento": "01\/01\/2003"
+    },
+    {
+        "classificacao": 149,
+        "inscricao": "4061232034",
+        "nome": "PEDRO AUGUSTO DO NASCIMENTO LYRA",
+        "nota": 9.214,
+        "data_nascimento": "19\/08\/2003"
+    },
+    {
+        "classificacao": 150,
+        "inscricao": "4081230236",
+        "nome": "CARLOS VINICIUS DE MOURA LEAL",
+        "nota": 9.214,
+        "data_nascimento": "16\/11\/2003"
+    },
+    {
+        "classificacao": 151,
+        "inscricao": "1021232594",
+        "nome": "GUSTAVO OLIVEIRA TEIXEIRA",
+        "nota": 9.214,
+        "data_nascimento": "02\/03\/2004"
+    },
+    {
+        "classificacao": 152,
+        "inscricao": "3011230427",
+        "nome": "DOUGLAS DE MORAES NUNES",
+        "nota": 9.197,
+        "data_nascimento": "27\/11\/2002"
+    },
+    {
+        "classificacao": 153,
+        "inscricao": "3021232121",
+        "nome": "STEFAN ZANINI CANTERLE",
+        "nota": 9.197,
+        "data_nascimento": "04\/09\/2002"
+    },
+    {
+        "classificacao": 154,
+        "inscricao": "1021234885",
+        "nome": "MARCO ANTONIO OLIVEIRA DE LIMA FILHO",
+        "nota": 9.197,
+        "data_nascimento": "16\/02\/2003"
+    },
+    {
+        "classificacao": 155,
+        "inscricao": "1011234559",
+        "nome": "JUAN SMITH DIAS LUIZ",
+        "nota": 9.197,
+        "data_nascimento": "14\/05\/2003"
+    },
+    {
+        "classificacao": 156,
+        "inscricao": "1021230117",
+        "nome": "ALEXANDRE DE ANDRADE SILVA",
+        "nota": 9.197,
+        "data_nascimento": "04\/09\/2003"
+    },
+    {
+        "classificacao": 157,
+        "inscricao": "1021230511",
+        "nome": "BRENO DA CRUZ TEIXEIRA",
+        "nota": 9.197,
+        "data_nascimento": "19\/12\/2003"
+    },
+    {
+        "classificacao": 158,
+        "inscricao": "1021231492",
+        "nome": "EDUARDO GONCALVES CRESPO DE MELO",
+        "nota": 9.197,
+        "data_nascimento": "23\/12\/2005"
+    },
+    {
+        "classificacao": 159,
+        "inscricao": "4081230754",
+        "nome": "JAMES EDWILDE BATISTA JUNIOR",
+        "nota": 9.185,
+        "data_nascimento": "18\/04\/2003"
+    },
+    {
+        "classificacao": 160,
+        "inscricao": "3021231120",
+        "nome": "JOAO PEDRO GUERRA BARBOSA",
+        "nota": 9.185,
+        "data_nascimento": "19\/05\/2003"
+    },
+    {
+        "classificacao": 161,
+        "inscricao": "4061232328",
+        "nome": "SAMUEL PEIXOTO DE MOURA",
+        "nota": 9.185,
+        "data_nascimento": "11\/09\/2002"
+    },
+    {
+        "classificacao": 162,
+        "inscricao": "1091230067",
+        "nome": "BRUNNO PEREIRA GISMONTI DUARTE",
+        "nota": 9.185,
+        "data_nascimento": "19\/09\/2002"
+    },
+    {
+        "classificacao": 163,
+        "inscricao": "3021230945",
+        "nome": "HENRIQUE MENOTTI BRAIDO",
+        "nota": 9.185,
+        "data_nascimento": "10\/12\/2002"
+    },
+    {
+        "classificacao": 164,
+        "inscricao": "6011233443",
+        "nome": "VITOR MEDEIROS DA CUNHA",
+        "nota": 9.185,
+        "data_nascimento": "13\/12\/2002"
+    },
+    {
+        "classificacao": 165,
+        "inscricao": "3061230718",
+        "nome": "GUILHERME BARBOSA DOS SANTOS",
+        "nota": 9.185,
+        "data_nascimento": "13\/06\/2003"
+    },
+    {
+        "classificacao": 166,
+        "inscricao": "1011234196",
+        "nome": "JOAO VITOR BRANDAO MOURAO",
+        "nota": 9.185,
+        "data_nascimento": "18\/03\/2004"
+    },
+    {
+        "classificacao": 167,
+        "inscricao": "1021235852",
+        "nome": "PEDRO HENRIQUE DE CARVALHO FERREIRA",
+        "nota": 9.185,
+        "data_nascimento": "14\/04\/2004"
+    },
+    {
+        "classificacao": 168,
+        "inscricao": "1061231955",
+        "nome": "LUCAS DOS SANTOS VILLACA",
+        "nota": 9.185,
+        "data_nascimento": "16\/08\/2004"
+    },
+    {
+        "classificacao": 169,
+        "inscricao": "4071230281",
+        "nome": "AUGUSTO HERMANO SAMPAIO DIAS",
+        "nota": 9.185,
+        "data_nascimento": "07\/09\/2004"
+    },
+    {
+        "classificacao": 170,
+        "inscricao": "4021231070",
+        "nome": "VITOR HUGO DE CARVALHO DAMASCENA",
+        "nota": 9.185,
+        "data_nascimento": "27\/07\/2005"
+    },
+    {
+        "classificacao": 171,
+        "inscricao": "2021230561",
+        "nome": "GABRIEL LOPES DE LIMA",
+        "nota": 9.167,
+        "data_nascimento": "08\/07\/2004"
+    },
+    {
+        "classificacao": 172,
+        "inscricao": "3061231626",
+        "nome": "NATAN SANTOS DINIZ",
+        "nota": 9.155,
+        "data_nascimento": "07\/01\/2004"
+    },
+    {
+        "classificacao": 173,
+        "inscricao": "1011232411",
+        "nome": "GABRIEL CASAL LOPES",
+        "nota": 9.155,
+        "data_nascimento": "22\/04\/2005"
+    },
+    {
+        "classificacao": 174,
+        "inscricao": "3021230795",
+        "nome": "GUILHERME CHAVES CHECHI",
+        "nota": 9.155,
+        "data_nascimento": "15\/02\/2002"
+    },
+    {
+        "classificacao": 175,
+        "inscricao": "2031230279",
+        "nome": "GABRIEL DA SILVA BECKMANN",
+        "nota": 9.155,
+        "data_nascimento": "11\/06\/2002"
+    },
+    {
+        "classificacao": 176,
+        "inscricao": "1071231254",
+        "nome": "MARCO ANTONIO CARNEIRO SCHMIDT",
+        "nota": 9.155,
+        "data_nascimento": "07\/12\/2002"
+    },
+    {
+        "classificacao": 177,
+        "inscricao": "4061231570",
+        "nome": "LUAN VYCTOR LOPES DE MELO CUNHA",
+        "nota": 9.155,
+        "data_nascimento": "03\/01\/2003"
+    },
+    {
+        "classificacao": 178,
+        "inscricao": "3021231765",
+        "nome": "MURILO BOFF FATURI",
+        "nota": 9.155,
+        "data_nascimento": "07\/01\/2003"
+    },
+    {
+        "classificacao": 179,
+        "inscricao": "2011232517",
+        "nome": "MATHEUS SILVA SANTOS",
+        "nota": 9.155,
+        "data_nascimento": "03\/04\/2003"
+    },
+    {
+        "classificacao": 180,
+        "inscricao": "4041233459",
+        "nome": "LUCAS GABRIEL ALBUQUERQUE ANDRADE",
+        "nota": 9.155,
+        "data_nascimento": "18\/03\/2004"
+    },
+    {
+        "classificacao": 181,
+        "inscricao": "4071231676",
+        "nome": "JOAO VITOR PINHO SOARES",
+        "nota": 9.155,
+        "data_nascimento": "23\/09\/2004"
+    },
+    {
+        "classificacao": 182,
+        "inscricao": "4021230836",
+        "nome": "MURILO DE OLIVEIRA SOLER",
+        "nota": 9.155,
+        "data_nascimento": "12\/12\/2005"
+    },
+    {
+        "classificacao": 183,
+        "inscricao": "1091230362",
+        "nome": "HIAGO JUNIO LEAL ALVES",
+        "nota": 9.143,
+        "data_nascimento": "08\/03\/2000"
+    },
+    {
+        "classificacao": 184,
+        "inscricao": "4041233061",
+        "nome": "JOSE WEMERSON DA SILVA",
+        "nota": 9.143,
+        "data_nascimento": "04\/01\/2003"
+    },
+    {
+        "classificacao": 185,
+        "inscricao": "1101230325",
+        "nome": "JOAO VITOR BARBOSA DANTAS",
+        "nota": 9.143,
+        "data_nascimento": "16\/01\/2004"
+    },
+    {
+        "classificacao": 186,
+        "inscricao": "5021230279",
+        "nome": "JOSE EDVAN AGRIPINO COSTA",
+        "nota": 9.125,
+        "data_nascimento": "22\/01\/2003"
+    },
+    {
+        "classificacao": 187,
+        "inscricao": "1131230529",
+        "nome": "KAUAN BRADLEY DOS SANTOS BELO",
+        "nota": 9.113,
+        "data_nascimento": "07\/09\/2002"
+    },
+    {
+        "classificacao": 188,
+        "inscricao": "4041233832",
+        "nome": "MARCOS EDUARDO DA SILVA",
+        "nota": 9.113,
+        "data_nascimento": "10\/09\/2004"
+    },
+    {
+        "classificacao": 189,
+        "inscricao": "1021234563",
+        "nome": "LUCAS TEIXEIRA PEREIRA",
+        "nota": 9.113,
+        "data_nascimento": "21\/12\/2005"
+    },
+    {
+        "classificacao": 190,
+        "inscricao": "1091230881",
+        "nome": "RYAN DE OLIVEIRA MATEUS",
+        "nota": 9.107,
+        "data_nascimento": "26\/03\/2001"
+    },
+    {
+        "classificacao": 191,
+        "nota": 9.107,
+        "data_nascimento": "19\/06\/2003"
+    },
+    {
+        "classificacao": 192,
+        "inscricao": "1071230160",
+        "nome": "BRUCE WILLIAM DE PAULA MARINS",
+        "nota": 9.107,
+        "data_nascimento": "14\/06\/2005"
+    },
+    {
+        "classificacao": 193,
+        "inscricao": "6011233205",
+        "nome": "SAYMON ARTHUR DA SILVA SOUTO",
+        "nota": 9.107,
+        "data_nascimento": "05\/01\/2006"
+    },
+    {
+        "classificacao": 194,
+        "inscricao": "1131230393",
+        "nome": "IGOR ROBERTO DA SILVA TABELINI",
+        "nota": 9.107,
+        "data_nascimento": "21\/06\/2001"
+    },
+    {
+        "classificacao": 195,
+        "inscricao": "1011231517",
+        "nome": "DAVI DE SOUZA PINTO",
+        "nota": 9.107,
+        "data_nascimento": "18\/04\/2003"
+    },
+    {
+        "classificacao": 196,
+        "inscricao": "1011236665",
+        "nome": "MURILO DE ALMEIDA GAUDARD",
+        "nota": 9.107,
+        "data_nascimento": "27\/06\/2005"
+    },
+    {
+        "classificacao": 197,
+        "inscricao": "1011236336",
+        "nome": "MATHEUS HENRIQUE DE SA GAMA DOS SANTOS",
+        "nota": 9.083,
+        "data_nascimento": "04\/02\/2003"
+    },
+    {
+        "classificacao": 198,
+        "inscricao": "1021236320",
+        "nome": "RICHARD SERRA AZEREDO",
+        "nota": 9.078,
+        "data_nascimento": "24\/05\/2004"
+    },
+    {
+        "classificacao": 199,
+        "inscricao": "3041230234",
+        "nome": "DOUGLAS LOPES CAMARA",
+        "nota": 9.078,
+        "data_nascimento": "05\/09\/2001"
+    },
+    {
+        "classificacao": 200,
+        "inscricao": "2031230405",
+        "nome": "IGOR DE OLIVEIRA BAPTISTA",
+        "nota": 9.078,
+        "data_nascimento": "20\/01\/2002"
+    },
+    {
+        "classificacao": 201,
+        "inscricao": "1021233273",
+        "nome": "JOAO VICTOR CERQUEIRA DOS SANTOS",
+        "nota": 9.078,
+        "data_nascimento": "11\/04\/2002"
+    },
+    {
+        "classificacao": 202,
+        "inscricao": "1011232299",
+        "nome": "FILIPE ZAPHIRO DA SILVA",
+        "nota": 9.078,
+        "data_nascimento": "03\/07\/2002"
+    },
+    {
+        "classificacao": 203,
+        "inscricao": "4061230470",
+        "nome": "DOUGLAS PATRICK DA SILVA NASCIMENTO",
+        "nota": 9.078,
+        "data_nascimento": "15\/08\/2002"
+    },
+    {
+        "classificacao": 204,
+        "inscricao": "1071231563",
+        "nome": "RAFAEL ALEXSANDER BORTONI DE OLIVEIRA",
+        "nota": 9.078,
+        "data_nascimento": "16\/09\/2002"
+    },
+    {
+        "classificacao": 205,
+        "inscricao": "3021232257",
+        "nome": "VINICIUS WITT DE SOUZA",
+        "nota": 9.078,
+        "data_nascimento": "27\/02\/2003"
+    },
+    {
+        "classificacao": 206,
+        "inscricao": "1061230097",
+        "nome": "ANDRE MARK SANTOS OLIVEIRA",
+        "nota": 9.078,
+        "data_nascimento": "25\/03\/2003"
+    },
+    {
+        "classificacao": 207,
+        "inscricao": "1011238187",
+        "nome": "THIAGO ANSELMO DA CRUZ",
+        "nota": 9.078,
+        "data_nascimento": "29\/03\/2003"
+    },
+    {
+        "classificacao": 208,
+        "inscricao": "7011230911",
+        "nome": "KELVY DOS SANTOS ANDRADE",
+        "nota": 9.078,
+        "data_nascimento": "18\/04\/2003"
+    },
+    {
+        "classificacao": 209,
+        "inscricao": "3021231040",
+        "nome": "JEAN TEIXEIRA MUNARETTO SILVEIRA",
+        "nota": 9.078,
+        "data_nascimento": "13\/06\/2003"
+    },
+    {
+        "classificacao": 210,
+        "inscricao": "8021231619",
+        "nome": "LUCAS FURTADO DA CUNHA",
+        "nota": 9.078,
+        "data_nascimento": "08\/10\/2004"
+    },
+    {
+        "classificacao": 211,
+        "inscricao": "7011230858",
+        "nome": "JOSE ROBERTO DURAN ANDRE JUNIOR",
+        "nota": 9.078,
+        "data_nascimento": "23\/05\/2005"
+    },
+    {
+        "classificacao": 212,
+        "inscricao": "8021231281",
+        "nome": "JOAO VITOR FERREIRA DE OLIVEIRA",
+        "nota": 9.078,
+        "data_nascimento": "05\/05\/2006"
+    },
+    {
+        "classificacao": 213,
+        "inscricao": "1021235543",
+        "nome": "NICHOLAS BITTENCOURT DA SILVA GUEDES",
+        "nota": 9.078,
+        "data_nascimento": "21\/02\/2001"
+    },
+    {
+        "classificacao": 214,
+        "inscricao": "4041231696",
+        "nome": "GABRIEL FRAGOSO GOMES DA COSTA",
+        "nota": 9.078,
+        "data_nascimento": "17\/06\/2002"
+    },
+    {
+        "classificacao": 215,
+        "inscricao": "1021235550",
+        "nome": "NICKOLAS COELHO DE MORAES DA ROCHA",
+        "nota": 9.078,
+        "data_nascimento": "01\/09\/2002"
+    },
+    {
+        "classificacao": 216,
+        "inscricao": "1011232451",
+        "nome": "GABRIEL DA SILVA GUERRA TRINDADE",
+        "nota": 9.078,
+        "data_nascimento": "09\/11\/2002"
+    },
+    {
+        "classificacao": 217,
+        "inscricao": "8011230619",
+        "nome": "JORGE LUIS BARROSO ARAUJO",
+        "nota": 9.078,
+        "data_nascimento": "06\/01\/2003"
+    },
+    {
+        "classificacao": 218,
+        "inscricao": "1131230638",
+        "nome": "LUIZ FELIPE RAMOS CHAE",
+        "nota": 9.078,
+        "data_nascimento": "12\/03\/2003"
+    },
+    {
+        "classificacao": 219,
+        "inscricao": "1081231905",
+        "nome": "RAFAEL RAMALHO LOURA FRANCA",
+        "nota": 9.078,
+        "data_nascimento": "24\/10\/2003"
+    },
+    {
+        "classificacao": 220,
+        "inscricao": "1061230481",
+        "nome": "DANIEL VILA REAL DA SILVA JACINTO",
+        "nota": 9.078,
+        "data_nascimento": "29\/04\/2004"
+    },
+    {
+        "classificacao": 221,
+        "inscricao": "1081230828",
+        "nome": "GUSTHAVO CORREIA AVELINO",
+        "nota": 9.078,
+        "data_nascimento": "11\/06\/2004"
+    },
+    {
+        "classificacao": 222,
+        "inscricao": "1021235477",
+        "nome": "MOZART IVANTES NETO",
+        "nota": 9.078,
+        "data_nascimento": "02\/02\/2005"
+    },
+    {
+        "classificacao": 223,
+        "inscricao": "2031230989",
+        "nome": "THEO SALERA",
+        "nota": 9.078,
+        "data_nascimento": "25\/07\/2005"
+    },
+    {
+        "classificacao": 224,
+        "inscricao": "1011238458",
+        "nome": "VICTOR LEANDRO FERRAZ CANDIDO",
+        "nota": 9.077,
+        "data_nascimento": "19\/04\/2000"
+    },
+    {
+        "classificacao": 225,
+        "inscricao": "1021234899",
+        "nome": "MARCOS ANTONIO MOREIRA COSTA JUNIOR",
+        "nota": 9.077,
+        "data_nascimento": "18\/05\/2000"
+    },
+    {
+        "classificacao": 226,
+        "inscricao": "4061231880",
+        "nome": "MATHEUS RODRIGUES DA SILVA",
+        "nota": 9.077,
+        "data_nascimento": "01\/02\/2001"
+    },
+    {
+        "classificacao": 227,
+        "inscricao": "1011235994",
+        "nome": "MARCOS PAULO DE OLIVEIRA SANTOS",
+        "nota": 9.077,
+        "data_nascimento": "29\/07\/2002"
+    },
+    {
+        "classificacao": 228,
+        "inscricao": "1061231085",
+        "nome": "GUILHERME MATHEUS BOATO FERREIRA",
+        "nota": 9.077,
+        "data_nascimento": "26\/03\/2003"
+    },
+    {
+        "classificacao": 229,
+        "inscricao": "1061232625",
+        "nome": "PEDRO HENRIQUE GUEDES BELO",
+        "nota": 9.077,
+        "data_nascimento": "27\/05\/2003"
+    },
+    {
+        "classificacao": 230,
+        "inscricao": "4041233916",
+        "nome": "MATEUS CAJUEIRO BARRETO",
+        "nota": 9.077,
+        "data_nascimento": "01\/07\/2003"
+    },
+    {
+        "classificacao": 231,
+        "inscricao": "4071233034",
+        "nome": "VITOR ANDRE DE CASTRO ROCHA",
+        "nota": 9.077,
+        "data_nascimento": "20\/03\/2004"
+    },
+    {
+        "classificacao": 232,
+        "inscricao": "4041230640",
+        "nome": "CAIO MARIO DE MELO MARQUES DOS SANTOS",
+        "nota": 9.077,
+        "data_nascimento": "02\/04\/2004"
+    },
+    {
+        "classificacao": 233,
+        "inscricao": "1071230716",
+        "nome": "HENRIQUE PRADO MACELLI",
+        "nota": 9.077,
+        "data_nascimento": "25\/08\/2004"
+    },
+    {
+        "classificacao": 234,
+        "inscricao": "1061230827",
+        "nome": "GABRIEL ALMEIDA DIAS",
+        "nota": 9.077,
+        "data_nascimento": "18\/09\/2004"
+    },
+    {
+        "classificacao": 235,
+        "inscricao": "1071230016",
+        "nome": "ALAN GABRIEL DE PAULA CARLI",
+        "nota": 9.077,
+        "data_nascimento": "30\/11\/2004"
+    },
+    {
+        "classificacao": 236,
+        "inscricao": "1021235907",
+        "nome": "PEDRO HENRIQUE RODRIGUES DE OLIVEIRA",
+        "nota": 9.077,
+        "data_nascimento": "30\/03\/2006"
+    },
+    {
+        "classificacao": 237,
+        "inscricao": "1021230328",
+        "nome": "ANTONIO JOSE FREITAS DE FIGUEIREDO",
+        "nota": 9.048,
+        "data_nascimento": "05\/10\/2003"
+    },
+    {
+        "classificacao": 238,
+        "inscricao": "4031230682",
+        "nome": "JOSE GUILHERME ALMEIDA DE LIMA",
+        "nota": 9.048,
+        "data_nascimento": "26\/04\/2000"
+    },
+    {
+        "classificacao": 239,
+        "inscricao": "1011237064",
+        "nome": "PEDRO FARIAS DE SOUZA",
+        "nota": 9.048,
+        "data_nascimento": "03\/08\/2002"
+    },
+    {
+        "classificacao": 240,
+        "inscricao": "7021230202",
+        "nome": "GABRIEL BRUNO KIRST ZANELA",
+        "nota": 9.048,
+        "data_nascimento": "05\/08\/2002"
+    },
+    {
+        "classificacao": 241,
+        "inscricao": "4071230093",
+        "nome": "ALYSSON SOUZA DA SILVA",
+        "nota": 9.048,
+        "data_nascimento": "12\/09\/2002"
+    },
+    {
+        "classificacao": 242,
+        "inscricao": "3051230024",
+        "nome": "ALEXANDRE CARNEIRO PAZ",
+        "nota": 9.048,
+        "data_nascimento": "29\/10\/2002"
+    },
+    {
+        "classificacao": 243,
+        "inscricao": "2011230376",
+        "nome": "CARLOS EDUARDO LIMA DE SOUSA",
+        "nota": 9.048,
+        "data_nascimento": "16\/12\/2002"
+    },
+    {
+        "classificacao": 244,
+        "inscricao": "3021230852",
+        "nome": "GUILHERME SCHULTZ GOMES",
+        "nota": 9.048,
+        "data_nascimento": "19\/12\/2002"
+    },
+    {
+        "classificacao": 245,
+        "inscricao": "1021233410",
+        "nome": "JOAO VITOR DE ALMEIDA MAIA",
+        "nota": 9.048,
+        "data_nascimento": "02\/11\/2003"
+    },
+    {
+        "classificacao": 246,
+        "inscricao": "3021230115",
+        "nome": "ANTONIO BENTO FUCHS DA SILVEIRA",
+        "nota": 9.048,
+        "data_nascimento": "27\/02\/2004"
+    },
+    {
+        "classificacao": 247,
+        "inscricao": "1011234009",
+        "nome": "JOAO PEDRO SOUSA DE ARAUJO",
+        "nota": 9.048,
+        "data_nascimento": "07\/04\/2004"
+    },
+    {
+        "classificacao": 248,
+        "inscricao": "1071231519",
+        "nome": "PEDRO HENRIQUE MOREIRA ALMEIDA",
+        "nota": 9.048,
+        "data_nascimento": "23\/10\/2004"
+    },
+    {
+        "classificacao": 249,
+        "inscricao": "4041234324",
+        "nome": "PAULO HENRIQUE BATISTA LOPES",
+        "nota": 9.048,
+        "data_nascimento": "27\/05\/2005"
+    },
+    {
+        "classificacao": 250,
+        "inscricao": "2021230126",
+        "nome": "BRUNO BARBEDO",
+        "nota": 9.048,
+        "data_nascimento": "09\/06\/2006"
+    },
+    {
+        "classificacao": 251,
+        "inscricao": "1141230434",
+        "nome": "JOAO PEDRO MEIRELLES SILVA",
+        "nota": 9.048,
+        "data_nascimento": "10\/04\/2000"
+    },
+    {
+        "classificacao": 252,
+        "inscricao": "4071231553",
+        "nome": "JOAO LUCAS CASTRO RABELO",
+        "nota": 9.048,
+        "data_nascimento": "02\/05\/2000"
+    },
+    {
+        "classificacao": 253,
+        "inscricao": "1061230939",
+        "nome": "GABRIEL MARINHO MOUS",
+        "nota": 9.048,
+        "data_nascimento": "20\/11\/2000"
+    },
+    {
+        "classificacao": 254,
+        "inscricao": "3021232153",
+        "nome": "THIAGO DANIEL ARTECHE NUNES",
+        "nota": 9.048,
+        "data_nascimento": "13\/11\/2001"
+    },
+    {
+        "classificacao": 255,
+        "inscricao": "2031230331",
+        "nome": "GUILHERME FREITAS MONTEIRO",
+        "nota": 9.048,
+        "data_nascimento": "06\/03\/2002"
+    },
+    {
+        "classificacao": 256,
+        "inscricao": "1011230558",
+        "nome": "BERNARDO AZEVEDO DE MELO MORAIS",
+        "nota": 9.048,
+        "data_nascimento": "06\/10\/2002"
+    },
+    {
+        "classificacao": 257,
+        "inscricao": "4061230956",
+        "nome": "IAGO CHIEREGATO DE LIMA",
+        "nota": 9.048,
+        "data_nascimento": "13\/01\/2003"
+    },
+    {
+        "classificacao": 258,
+        "inscricao": "1141230065",
+        "nome": "BRENO BRITO DE MORAES AZEREDO",
+        "nota": 9.048,
+        "data_nascimento": "27\/02\/2003"
+    },
+    {
+        "classificacao": 259,
+        "inscricao": "1021236177",
+        "nome": "RAUL BOTELHO DE PONTES JUNIOR",
+        "nota": 9.048,
+        "data_nascimento": "14\/03\/2003"
+    },
+    {
+        "classificacao": 260,
+        "inscricao": "3011231292",
+        "nome": "LEONARDO JAYME MALLMANN",
+        "nota": 9.048,
+        "data_nascimento": "23\/07\/2003"
+    },
+    {
+        "classificacao": 261,
+        "inscricao": "6011232087",
+        "nome": "LUCAS ARDAKI DA COSTA ALVES",
+        "nota": 9.048,
+        "data_nascimento": "20\/01\/2004"
+    },
+    {
+        "classificacao": 262,
+        "inscricao": "1011232507",
+        "nome": "GABRIEL DE SOUZA ANDRADE DE OLIVEIRA",
+        "nota": 9.048,
+        "data_nascimento": "27\/01\/2004"
+    },
+    {
+        "classificacao": 263,
+        "inscricao": "3031230472",
+        "nome": "PAULO ROBERTO PARE MARTINS FILHO",
+        "nota": 9.048,
+        "data_nascimento": "08\/02\/2004"
+    },
+    {
+        "classificacao": 264,
+        "inscricao": "4061230797",
+        "nome": "GABRIEL VICTOR CEOLIM SOUZA",
+        "nota": 9.048,
+        "data_nascimento": "16\/03\/2004"
+    },
+    {
+        "classificacao": 265,
+        "inscricao": "3011231845",
+        "nome": "PEDRO SCHULTZ ALMEIDA",
+        "nota": 9.048,
+        "data_nascimento": "05\/11\/2004"
+    },
+    {
+        "classificacao": 266,
+        "inscricao": "4041231436",
+        "nome": "EUDES VINICIUS DE OLIVEIRA NEGROMONTE",
+        "nota": 9.048,
+        "data_nascimento": "11\/05\/2005"
+    },
+    {
+        "classificacao": 267,
+        "inscricao": "1021233127",
+        "nome": "JOAO PAULO RODRIGUES VIEIRA",
+        "nota": 9.048,
+        "data_nascimento": "06\/06\/2005"
+    },
+    {
+        "classificacao": 268,
+        "inscricao": "2021231208",
+        "nome": "LUCAS EDUARDO ROCHA",
+        "nota": 9.048,
+        "data_nascimento": "06\/06\/2005"
+    },
+    {
+        "classificacao": 269,
+        "inscricao": "6011233150",
+        "nome": "SAMUEL BATISTA DE MOURA",
+        "nota": 9.048,
+        "data_nascimento": "14\/09\/2005"
+    },
+    {
+        "classificacao": 270,
+        "inscricao": "1021230107",
+        "nome": "ALEXANDER TEIXEIRA DOS SANTOS FILHO",
+        "nota": 9.048,
+        "data_nascimento": "03\/03\/2006"
+    },
+    {
+        "classificacao": 271,
+        "inscricao": "1061231477",
+        "nome": "JOAO PEDRO ROCHA DA SILVA",
+        "nota": 9.048,
+        "data_nascimento": "21\/10\/2006"
+    },
+    {
+        "classificacao": 272,
+        "inscricao": "3061231112",
+        "nome": "JOSE ALVAMIR DE CARVALHO JUNIOR",
+        "nota": 9.036,
+        "data_nascimento": "13\/03\/2001"
+    },
+    {
+        "classificacao": 273,
+        "inscricao": "1101230108",
+        "nome": "DAVI SANTOS DE ALMEIDA",
+        "nota": 9.036,
+        "data_nascimento": "11\/02\/2002"
+    },
+    {
+        "classificacao": 274,
+        "inscricao": "1071230454",
+        "nome": "FELIPE EDUARDO GUIMARAES PEREIRA",
+        "nota": 9.036,
+        "data_nascimento": "17\/06\/2003"
+    },
+    {
+        "classificacao": 275,
+        "inscricao": "4071231998",
+        "nome": "LEVY ELIAS FERREIRA MARINHO",
+        "nota": 9.036,
+        "data_nascimento": "17\/04\/2004"
+    },
+    {
+        "classificacao": 276,
+        "inscricao": "1021234767",
+        "nome": "LUIZ GUSTAVO BARBOSA RIBEIRO",
+        "nota": 9.036,
+        "data_nascimento": "07\/06\/2004"
+    },
+    {
+        "classificacao": 277,
+        "inscricao": "1021232195",
+        "nome": "GABRIEL MARTINS RODRIGUES DE SOUZA",
+        "nota": 9.036,
+        "data_nascimento": "10\/12\/2004"
+    },
+    {
+        "classificacao": 278,
+        "inscricao": "4021230890",
+        "nome": "PEDRO GABRIEL DOS SANTOS CRUZ",
+        "nota": 9.036,
+        "data_nascimento": "02\/06\/2002"
+    },
+    {
+        "classificacao": 279,
+        "inscricao": "1111230275",
+        "nome": "RYAN MATHEUS LUCAS DE LIMA",
+        "nota": 9.036,
+        "data_nascimento": "01\/09\/2002"
+    },
+    {
+        "classificacao": 280,
+        "inscricao": "1011230760",
+        "nome": "BRUNO TEOFILO SOUZA ARAUJO FURTADO",
+        "nota": 9.036,
+        "data_nascimento": "23\/11\/2003"
+    },
+    {
+        "classificacao": 281,
+        "inscricao": "6011231049",
+        "nome": "GABRIEL IZAC FELIX BARBOSA",
+        "nota": 9.018,
+        "data_nascimento": "01\/08\/2002"
+    },
+    {
+        "classificacao": 282,
+        "inscricao": "3011230612",
+        "nome": "FELIPE LARREA FERNANDES",
+        "nota": 9.018,
+        "data_nascimento": "14\/03\/2004"
+    },
+    {
+        "classificacao": 283,
+        "inscricao": "1141230705",
+        "nome": "MATHEUS DA SILVA MAGALHAES",
+        "nota": 9.018,
+        "data_nascimento": "24\/09\/2004"
+    },
+    {
+        "classificacao": 284,
+        "inscricao": "4051230069",
+        "nome": "ANDRE DE BRITO DIAS FILHO",
+        "nota": 9.018,
+        "data_nascimento": "20\/10\/2005"
+    },
+    {
+        "classificacao": 285,
+        "inscricao": "1061230832",
+        "nome": "GABRIEL ARANTES BASTIAO",
+        "data_nascimento": "15\/12\/2000",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 286,
+        "inscricao": "1121230243",
+        "nome": "IGOR MORAES DE SOUZA COSTA",
+        "data_nascimento": "02\/01\/2001",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 287,
+        "inscricao": "3021231373",
+        "nome": "LEONARDO SIQUEIRA BASTOS",
+        "data_nascimento": "04\/09\/2001",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 288,
+        "inscricao": "6011231589",
+        "nome": "JOAO PEDRO SANTOS MARCIAL GOMES",
+        "data_nascimento": "09\/08\/2002",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 289,
+        "inscricao": "3011231316",
+        "nome": "LEONARDO SOUTO VIEIRA",
+        "data_nascimento": "07\/10\/2002",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 290,
+        "inscricao": "6011232901",
+        "nome": "PEDRO PAULO DE FREITAS SANTIAGO",
+        "data_nascimento": "14\/10\/2002",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 291,
+        "inscricao": "4041234076",
+        "nome": "MATHEUS VICENTINI GRACIANO",
+        "data_nascimento": "03\/01\/2003",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 292,
+        "inscricao": "6011231293",
+        "nome": "GUSTAVO LOPES LO",
+        "data_nascimento": "31\/01\/2003",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 293,
+        "inscricao": "2031230241",
+        "nome": "FELIPE LACERDA DA CRUZ FREIRE",
+        "data_nascimento": "25\/03\/2003",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 294,
+        "inscricao": "1011232413",
+        "nome": "GABRIEL CAUA RAMOS DE CARVALHO PINTO",
+        "data_nascimento": "13\/05\/2003",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 295,
+        "inscricao": "1021233936",
+        "nome": "KAYKY ANTONIO SILVA TESTA",
+        "data_nascimento": "11\/06\/2003",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 296,
+        "inscricao": "6031230590",
+        "nome": "HYAGO MARQUES SILVA",
+        "data_nascimento": "09\/03\/2004",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 297,
+        "inscricao": "2011232872",
+        "nome": "PEDRO PAULO FIORETTO BIANCONI DE OLIVEIRA",
+        "data_nascimento": "01\/04\/2004",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 298,
+        "inscricao": "6031230096",
+        "nome": "BERNARDO DE CASTRO LINHARES MARQUES DA CRUZ",
+        "data_nascimento": "17\/04\/2004",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 299,
+        "inscricao": "2031230860",
+        "nome": "PEDRO DE PAULA RODRIGUES ALVES",
+        "data_nascimento": "23\/06\/2004",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 300,
+        "inscricao": "1061232687",
+        "nome": "PEDRO SOUZA DE VARGAS",
+        "data_nascimento": "27\/09\/2004",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 301,
+        "inscricao": "3011231360",
+        "nome": "LUCAS CARDOZO TEIXEIRA COSTA",
+        "data_nascimento": "02\/12\/2004",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 302,
+        "inscricao": "1021232772",
+        "nome": "IGOR GUIMARAES DA ROCHA",
+        "data_nascimento": "23\/08\/2005",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 303,
+        "inscricao": "5011231445",
+        "nome": "LUAN GABRIEL SOUZA DOS SANTOS",
+        "data_nascimento": "11\/11\/2005",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 304,
+        "inscricao": "6011230231",
+        "nome": "ARTHUR MARTINS CUNHA",
+        "data_nascimento": "16\/01\/2006",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 305,
+        "inscricao": "5011230143",
+        "nome": "ANDREY KALEL SOUZA SOARES",
+        "data_nascimento": "24\/01\/2006",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 306,
+        "inscricao": "1071231418",
+        "nome": "NICOLAS FORNERO NASCIMENTO",
+        "data_nascimento": "29\/03\/2006",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 307,
+        "inscricao": "1021236796",
+        "nome": "TIAGO LINS DE ARAUJO SOUSA",
+        "data_nascimento": "12\/05\/2006",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 308,
+        "inscricao": "4041235121",
+        "nome": "TIAGO JOAO DA SILVA",
+        "data_nascimento": "03\/12\/2002",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 309,
+        "inscricao": "5011232006",
+        "nome": "RIAN PABLO SENA DA SILVA",
+        "data_nascimento": "25\/04\/2001",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 310,
+        "inscricao": "4031231140",
+        "nome": "RONNY MAYCON DOS SANTOS",
+        "data_nascimento": "24\/05\/2002",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 311,
+        "inscricao": "1021233712",
+        "nome": "JULIO CESAR RODRIGUES ROCHA",
+        "data_nascimento": "12\/02\/2003",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 312,
+        "inscricao": "2011230836",
+        "nome": "FELIPPE JOSE CARVALHO NASCIMENTO",
+        "data_nascimento": "12\/04\/2003",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 313,
+        "inscricao": "3021230651",
+        "nome": "FREDERICO MONTAGNIER OLIVEIRA TADEU",
+        "data_nascimento": "16\/04\/2003",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 314,
+        "inscricao": "3021231383",
+        "nome": "LINCOLN DA SILVA BERTIM",
+        "data_nascimento": "11\/07\/2003",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 315,
+        "inscricao": "4011233936",
+        "nome": "PEDRO AMERICO RAMOS DA SILVA",
+        "data_nascimento": "05\/09\/2003"
+    },
+    {
+        "classificacao": 316,
+        "inscricao": "4071230363",
+        "nome": "CARLOS ANDRE DUARTE QUEIROZ",
+        "nota": 9.006,
+        "data_nascimento": "29\/10\/2003"
+    },
+    {
+        "classificacao": 317,
+        "inscricao": "2011232075",
+        "nome": "LUCAS DA SILVA MELO",
+        "nota": 9.006,
+        "data_nascimento": "24\/11\/2003"
+    },
+    {
+        "classificacao": 318,
+        "inscricao": "4051230979",
+        "nome": "LUCAS FIRMINO DOS SANTOS",
+        "nota": 9.006,
+        "data_nascimento": "12\/12\/2003"
+    },
+    {
+        "classificacao": 319,
+        "inscricao": "4061231982",
+        "nome": "OTONIEL KAUA DA PENHA ARAUJO",
+        "nota": 9.006,
+        "data_nascimento": "21\/01\/2005"
+    },
+    {
+        "classificacao": 320,
+        "inscricao": "1081231743",
+        "nome": "PEDRO ANDRE LIMA MENDES",
+        "nota": 9.006,
+        "data_nascimento": "21\/02\/2005"
+    },
+    {
+        "classificacao": 321,
+        "inscricao": "1071231296",
+        "nome": "MATEUS ORTELAN ARAUJO",
+        "nota": 9.006,
+        "data_nascimento": "05\/07\/2005"
+    },
+    {
+        "classificacao": 322,
+        "inscricao": "3021230155",
+        "nome": "ARTHUR SALDANHA BELMONTE",
+        "nota": 9.006,
+        "data_nascimento": "19\/08\/2005"
+    },
+    {
+        "classificacao": 323,
+        "inscricao": "3061230650",
+        "nome": "GABRIEL MOREIRA GONCALVES",
+        "nota": 9.006,
+        "data_nascimento": "31\/07\/2006"
+    },
+    {
+        "classificacao": 324,
+        "inscricao": "1061232627",
+        "nome": "PEDRO HENRIQUE MAGALDI GODOI",
+        "nota": 9.006,
+        "data_nascimento": "02\/03\/2001"
+    },
+    {
+        "classificacao": 325,
+        "inscricao": "1021231820",
+        "nome": "FELIPE OLIVEIRA DE CARVALHO",
+        "nota": 9.006,
+        "data_nascimento": "31\/03\/2002"
+    },
+    {
+        "classificacao": 326,
+        "inscricao": "5011231449",
+        "nome": "LUAN SOUZA ALEMAO",
+        "nota": 9.006,
+        "data_nascimento": "01\/02\/2003"
+    },
+    {
+        "classificacao": 327,
+        "inscricao": "1071230952",
+        "nome": "JOSE MAURO JERONIMO CARVALHO DA COSTA",
+        "nota": 9.006,
+        "data_nascimento": "30\/08\/2003"
+    },
+    {
+        "classificacao": 328,
+        "inscricao": "6011231063",
+        "nome": "GABRIEL MASCENE GOMES",
+        "nota": 9.006,
+        "data_nascimento": "18\/10\/2003"
+    },
+    {
+        "classificacao": 329,
+        "inscricao": "3011231872",
+        "nome": "RAFAEL FRYDMAN MENNA BARRETO",
+        "nota": 9.006,
+        "data_nascimento": "12\/12\/2003"
+    },
+    {
+        "classificacao": 330,
+        "inscricao": "1141230356",
+        "nome": "GYLMAR LUIS DA CONCEICAO PEREIRA DE PAULA",
+        "nota": 9.006,
+        "data_nascimento": "27\/07\/2004"
+    },
+    {
+        "classificacao": 331,
+        "inscricao": "1071230295",
+        "nome": "DANIEL MEDEIROS CAETANO",
+        "nota": 9.006,
+        "data_nascimento": "02\/10\/2004"
+    },
+    {
+        "classificacao": 332,
+        "inscricao": "1081230405",
+        "nome": "DHAVID FERREIRA DOS SANTOS",
+        "nota": 9.006,
+        "data_nascimento": "05\/05\/2005"
+    },
+    {
+        "classificacao": 333,
+        "inscricao": "1021231100",
+        "nome": "DANIEL LIMA DE PAIVA ALMEIDA",
+        "nota": 9.006,
+        "data_nascimento": "20\/05\/2005"
+    },
+    {
+        "classificacao": 334,
+        "inscricao": "2021231943",
+        "nome": "VINICIUS DA MACENO TERATO",
+        "nota": 8.988,
+        "data_nascimento": "05\/03\/2003"
+    },
+    {
+        "classificacao": 335,
+        "inscricao": "4061231285",
+        "nome": "JOAO VITOR MOSCARDI VIGARANI",
+        "nota": 8.976,
+        "data_nascimento": "08\/02\/2003"
+    },
+    {
+        "classificacao": 336,
+        "inscricao": "1081230001",
+        "nome": "ABRAAO CESARIO DUARTE MOREIRA",
+        "nota": 8.976,
+        "data_nascimento": "22\/09\/2000"
+    },
+    {
+        "classificacao": 337,
+        "inscricao": "6011232431",
+        "nome": "MARCUS VINICIUS DE SOUZA FARIA",
+        "nota": 8.976,
+        "data_nascimento": "21\/08\/2001"
+    },
+    {
+        "classificacao": 338,
+        "inscricao": "1011236936",
+        "nome": "PAULO CESAR DANTAS LOUZADA DE SOUZA",
+        "nota": 8.976,
+        "data_nascimento": "09\/07\/2002"
+    },
+    {
+        "classificacao": 339,
+        "inscricao": "1061230369",
+        "nome": "CARLOS VICTOR CUNHA DE FREITAS",
+        "nota": 8.976,
+        "data_nascimento": "16\/05\/2003"
+    },
+    {
+        "classificacao": 340,
+        "inscricao": "4041233657",
+        "nome": "LUIZ ANTONIO ALVES DA COSTA",
+        "nota": 8.976,
+        "data_nascimento": "22\/12\/2003"
+    },
+    {
+        "classificacao": 341,
+        "inscricao": "4011232568",
+        "nome": "JOAO VITOR SAMPAIO FERREIRA",
+        "nota": 8.976,
+        "data_nascimento": "15\/01\/2004"
+    },
+    {
+        "classificacao": 342,
+        "inscricao": "6011231357",
+        "nome": "HENRIQUE LIMA DE OLIVEIRA",
+        "nota": 8.976,
+        "data_nascimento": "10\/02\/2004"
+    },
+    {
+        "classificacao": 343,
+        "inscricao": "4061232417",
+        "nome": "THIAGO RAFAEL ARAUJO SOUZA",
+        "nota": 8.976,
+        "data_nascimento": "18\/05\/2005"
+    },
+    {
+        "classificacao": 344,
+        "inscricao": "1041230720",
+        "nome": "PAULO RICARDO MENDES PEREIRA",
+        "nota": 8.976,
+        "data_nascimento": "18\/10\/2000"
+    },
+    {
+        "classificacao": 345,
+        "inscricao": "1011236164",
+        "nome": "MATEUS SUASSUNA PENA",
+        "nota": 8.976,
+        "data_nascimento": "05\/11\/2000"
+    },
+    {
+        "classificacao": 346,
+        "inscricao": "1021232797",
+        "nome": "IGOR SILVA DO NASCIMENTO",
+        "nota": 8.976,
+        "data_nascimento": "15\/05\/2001"
+    },
+    {
+        "classificacao": 347,
+        "inscricao": "1071230464",
+        "nome": "FELIPE MENDONCA REIS",
+        "nota": 8.976,
+        "data_nascimento": "17\/08\/2001"
+    },
+    {
+        "classificacao": 348,
+        "inscricao": "1021232287",
+        "nome": "GABRIEL SOUZA DE ARAUJO",
+        "nota": 8.976,
+        "data_nascimento": "04\/12\/2001"
+    },
+    {
+        "classificacao": 349,
+        "inscricao": "1011235758",
+        "nome": "LUIZ FILIPE DA COSTA PEREIRA",
+        "nota": 8.976,
+        "data_nascimento": "12\/12\/2001"
+    },
+    {
+        "classificacao": 350,
+        "inscricao": "1081230844",
+        "nome": "HENRIQUE CHARLES FERNANDES CARVALHO",
+        "nota": 8.976,
+        "data_nascimento": "20\/07\/2002"
+    },
+    {
+        "classificacao": 351,
+        "inscricao": "1011235293",
+        "nome": "LUCAS DA SILVA GUERRA TRINDADE",
+        "nota": 8.976,
+        "data_nascimento": "09\/11\/2002"
+    },
+    {
+        "classificacao": 352,
+        "inscricao": "1061231291",
+        "nome": "ISRAEL DA COSTA MELO MENDES",
+        "nota": 8.976,
+        "data_nascimento": "29\/11\/2002"
+    },
+    {
+        "classificacao": 353,
+        "inscricao": "6011233192",
+        "nome": "SAMUEL VICENTINI SILVA",
+        "nota": 8.976,
+        "data_nascimento": "16\/12\/2002"
+    },
+    {
+        "classificacao": 354,
+        "inscricao": "1011238537",
+        "nome": "VINICIUS LEONARDO NUNES MORENO",
+        "nota": 8.976,
+        "data_nascimento": "31\/05\/2003"
+    },
+    {
+        "classificacao": 355,
+        "inscricao": "1021234690",
+        "nome": "LUIZ CLAUDIO REIS PENETRA JUNIOR",
+        "nota": 8.976,
+        "data_nascimento": "28\/10\/2003"
+    },
+    {
+        "classificacao": 356,
+        "inscricao": "1011238867",
+        "nome": "YAGO ALVARENGA DOS SANTOS",
+        "nota": 8.976,
+        "data_nascimento": "02\/09\/2004"
+    },
+    {
+        "classificacao": 357,
+        "inscricao": "4041230635",
+        "nome": "CAIO LEAO ATTIAS LIMA",
+        "nota": 8.976,
+        "data_nascimento": "09\/12\/2004"
+    },
+    {
+        "classificacao": 358,
+        "inscricao": "1071231810",
+        "nome": "VITOR BADARO MACHADO",
+        "nota": 8.976,
+        "data_nascimento": "12\/01\/2005"
+    },
+    {
+        "classificacao": 359,
+        "inscricao": "1051230529",
+        "nome": "HENRIQUE PIVETTA GOMES",
+        "nota": 8.976,
+        "data_nascimento": "27\/10\/2005"
+    },
+    {
+        "classificacao": 360,
+        "inscricao": "1071231111",
+        "nome": "LUCAS DE OLIVEIRA FERRAZ CONRADO",
+        "nota": 8.976,
+        "data_nascimento": "03\/05\/2006"
+    },
+    {
+        "classificacao": 361,
+        "inscricao": "1011236122",
+        "nome": "MATEUS DE DEUS SANTOS",
+        "nota": 8.964,
+        "data_nascimento": "25\/07\/2003"
+    },
+    {
+        "classificacao": 362,
+        "inscricao": "4061231600",
+        "nome": "LUCAS FERNANDES DE FARIAS MIRANDA",
+        "nota": 8.964,
+        "data_nascimento": "21\/07\/2003"
+    },
+    {
+        "classificacao": 363,
+        "inscricao": "1011231083",
+        "nome": "CAUA COLLIS CARRILHO",
+        "nota": 8.964,
+        "data_nascimento": "01\/10\/2003"
+    },
+    {
+        "classificacao": 364,
+        "inscricao": "1011236141",
+        "nome": "MATEUS LIMA REIS",
+        "nota": 8.964,
+        "data_nascimento": "18\/02\/2004"
+    },
+    {
+        "classificacao": 365,
+        "inscricao": "1071230086",
+        "nome": "ARTHUR AZEVEDO DO CARMO",
+        "nota": 8.964,
+        "data_nascimento": "29\/01\/2006"
+    },
+    {
+        "classificacao": 366,
+        "inscricao": "2021231470",
+        "nome": "MATHEUS ZERO NOIN",
+        "nota": 8.947,
+        "data_nascimento": "26\/04\/2001"
+    },
+    {
+        "classificacao": 367,
+        "inscricao": "1091230381",
+        "nome": "IGOR JOSE FERREIRA SILVA",
+        "nota": 8.935,
+        "data_nascimento": "18\/02\/2002"
+    },
+    {
+        "classificacao": 368,
+        "inscricao": "6011230157",
+        "nome": "ANGELO GIL LOPES DA CUNHA",
+        "nota": 8.935,
+        "data_nascimento": "22\/05\/2002"
+    },
+    {
+        "classificacao": 369,
+        "inscricao": "8041230719",
+        "nome": "NAHIDION PEREIRA TAVEIRA",
+        "nota": 8.935,
+        "data_nascimento": "09\/12\/2002"
+    },
+    {
+        "classificacao": 370,
+        "inscricao": "1021233543",
+        "nome": "JORGE GABRIEL BARBOSA BARRETO",
+        "nota": 8.935,
+        "data_nascimento": "05\/09\/2001"
+    },
+    {
+        "classificacao": 371,
+        "inscricao": "1021232834",
+        "nome": "ISAQUE FELIX DOS ANJOS",
+        "nota": 8.935,
+        "data_nascimento": "10\/11\/2001"
+    },
+    {
+        "classificacao": 372,
+        "inscricao": "3031230270",
+        "nome": "JOAO FRANCISCO ALBECHE CASTANHO",
+        "nota": 8.935,
+        "data_nascimento": "27\/03\/2002"
+    },
+    {
+        "classificacao": 373,
+        "inscricao": "1141230130",
+        "nome": "CRISTHIAN GIOVANNI DE CASTRO GUARINO",
+        "nota": 8.935,
+        "data_nascimento": "12\/02\/2004"
+    },
+    {
+        "classificacao": 374,
+        "inscricao": "4051230368",
+        "nome": "EZEQUIEL DE PONTES FERREIRA",
+        "nota": 8.935,
+        "data_nascimento": "15\/07\/2004"
+    },
+    {
+        "classificacao": 375,
+        "inscricao": "1071230315",
+        "nome": "DAVI ALVES DIAS",
+        "nota": 8.935,
+        "data_nascimento": "21\/09\/2005"
+    },
+    {
+        "classificacao": 376,
+        "inscricao": "4041232743",
+        "nome": "JOAO VITOR MONTEIRO SANTOS",
+        "nota": 8.935,
+        "data_nascimento": "26\/01\/2006"
+    },
+    {
+        "classificacao": 377,
+        "inscricao": "1011231482",
+        "nome": "DAVI CARVALHO MARQUES LIMA",
+        "nota": 8.935,
+        "data_nascimento": "10\/04\/2006"
+    },
+    {
+        "classificacao": 378,
+        "inscricao": "1081230030",
+        "nome": "ALDO BARBOSA CAMPOS FILHO",
+        "nota": 8.929,
+        "data_nascimento": "01\/07\/2004"
+    },
+    {
+        "classificacao": 379,
+        "inscricao": "1131230095",
+        "nome": "CAIO RODRIGUES BADARO",
+        "nota": 8.929,
+        "data_nascimento": "22\/05\/2002"
+    },
+    {
+        "classificacao": 380,
+        "inscricao": "3011231601",
+        "nome": "MATHEUS KOBER DELGADO",
+        "nota": 8.929,
+        "data_nascimento": "30\/05\/2005"
+    },
+    {
+        "classificacao": 381,
+        "inscricao": "6011232039",
+        "nome": "LEONARDO DILUCA MATEUS FERREIRA",
+        "nota": 8.929,
+        "data_nascimento": "05\/04\/2006"
+    },
+    {
+        "classificacao": 382,
+        "inscricao": "1061233112",
+        "nome": "VICTOR JULIACI NUNES",
+        "nota": 8.929,
+        "data_nascimento": "22\/06\/2004"
+    },
+    {
+        "classificacao": 383,
+        "inscricao": "1061232472",
+        "nome": "NIKOLAS DE FREITAS SILVA",
+        "nota": 8.929,
+        "data_nascimento": "16\/01\/2005"
+    },
+    {
+        "classificacao": 384,
+        "inscricao": "1061231869",
+        "nome": "LINCOLN MACHADO DOS SANTOS",
+        "nota": 8.905,
+        "data_nascimento": "25\/04\/2003"
+    },
+    {
+        "classificacao": 385,
+        "inscricao": "4031230307",
+        "nome": "ELIAS DA SILVA SOUZA",
+        "nota": 8.899,
+        "data_nascimento": "25\/11\/2001"
+    },
+    {
+        "classificacao": 386,
+        "inscricao": "1061231055",
+        "nome": "GUILHERME DE ALEXANDRIA BARROS",
+        "nota": 8.899,
+        "data_nascimento": "27\/05\/2002"
+    },
+    {
+        "classificacao": 387,
+        "inscricao": "1021234206",
+        "nome": "LUAN GAMA DE SOUZA",
+        "nota": 8.899,
+        "data_nascimento": "12\/06\/2002"
+    },
+    {
+        "classificacao": 388,
+        "inscricao": "1011238361",
+        "nome": "VICTOR BISKUP FERRAZ",
+        "nota": 8.899,
+        "data_nascimento": "11\/03\/2003"
+    },
+    {
+        "classificacao": 389,
+        "inscricao": "4061230962",
+        "nome": "IAN GERMANO CRUZ BATALHA",
+        "nota": 8.899,
+        "data_nascimento": "21\/01\/2000"
+    },
+    {
+        "classificacao": 390,
+        "inscricao": "1111230260",
+        "nome": "RAPHAEL PEIXOTO VIANA",
+        "nota": 8.899,
+        "data_nascimento": "14\/07\/2000"
+    },
+    {
+        "classificacao": 391,
+        "inscricao": "2031231091",
+        "nome": "WELLINGTON MATHEUS DA CONCEICAO SANTOS",
+        "nota": 8.899,
+        "data_nascimento": "20\/07\/2001"
+    },
+    {
+        "classificacao": 392,
+        "inscricao": "1021236521",
+        "nome": "RYAN NASCIMENTO DOS SANTOS",
+        "nota": 8.899,
+        "data_nascimento": "12\/12\/2001"
+    },
+    {
+        "classificacao": 393,
+        "inscricao": "4041234776",
+        "nome": "RODRIGO HIROSHI DE SOUZA HATORI",
+        "nota": 8.899,
+        "data_nascimento": "17\/12\/2002"
+    },
+    {
+        "classificacao": 394,
+        "inscricao": "2021230323",
+        "nome": "DIOGO LUIZ DE MELLO LIMA",
+        "nota": 8.899,
+        "data_nascimento": "04\/06\/2003"
+    },
+    {
+        "classificacao": 395,
+        "inscricao": "2011231354",
+        "nome": "HENRIQUE DA SILVA GONCALVES",
+        "nota": 8.899,
+        "data_nascimento": "14\/08\/2003"
+    },
+    {
+        "classificacao": 396,
+        "inscricao": "4081230209",
+        "nome": "CARLOS EDUARDO DOS SANTOS SOUSA",
+        "nota": 8.899,
+        "data_nascimento": "27\/01\/2004"
+    },
+    {
+        "classificacao": 397,
+        "inscricao": "4011231587",
+        "nome": "GABRIEL GUIMARAES SAMPAIO",
+        "nota": 8.899,
+        "data_nascimento": "30\/03\/2004"
+    },
+    {
+        "classificacao": 398,
+        "inscricao": "1061232024",
+        "nome": "LUCAS TEIXEIRA DE LIMA",
+        "nota": 8.899,
+        "data_nascimento": "25\/06\/2005"
+    },
+    {
+        "classificacao": 399,
+        "inscricao": "4071233094",
+        "nome": "WESLEY SILVA ALVES",
+        "nota": 8.899,
+        "data_nascimento": "31\/08\/2005"
+    },
+    {
+        "classificacao": 400,
+        "inscricao": "1021235950",
+        "nome": "PEDRO LUCAS PAES RIBEIRO",
+        "nota": 8.899,
+        "data_nascimento": "28\/11\/2005"
+    },
+    {
+        "classificacao": 401,
+        "inscricao": "1071230629",
+        "nome": "GUILHERME DE CAIRES NORONHA",
+        "nota": 8.899,
+        "data_nascimento": "10\/07\/2000"
+    },
+    {
+        "classificacao": 402,
+        "inscricao": "4071231464",
+        "desconhecido": "Jean Luigi Lima Freitas",
+        "nota": 8.899,
+        "data_nascimento": "15\/12\/2000"
+    },
+    {
+        "classificacao": 403,
+        "inscricao": "4061231938",
+        "nome": "NAIRON CAIRO GERMANO BATISTA",
+        "nota": 8.899,
+        "data_nascimento": "20\/04\/2001"
+    },
+    {
+        "classificacao": 404,
+        "inscricao": "1071230121",
+        "nome": "ARTHUR VICTOR DA SILVA ARAUJO DIAS",
+        "nota": 8.899,
+        "data_nascimento": "23\/08\/2001"
+    },
+    {
+        "classificacao": 405,
+        "inscricao": "1061231032",
+        "nome": "GLAUCIO CABRAL VIANNA",
+        "nota": 8.899,
+        "data_nascimento": "24\/06\/2002"
+    },
+    {
+        "classificacao": 406,
+        "inscricao": "7011231583",
+        "nome": "VINICIUS SANTOS DE SOUZA",
+        "nota": 8.899,
+        "data_nascimento": "24\/09\/2002"
+    },
+    {
+        "classificacao": 407,
+        "inscricao": "7011231104",
+        "nome": "MARCELO CARUSO VICTORINO DA SILVA JUNIOR",
+        "nota": 8.899,
+        "data_nascimento": "23\/05\/2004"
+    },
+    {
+        "classificacao": 408,
+        "inscricao": "3051230443",
+        "nome": "JOAO VICTOR DOS SANTOS CLARO",
+        "nota": 8.899,
+        "data_nascimento": "23\/09\/2004"
+    },
+    {
+        "classificacao": 409,
+        "inscricao": "4041234321",
+        "nome": "PAULO HENRIK ALMEIDA DE AZEVEDO",
+        "nota": 8.899,
+        "data_nascimento": "14\/08\/2005"
+    },
+    {
+        "classificacao": 410,
+        "inscricao": "1061230744",
+        "nome": "FABIO VALERIO DE ALCANTARA FILHO",
+        "nota": 8.899,
+        "data_nascimento": "09\/08\/2006"
+    },
+    {
+        "classificacao": 411,
+        "inscricao": "4061231406",
+        "nome": "JOSE VICTOR DA SILVA VIANA",
+        "nota": 8.899,
+        "data_nascimento": "09\/05\/2001"
+    },
+    {
+        "classificacao": 412,
+        "inscricao": "1141230242",
+        "nome": "FILIPE AUGUSTO DE OLIVEIRA RODRIGUES",
+        "nota": 8.899,
+        "data_nascimento": "07\/08\/2002"
+    },
+    {
+        "classificacao": 413,
+        "inscricao": "1011233947",
+        "nome": "JOAO PEDRO FERREIRA DE OLIVEIRA",
+        "nota": 8.899,
+        "data_nascimento": "07\/04\/2003"
+    },
+    {
+        "classificacao": 414,
+        "inscricao": "7011230285",
+        "nome": "DIEGO ALBERTONI DE ANDRADE",
+        "nota": 8.899,
+        "data_nascimento": "10\/07\/2003"
+    },
+    {
+        "classificacao": 415,
+        "inscricao": "4071232978",
+        "nome": "VICTOR CARVALHO SOARES",
+        "nota": 8.899,
+        "data_nascimento": "26\/11\/2003"
+    },
+    {
+        "classificacao": 416,
+        "inscricao": "2011231439",
+        "nome": "IGOR VICENTE SILVA",
+        "nota": 8.899,
+        "data_nascimento": "08\/12\/2005"
+    },
+    {
+        "classificacao": 417,
+        "inscricao": "3021231202",
+        "nome": "JOAO VITOR ROCHA LIED",
+        "nota": 8.899,
+        "data_nascimento": "09\/12\/2006"
+    },
+    {
+        "classificacao": 418,
+        "inscricao": "1061231639",
+        "nome": "JOSE VICTOR DE PAIVA DELAMARE",
+        "nota": 8.869,
+        "data_nascimento": "18\/12\/2001"
+    },
+    {
+        "classificacao": 419,
+        "inscricao": "2011230090",
+        "nome": "ALVARO CAETANO MUNIZ ZANCANARO",
+        "nota": 8.869,
+        "data_nascimento": "20\/08\/2004"
+    },
+    {
+        "classificacao": 420,
+        "inscricao": "1021230047",
+        "nome": "ALAN DO NASCIMENTO MARINS",
+        "nota": 8.869,
+        "data_nascimento": "17\/01\/2000"
+    },
+    {
+        "classificacao": 421,
+        "inscricao": "3041230982",
+        "nome": "VICTOR ARLAQUE SOARES",
+        "nota": 8.869,
+        "data_nascimento": "17\/12\/2000"
+    },
+    {
+        "classificacao": 422,
+        "inscricao": "4081230794",
+        "nome": "JOAO GABRIEL CARVALHO PEREIRA",
+        "nota": 8.869,
+        "data_nascimento": "07\/12\/2001"
+    },
+    {
+        "classificacao": 423,
+        "inscricao": "1141230865",
+        "nome": "RAMON SILVA MONTEIRO",
+        "nota": 8.869,
+        "data_nascimento": "18\/04\/2002"
+    },
+    {
+        "classificacao": 424,
+        "inscricao": "1011230830",
+        "nome": "CAIO DOS SANTOS RIBEIRO",
+        "nota": 8.869,
+        "data_nascimento": "27\/04\/2003"
+    },
+    {
+        "classificacao": 425,
+        "inscricao": "4081230387",
+        "nome": "ELIEZER RODRIGUES DOS SANTOS",
+        "nota": 8.869,
+        "data_nascimento": "14\/06\/2003"
+    },
+    {
+        "classificacao": 426,
+        "inscricao": "1021231582",
+        "nome": "ENZO BARBOSA VENTURA",
+        "nota": 8.869,
+        "data_nascimento": "12\/01\/2004"
+    },
+    {
+        "classificacao": 427,
+        "inscricao": "2031230367",
+        "nome": "GUSTAVO MONTEIRO DE PAULA",
+        "nota": 8.869,
+        "data_nascimento": "04\/03\/2004"
+    },
+    {
+        "classificacao": 428,
+        "inscricao": "1011230634",
+        "nome": "BRENO DE SOUSA SAMPAIO",
+        "nota": 8.869,
+        "data_nascimento": "14\/02\/2005"
+    },
+    {
+        "classificacao": 429,
+        "inscricao": "4041234630",
+        "nome": "RAUONNE DE CARVALHO SILVA",
+        "nota": 8.869,
+        "data_nascimento": "03\/03\/2005"
+    },
+    {
+        "classificacao": 430,
+        "inscricao": "1021234541",
+        "nome": "LUCAS SANTOS RODRIGUES",
+        "nota": 8.869,
+        "data_nascimento": "06\/08\/2000"
+    },
+    {
+        "classificacao": 431,
+        "inscricao": "2011230597",
+        "nome": "DIOGO SANTOS FERREIRA",
+        "nota": 8.869,
+        "data_nascimento": "18\/03\/2002"
+    },
+    {
+        "classificacao": 432,
+        "inscricao": "1081232283",
+        "nome": "WILLIAM LUCAS SA DE OLIVEIRA",
+        "nota": 8.869,
+        "data_nascimento": "10\/05\/2002"
+    },
+    {
+        "classificacao": 433,
+        "inscricao": "1011238022",
+        "nome": "SAMUEL BATISTA DE HOLANDA",
+        "nota": 8.869,
+        "data_nascimento": "16\/01\/2003"
+    },
+    {
+        "classificacao": 434,
+        "inscricao": "1021230624",
+        "nome": "CAIO ATILA DE LIRA SOARES",
+        "nota": 8.869,
+        "data_nascimento": "28\/03\/2003"
+    },
+    {
+        "classificacao": 435,
+        "inscricao": "1021233328",
+        "nome": "JOAO VICTOR LEVANTINO AMARO DOS SANTOS",
+        "nota": 8.869,
+        "data_nascimento": "28\/05\/2003"
+    },
+    {
+        "classificacao": 436,
+        "inscricao": "1021233330",
+        "nome": "JOAO VICTOR LIMA DE CARVALHO MARCIANO",
+        "nota": 8.869,
+        "data_nascimento": "01\/07\/2003"
+    },
+    {
+        "classificacao": 437,
+        "inscricao": "4051230209",
+        "nome": "CHRYSTTIAN VICTOR MELO ARAGAO",
+        "nota": 8.869,
+        "data_nascimento": "05\/07\/2003"
+    },
+    {
+        "classificacao": 438,
+        "inscricao": "1021236880",
+        "nome": "VICTOR GABRIELL LISBOA ALVES",
+        "nota": 8.869,
+        "data_nascimento": "06\/05\/2004"
+    },
+    {
+        "classificacao": 439,
+        "inscricao": "1021233261",
+        "nome": "JOAO VICTOR BARBOSA TEIXEIRA",
+        "nota": 8.869,
+        "data_nascimento": "08\/07\/2004"
+    },
+    {
+        "classificacao": 440,
+        "inscricao": "4051231071",
+        "nome": "MARCOS AURELIO NETO DE MORAIS",
+        "nota": 8.869,
+        "data_nascimento": "30\/10\/2004"
+    },
+    {
+        "classificacao": 441,
+        "inscricao": "1131230220",
+        "nome": "FELIPE COSTA PEIXOTO",
+        "nota": 8.869,
+        "data_nascimento": "17\/11\/2004"
+    },
+    {
+        "classificacao": 442,
+        "inscricao": "1021232432",
+        "nome": "GUILHERME MOURA DOS SANTOS",
+        "nota": 8.869,
+        "data_nascimento": "15\/12\/2004"
+    },
+    {
+        "classificacao": 443,
+        "inscricao": "4051230701",
+        "nome": "JOAO PEREIRA DE OLIVEIRA NETO",
+        "nota": 8.869,
+        "data_nascimento": "24\/12\/2004"
+    },
+    {
+        "classificacao": 444,
+        "inscricao": "6011230296",
+        "nome": "BRENO PINHEIRO PITAMEIA",
+        "nota": 8.869,
+        "data_nascimento": "29\/04\/2005"
+    },
+    {
+        "classificacao": 445,
+        "inscricao": "1021232589",
+        "nome": "GUSTAVO MONTEIRO ROSARIO NICOLAU",
+        "nota": 8.869,
+        "data_nascimento": "26\/07\/2005"
+    },
+    {
+        "classificacao": 446,
+        "inscricao": "1011232833",
+        "nome": "GABRIEL WILLIANS SOUZA DOS SANTOS",
+        "nota": 8.869,
+        "data_nascimento": "08\/08\/2005"
+    },
+    {
+        "classificacao": 447,
+        "inscricao": "2021231605",
+        "nome": "PEDRO AUGUSTO ROSA DOS SANTOS",
+        "nota": 8.869,
+        "data_nascimento": "08\/02\/2006"
+    },
+    {
+        "classificacao": 448,
+        "inscricao": "4011230514",
+        "nome": "CAIO EMANOEL CAVALCANTE LOPES",
+        "nota": 8.869,
+        "data_nascimento": "15\/06\/2006"
+    },
+    {
+        "classificacao": 449,
+        "inscricao": "4061230267",
+        "nome": "CAIO VINICIUS BARROS DE SOUSA",
+        "nota": 8.869,
+        "data_nascimento": "27\/02\/2000"
+    },
+    {
+        "classificacao": 450,
+        "inscricao": "1081231455",
+        "nome": "MARCO TULIO DIAS MACHADO BASTOS FERREIRA",
+        "nota": 8.869,
+        "data_nascimento": "10\/07\/2001"
+    },
+    {
+        "classificacao": 451,
+        "inscricao": "1021236392",
+        "nome": "RODRIGO LEAL DE SOUZA",
+        "nota": 8.869,
+        "data_nascimento": "10\/01\/2002"
+    },
+    {
+        "classificacao": 452,
+        "inscricao": "4061231262",
+        "nome": "JOAO VICTOR LEITE CUNHA SILVA",
+        "nota": 8.869,
+        "data_nascimento": "08\/05\/2002"
+    },
+    {
+        "classificacao": 453,
+        "inscricao": "1061231514",
+        "nome": "JOAO VICTOR FONSECA DA SILVA",
+        "nota": 8.869,
+        "data_nascimento": "04\/11\/2002"
+    },
+    {
+        "classificacao": 454,
+        "inscricao": "1061231550",
+        "nome": "JOAO VITOR ALVES LIMA",
+        "nota": 8.869,
+        "data_nascimento": "09\/11\/2002"
+    },
+    {
+        "classificacao": 455,
+        "inscricao": "4081231094",
+        "nome": "LUAN DAVI SOUSA",
+        "nota": 8.869,
+        "data_nascimento": "25\/08\/2003"
+    },
+    {
+        "classificacao": 456,
+        "inscricao": "1021234406",
+        "nome": "LUCAS GABRIEL DE OLIVEIRA DA SILVA DUARTE",
+        "nota": 8.869,
+        "data_nascimento": "21\/11\/2004"
+    },
+    {
+        "classificacao": 457,
+        "inscricao": "3011230697",
+        "nome": "GABRIEL EDUARDO GOTTLIEB IGNACIO",
+        "nota": 8.869,
+        "data_nascimento": "27\/06\/2005"
+    },
+    {
+        "classificacao": 458,
+        "inscricao": "1051230274",
+        "nome": "DIOGO ALVES PEREIRA ADAO",
+        "nota": 8.869,
+        "data_nascimento": "17\/07\/2005"
+    },
+    {
+        "classificacao": 459,
+        "inscricao": "1011234627",
+        "nome": "KAIKY CANAVARRO MANGIA",
+        "nota": 8.869,
+        "data_nascimento": "03\/04\/2006"
+    },
+    {
+        "classificacao": 460,
+        "inscricao": "1151230009",
+        "nome": "ANDRE LUCAS BARCELLOS GUEDES",
+        "nota": 8.857,
+        "data_nascimento": "03\/12\/2003"
+    },
+    {
+        "classificacao": 461,
+        "inscricao": "4071231457",
+        "nome": "JARDEL GREGORIO ALVES DA SILVA",
+        "nota": 8.857,
+        "data_nascimento": "04\/08\/2004"
+    },
+    {
+        "classificacao": 462,
+        "inscricao": "1011237188",
+        "nome": "PEDRO HENRIQUE GOES DE SOUZA",
+        "nota": 8.857,
+        "data_nascimento": "21\/07\/2005"
+    },
+    {
+        "classificacao": 463,
+        "inscricao": "6011230925",
+        "nome": "FILIPE ARAUJO DA SILVA",
+        "nota": 8.857,
+        "data_nascimento": "25\/05\/2001"
+    },
+    {
+        "classificacao": 464,
+        "inscricao": "2011230001",
+        "nome": "AARON FERRAZ DO AMARAL MARTINS DA SILVA",
+        "nota": 8.857,
+        "data_nascimento": "01\/09\/2004"
+    },
+    {
+        "classificacao": 465,
+        "inscricao": "3031230291",
+        "nome": "JOAO VITOR FELLI DOS SANTOS",
+        "nota": 8.857,
+        "data_nascimento": "23\/11\/2004"
+    },
+    {
+        "classificacao": 466,
+        "inscricao": "4061231505",
+        "nome": "KEVIN LEANDRO ALVES TAVARES",
+        "nota": 8.839,
+        "data_nascimento": "29\/03\/2004"
+    },
+    {
+        "classificacao": 467,
+        "inscricao": "4011234580",
+        "nome": "THIAGO PIRES PEREIRA",
+        "nota": 8.839,
+        "data_nascimento": "12\/05\/2005"
+    },
+    {
+        "classificacao": 468,
+        "inscricao": "1011236459",
+        "nome": "MATHEUS SOARES RODRIGUES",
+        "nota": 8.839,
+        "data_nascimento": "04\/07\/2001"
+    },
+    {
+        "classificacao": 469,
+        "inscricao": "1011233824",
+        "nome": "JOAO MARCELO VIEIRA ARAUJO",
+        "nota": 8.839,
+        "data_nascimento": "23\/07\/2002"
+    },
+    {
+        "classificacao": 470,
+        "inscricao": "3061231146",
+        "nome": "JULIO CESAR BOMPEIXE SANTOS",
+        "nota": 8.839,
+        "data_nascimento": "17\/04\/2003"
+    },
+    {
+        "classificacao": 471,
+        "inscricao": "3011231802",
+        "nome": "PEDRO GONZALEZ DA SILVA LORENZ",
+        "data_nascimento": "05\/10\/2003",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 472,
+        "inscricao": "1061232719",
+        "nome": "RAFAEL FERREIRA DA SILVA",
+        "data_nascimento": "10\/10\/2003",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 473,
+        "inscricao": "1041230654",
+        "nome": "MATHEUS REIS DE OLIVEIRA",
+        "data_nascimento": "03\/02\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 474,
+        "inscricao": "4041233405",
+        "nome": "LUCAS AUGUSTO DO NASCIMENTO SILVA",
+        "data_nascimento": "04\/02\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 475,
+        "inscricao": "3041231005",
+        "nome": "VINICIUS FERNANDES DOMINGOS",
+        "data_nascimento": "11\/04\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 476,
+        "inscricao": "6011230006",
+        "nome": "ABRAAO FERNANDES OLIVEIRA",
+        "data_nascimento": "24\/05\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 477,
+        "inscricao": "7011230059",
+        "nome": "ANDREY PAIVA DE FREITAS",
+        "data_nascimento": "11\/02\/2005",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 478,
+        "inscricao": "1061230824",
+        "nome": "GABRIEL ALBUQUERQUE DA SILVA",
+        "data_nascimento": "05\/03\/2005",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 479,
+        "inscricao": "1021230907",
+        "nome": "CAUA MUNIZ MARINHO DA SILVA",
+        "data_nascimento": "15\/04\/2005",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 480,
+        "inscricao": "4041233393",
+        "nome": "LUCAS ALEXANDRE FALCAO DOS SANTOS",
+        "data_nascimento": "01\/10\/2005",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 481,
+        "inscricao": "1081230144",
+        "nome": "ARTHUR HENRIQUE DE SOUSA DUTRA",
+        "data_nascimento": "17\/03\/2006",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 482,
+        "inscricao": "1021231556",
+        "nome": "EMANUEL NASCIMENTO PECANHA SILVA",
+        "data_nascimento": "03\/11\/2001",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 483,
+        "inscricao": "1011233194",
+        "nome": "GUSTAVO MANOEL VIEIRA DA SILVA",
+        "data_nascimento": "03\/07\/2003",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 484,
+        "inscricao": "3061230357",
+        "nome": "DIOGO ALBERTI FERREIRA",
+        "data_nascimento": "31\/10\/2003",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 485,
+        "inscricao": "4071230340",
+        "nome": "CAIO MATHEUS EVANGELISTA DE ARAUJO",
+        "data_nascimento": "02\/01\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 486,
+        "inscricao": "1021234295",
+        "nome": "LUCAS COSTA MARQUES DE ARAUJO",
+        "data_nascimento": "10\/04\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 487,
+        "inscricao": "4011231599",
+        "nome": "GABRIEL MENEZES SOUZA",
+        "data_nascimento": "12\/05\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 488,
+        "inscricao": "1021230416",
+        "nome": "ARTHUR VINICIUS NERY MENDES",
+        "data_nascimento": "23\/06\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 489,
+        "inscricao": "1071230433",
+        "nome": "ESDRAS KUPPER NAKAIONE",
+        "data_nascimento": "03\/09\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 490,
+        "inscricao": "2031230328",
+        "nome": "GUILHERME DORTE DA SILVA",
+        "data_nascimento": "10\/01\/2005",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 491,
+        "inscricao": "1011235901",
+        "nome": "MARCELO LAGES MACHADO DE OLIVEIRA",
+        "data_nascimento": "29\/07\/2005",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 492,
+        "inscricao": "3021231400",
+        "nome": "LORENZO KREWER MARTINS",
+        "data_nascimento": "14\/02\/2006",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 493,
+        "inscricao": "1061232711",
+        "nome": "RAFAEL DA COSTA TAVARES DE MATTOS",
+        "data_nascimento": "21\/01\/2002",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 494,
+        "inscricao": "6031231377",
+        "nome": "THIAGO NUNES SOUZA SOARES",
+        "data_nascimento": "14\/10\/2003",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 495,
+        "inscricao": "3021230773",
+        "nome": "GIAN DENARDI PARCIANELLO",
+        "data_nascimento": "27\/03\/2001",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 496,
+        "inscricao": "3011230633",
+        "nome": "FELIPE SOARES DE ALBUQUERQUE",
+        "data_nascimento": "05\/04\/2001",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 497,
+        "inscricao": "1011230880",
+        "nome": "CAIO LUCCAS LIMA DE FARIAS",
+        "data_nascimento": "30\/07\/2001",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 498,
+        "inscricao": "3011231817",
+        "nome": "PEDRO HENRIQUE DELUCA JOAO",
+        "data_nascimento": "30\/09\/2002",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 499,
+        "inscricao": "1061230289",
+        "nome": "CAIO MEIRELLES GOMES DO NASCIMENTO",
+        "data_nascimento": "22\/10\/2002",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 500,
+        "inscricao": "1091230818",
+        "nome": "PEDRO LUCAS SILVA DE SOUZA",
+        "data_nascimento": "23\/05\/2003",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 501,
+        "inscricao": "4041231956",
+        "nome": "GUILHERME SANTOS ROQUE CAPITULINO DE QUEIROZ",
+        "data_nascimento": "17\/12\/2003",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 502,
+        "inscricao": "1071231867",
+        "nome": "YAGON ENES MENEZES",
+        "nota": 8.828,
+        "data_nascimento": "13\/03\/2004"
+    },
+    {
+        "classificacao": 503,
+        "inscricao": "5021230420",
+        "nome": "PEDRO HENRIQUE ROCHA DA SILVA",
+        "nota": 8.828,
+        "data_nascimento": "19\/03\/2004"
+    },
+    {
+        "classificacao": 504,
+        "inscricao": "1021232682",
+        "nome": "HIGOR GARCIA BRANCO DOS REIS",
+        "nota": 8.828,
+        "data_nascimento": "16\/06\/2004"
+    },
+    {
+        "classificacao": 505,
+        "inscricao": "1011236194",
+        "nome": "MATHEUS ARAUJO DE SOUSA",
+        "nota": 8.828,
+        "data_nascimento": "20\/05\/2005"
+    },
+    {
+        "classificacao": 506,
+        "inscricao": "1021235226",
+        "nome": "MATHEUS HENRIQUE LIMA DE AZEVEDO",
+        "nota": 8.828,
+        "data_nascimento": "26\/04\/2001"
+    },
+    {
+        "classificacao": 507,
+        "inscricao": "1061231380",
+        "nome": "JOAO HENRIQUE DE FREITAS CERQUEIRA",
+        "nota": 8.828,
+        "data_nascimento": "11\/11\/2002"
+    },
+    {
+        "classificacao": 508,
+        "inscricao": "1021232476",
+        "nome": "GUILHERME SANTOS COUTINHO",
+        "nota": 8.828,
+        "data_nascimento": "06\/04\/2004"
+    },
+    {
+        "classificacao": 509,
+        "inscricao": "8021231485",
+        "nome": "KAYO RUBEM PINTO XERFAN",
+        "nota": 8.828,
+        "data_nascimento": "09\/12\/2004"
+    },
+    {
+        "classificacao": 510,
+        "inscricao": "4061231766",
+        "nome": "MARCOS CRUZ DO NASCIMENTO",
+        "nota": 8.827,
+        "data_nascimento": "14\/04\/2002"
+    },
+    {
+        "classificacao": 511,
+        "inscricao": "8041230701",
+        "nome": "MAYCON WILLIAN DA SILVA SOUZA",
+        "nota": 8.827,
+        "data_nascimento": "03\/08\/2002"
+    },
+    {
+        "classificacao": 512,
+        "inscricao": "1091230244",
+        "nome": "GABRIEL ANDRADE FLORIANO",
+        "nota": 8.827,
+        "data_nascimento": "25\/08\/2004"
+    },
+    {
+        "classificacao": 513,
+        "inscricao": "1011231405",
+        "nome": "DANIEL VICTOR DOS SANTOS E SILVA",
+        "nota": 8.81,
+        "data_nascimento": "29\/08\/2000"
+    },
+    {
+        "classificacao": 514,
+        "inscricao": "4061230248",
+        "nome": "CAIO ALEXSANDER CALDERON CAVALCANTI",
+        "nota": 8.81,
+        "data_nascimento": "30\/04\/2004"
+    },
+    {
+        "classificacao": 515,
+        "inscricao": "1021234605",
+        "nome": "LUIS BERNARDO DE REZENDE TEBALDI",
+        "nota": 8.81,
+        "data_nascimento": "23\/01\/2005"
+    },
+    {
+        "classificacao": 516,
+        "inscricao": "1021231034",
+        "nome": "DANIEL ABREU SOUZA",
+        "nota": 8.81,
+        "data_nascimento": "21\/02\/2001"
+    },
+    {
+        "classificacao": 517,
+        "inscricao": "2031230950",
+        "nome": "RODRIGO HENRIQUE FERRAZ",
+        "nota": 8.81,
+        "data_nascimento": "12\/11\/2003"
+    },
+    {
+        "classificacao": 518,
+        "inscricao": "1021235783",
+        "nome": "PEDRO BORGES NOBRE",
+        "nota": 8.81,
+        "data_nascimento": "18\/07\/2004"
+    },
+    {
+        "classificacao": 519,
+        "inscricao": "1071231712",
+        "nome": "TALES FERREIRA RODRIGUES",
+        "nota": 8.81,
+        "data_nascimento": "17\/12\/2004"
+    },
+    {
+        "classificacao": 520,
+        "inscricao": "1021234841",
+        "nome": "MARCELO CARLETTI FILHO",
+        "nota": 8.81,
+        "data_nascimento": "29\/06\/2005"
+    },
+    {
+        "classificacao": 521,
+        "inscricao": "3041230963",
+        "nome": "THOMAS AFONSO KATH",
+        "nota": 8.798,
+        "data_nascimento": "17\/07\/2001"
+    },
+    {
+        "classificacao": 522,
+        "inscricao": "1011232488",
+        "nome": "GABRIEL DE JESUS MENDONCA DA SILVA",
+        "nota": 8.798,
+        "data_nascimento": "31\/08\/2004"
+    },
+    {
+        "classificacao": 523,
+        "inscricao": "1071231480",
+        "nome": "PEDRO CURCINO SOARES MARTINS",
+        "nota": 8.798,
+        "data_nascimento": "13\/08\/2001"
+    },
+    {
+        "classificacao": 524,
+        "inscricao": "3011230791",
+        "nome": "GUILHERME DA SILVA AFFELDT",
+        "nota": 8.798,
+        "data_nascimento": "26\/11\/2001"
+    },
+    {
+        "classificacao": 525,
+        "inscricao": "3011231411",
+        "nome": "LUCAS PAGANELLA MACHADO",
+        "nota": 8.798,
+        "data_nascimento": "04\/03\/2002"
+    },
+    {
+        "classificacao": 526,
+        "inscricao": "1011230736",
+        "nome": "BRUNO MATEUS PEREIRA DE CASTRO",
+        "nota": 8.798,
+        "data_nascimento": "26\/06\/2002"
+    },
+    {
+        "classificacao": 527,
+        "inscricao": "3051230652",
+        "nome": "MATHEUS CESAR TAVARES PINTO DE SOUZA",
+        "nota": 8.798,
+        "data_nascimento": "28\/11\/2002"
+    },
+    {
+        "classificacao": 528,
+        "inscricao": "1021230747",
+        "nome": "CAIQUE DE MOURA DA SILVA",
+        "nota": 8.798,
+        "data_nascimento": "11\/07\/2003"
+    },
+    {
+        "classificacao": 529,
+        "inscricao": "1011232814",
+        "nome": "GABRIEL TROIAN DE SOUZA",
+        "nota": 8.798,
+        "data_nascimento": "28\/10\/2003"
+    },
+    {
+        "classificacao": 530,
+        "inscricao": "8011230693",
+        "nome": "KELISSON MARCOS SILVA SOARES",
+        "nota": 8.798,
+        "data_nascimento": "25\/02\/2004"
+    },
+    {
+        "classificacao": 531,
+        "inscricao": "1071230524",
+        "nome": "GABRIEL DE OLIVEIRA BARRETO",
+        "nota": 8.798,
+        "data_nascimento": "30\/03\/2004"
+    },
+    {
+        "classificacao": 532,
+        "inscricao": "1021235363",
+        "nome": "MAXWELL DE PAIVA SERAPIAO",
+        "nota": 8.798,
+        "data_nascimento": "29\/05\/2004"
+    },
+    {
+        "classificacao": 533,
+        "inscricao": "1021233831",
+        "nome": "KAUA DO PRADO REENTROE BENTO",
+        "nota": 8.798,
+        "data_nascimento": "27\/07\/2004"
+    },
+    {
+        "classificacao": 534,
+        "inscricao": "1021233005",
+        "nome": "JOAO EDUARDO CONCEICAO DE SANTANA",
+        "nota": 8.798,
+        "data_nascimento": "05\/11\/2004"
+    },
+    {
+        "classificacao": 535,
+        "inscricao": "1061231467",
+        "nome": "JOAO PEDRO MARINS PASSOS",
+        "nota": 8.798,
+        "data_nascimento": "01\/09\/2005"
+    },
+    {
+        "classificacao": 536,
+        "inscricao": "7011231030",
+        "nome": "LUCAS NOGUEIRA NEIVA",
+        "nota": 8.798,
+        "data_nascimento": "15\/09\/2005"
+    },
+    {
+        "classificacao": 537,
+        "inscricao": "6011233074",
+        "nome": "RODRIGO ESTEVAO OLIVEIRA",
+        "nota": 8.798,
+        "data_nascimento": "11\/10\/2005"
+    },
+    {
+        "classificacao": 538,
+        "inscricao": "4061231215",
+        "nome": "JOAO PEDRO OLIVEIRA SANTOS DE SOUZA",
+        "nota": 8.798,
+        "data_nascimento": "24\/01\/2001"
+    },
+    {
+        "classificacao": 539,
+        "inscricao": "3011230721",
+        "nome": "GABRIEL MARQUES DE MOURA",
+        "nota": 8.798,
+        "data_nascimento": "14\/12\/2001"
+    },
+    {
+        "classificacao": 540,
+        "inscricao": "1141230639",
+        "nome": "LUIZ FELIPE FORTUNATO PEREIRA",
+        "nota": 8.798,
+        "data_nascimento": "10\/04\/2002"
+    },
+    {
+        "classificacao": 541,
+        "inscricao": "1021236283",
+        "nome": "RICARDO AUGUSTO PEREIRA NOVAIS",
+        "nota": 8.798,
+        "data_nascimento": "16\/05\/2002"
+    },
+    {
+        "classificacao": 542,
+        "inscricao": "1011230637",
+        "nome": "BRENO DO MONTE CARBONE",
+        "nota": 8.798,
+        "data_nascimento": "06\/12\/2002"
+    },
+    {
+        "classificacao": 543,
+        "inscricao": "4041232094",
+        "nome": "HIGOR BRUNO MELO DA SILVA",
+        "nota": 8.798,
+        "data_nascimento": "18\/05\/2003"
+    },
+    {
+        "classificacao": 544,
+        "inscricao": "7011230740",
+        "nome": "JOAO GUILHERME DE SOUZA BARBOZA",
+        "nota": 8.798,
+        "data_nascimento": "22\/12\/2003"
+    },
+    {
+        "classificacao": 545,
+        "inscricao": "1021235167",
+        "nome": "MATHEUS DE SOUZA LAGO",
+        "nota": 8.798,
+        "data_nascimento": "13\/01\/2004"
+    },
+    {
+        "classificacao": 546,
+        "inscricao": "1021234815",
+        "nome": "LYNCON LUIZ PIMENTA SANTOS",
+        "nota": 8.798,
+        "data_nascimento": "07\/04\/2004"
+    },
+    {
+        "classificacao": 547,
+        "inscricao": "1011237232",
+        "nome": "PEDRO HENRIQUE QUEIROZ DAMASCENO",
+        "nota": 8.798,
+        "data_nascimento": "17\/05\/2004"
+    },
+    {
+        "classificacao": 548,
+        "inscricao": "1061230460",
+        "nome": "DANIEL LIMA TULER CHAVES",
+        "nota": 8.798,
+        "data_nascimento": "26\/05\/2004"
+    },
+    {
+        "classificacao": 549,
+        "inscricao": "1061232758",
+        "nome": "RAPHAEL LIMA SANTA RITA",
+        "nota": 8.798,
+        "data_nascimento": "08\/06\/2004"
+    },
+    {
+        "classificacao": 550,
+        "inscricao": "4011233888",
+        "nome": "PAULO GUILHERME NUNES DA ROCHA",
+        "nota": 8.798,
+        "data_nascimento": "07\/07\/2005"
+    },
+    {
+        "classificacao": 551,
+        "inscricao": "4071230094",
+        "nome": "ALYSSON WENDER ALBUQUERQUE",
+        "nota": 8.798,
+        "data_nascimento": "06\/09\/2005"
+    },
+    {
+        "classificacao": 552,
+        "inscricao": "6011233434",
+        "nome": "VITOR HUGO DA SILVA VENCESLAU",
+        "nota": 8.798,
+        "data_nascimento": "23\/09\/2005"
+    },
+    {
+        "classificacao": 553,
+        "inscricao": "1041230236",
+        "nome": "GABRIEL CARVALHO DA ROCHA",
+        "nota": 8.798,
+        "data_nascimento": "08\/11\/2005"
+    },
+    {
+        "classificacao": 554,
+        "inscricao": "1101230462",
+        "nome": "MARCUS VINICIUS DE MELO JUNIOR",
+        "nota": 8.786,
+        "data_nascimento": "01\/03\/2004"
+    },
+    {
+        "classificacao": 555,
+        "inscricao": "6031231205",
+        "nome": "PAULO SERGIO FINOTTI ARAUJO",
+        "nota": 8.786,
+        "data_nascimento": "11\/01\/2002"
+    },
+    {
+        "classificacao": 556,
+        "inscricao": "3021231251",
+        "nome": "JUAN KERPEL CASSOL",
+        "nota": 8.786,
+        "data_nascimento": "14\/03\/2005"
+    },
+    {
+        "classificacao": 557,
+        "inscricao": "3061230571",
+        "nome": "FILIPE FRANKLIN DE BRITO AZEVEDO",
+        "nota": 8.78,
+        "data_nascimento": "16\/05\/2002"
+    },
+    {
+        "classificacao": 558,
+        "inscricao": "1011233676",
+        "nome": "JHONATAN LUIS QUITES SIMPLICIO",
+        "nota": 8.78,
+        "data_nascimento": "04\/03\/2005"
+    },
+    {
+        "classificacao": 559,
+        "inscricao": "2021231372",
+        "nome": "MATEUS ALMEIDA BERTI",
+        "nota": 8.768,
+        "data_nascimento": "15\/02\/2006"
+    },
+    {
+        "classificacao": 560,
+        "inscricao": "1141230204",
+        "nome": "EMERSON PEREIRA NICOLAU",
+        "nota": 8.768,
+        "data_nascimento": "10\/07\/2000"
+    },
+    {
+        "classificacao": 561,
+        "inscricao": "4041231513",
+        "nome": "FABRICIO FERNANDES PONTES DOS SANTOS",
+        "nota": 8.768,
+        "data_nascimento": "28\/07\/2001"
+    },
+    {
+        "classificacao": 562,
+        "inscricao": "1011230764",
+        "nome": "BRUNO VINICIUS DA ROCHA ALVES",
+        "nota": 8.768,
+        "data_nascimento": "09\/10\/2001"
+    },
+    {
+        "classificacao": 563,
+        "inscricao": "1021231447",
+        "nome": "EDGARD OLIVEIRA DA SILVA",
+        "nota": 8.768,
+        "data_nascimento": "09\/04\/2002"
+    },
+    {
+        "classificacao": 564,
+        "inscricao": "1141230633",
+        "nome": "LUIZ DANIEL DOS SANTOS CORREA",
+        "nota": 8.768,
+        "data_nascimento": "17\/05\/2002"
+    },
+    {
+        "classificacao": 565,
+        "inscricao": "6011230722",
+        "nome": "EDUARDO DE SOUSA FERREIRA",
+        "nota": 8.768,
+        "data_nascimento": "06\/03\/2003"
+    },
+    {
+        "classificacao": 566,
+        "inscricao": "3021230060",
+        "nome": "ALEXANDRE ZIEGLER REGINATO",
+        "nota": 8.768,
+        "data_nascimento": "11\/08\/2003"
+    },
+    {
+        "classificacao": 567,
+        "inscricao": "4011230381",
+        "nome": "ARTHUR SOUZA FERNANDES",
+        "nota": 8.768,
+        "data_nascimento": "28\/12\/2003"
+    },
+    {
+        "classificacao": 568,
+        "inscricao": "6031231123",
+        "nome": "MATHEUS SALES DAMASCENO",
+        "nota": 8.768,
+        "data_nascimento": "09\/01\/2004"
+    },
+    {
+        "classificacao": 569,
+        "inscricao": "1021237069",
+        "nome": "VITOR ENRIQUE GUIMARAES SOUSA",
+        "nota": 8.768,
+        "data_nascimento": "07\/04\/2004"
+    },
+    {
+        "classificacao": 570,
+        "inscricao": "1021235349",
+        "nome": "MAURICIO ROBERTO CARVALHO DE SOUZA JUNIOR",
+        "nota": 8.768,
+        "data_nascimento": "15\/04\/2004"
+    },
+    {
+        "classificacao": 571,
+        "inscricao": "1021235372",
+        "nome": "MAYCON DO NASCIMENTO BARBOSA",
+        "nota": 8.756,
+        "data_nascimento": "03\/10\/2000"
+    },
+    {
+        "classificacao": 572,
+        "inscricao": "4071231657",
+        "nome": "JOAO VINICIUS PAIVA LAURENTINO",
+        "nota": 8.756,
+        "data_nascimento": "20\/12\/2002"
+    },
+    {
+        "classificacao": 573,
+        "inscricao": "4031230615",
+        "nome": "JOAO VINICIUS DOS SANTOS OLIVEIRA",
+        "nota": 8.756,
+        "data_nascimento": "21\/02\/2003"
+    },
+    {
+        "classificacao": 574,
+        "inscricao": "4061232480",
+        "nome": "VICTOR RAFAEL DA ROCHA",
+        "nota": 8.756,
+        "data_nascimento": "15\/10\/2003"
+    },
+    {
+        "classificacao": 575,
+        "inscricao": "7011231270",
+        "nome": "NICOLAS BERNARDO WEIS KIPPER",
+        "nota": 8.756,
+        "data_nascimento": "30\/10\/2003"
+    },
+    {
+        "classificacao": 576,
+        "inscricao": "1131230336",
+        "nome": "GUILHERME DE ALMEIDA MELLO PEREIRA",
+        "nota": 8.756,
+        "data_nascimento": "26\/11\/2003"
+    },
+    {
+        "classificacao": 577,
+        "inscricao": "4041230444",
+        "nome": "ARTHUR GABRIEL ALVES SOARES",
+        "nota": 8.756,
+        "data_nascimento": "23\/12\/2004"
+    },
+    {
+        "classificacao": 578,
+        "inscricao": "4071231588",
+        "nome": "JOAO PAULO DA SILVA GOMES",
+        "nota": 8.756,
+        "data_nascimento": "31\/08\/2005"
+    },
+    {
+        "classificacao": 579,
+        "inscricao": "4061232135",
+        "nome": "PEDRO PAULO COUTINHO BARBOSA",
+        "nota": 8.756,
+        "data_nascimento": "22\/03\/2000"
+    },
+    {
+        "classificacao": 580,
+        "inscricao": "6031231010",
+        "nome": "LUIZ GUSTAVO ARAUJO ROCHA",
+        "nota": 8.756,
+        "data_nascimento": "08\/12\/2002"
+    },
+    {
+        "classificacao": 581,
+        "inscricao": "1021234510",
+        "nome": "LUCAS PAULO DE ARAUJO SOARES",
+        "nota": 8.756,
+        "data_nascimento": "01\/05\/2003"
+    },
+    {
+        "classificacao": 582,
+        "inscricao": "5031230210",
+        "nome": "MATHEUS HENRIQUE DA SILVA CAMPOS",
+        "nota": 8.756,
+        "data_nascimento": "04\/03\/2004"
+    },
+    {
+        "classificacao": 583,
+        "inscricao": "2031230129",
+        "nome": "DANIEL ALEIXO RODRIGUES BARBOSA",
+        "nota": 8.756,
+        "data_nascimento": "18\/03\/2004"
+    },
+    {
+        "classificacao": 584,
+        "inscricao": "3041230386",
+        "nome": "GUILHERME DAL PUPPO PELISSER",
+        "nota": 8.756,
+        "data_nascimento": "28\/12\/2004"
+    },
+    {
+        "classificacao": 585,
+        "inscricao": "1021232803",
+        "nome": "ISAAC AZEVEDO DE BARROS",
+        "nota": 8.756,
+        "data_nascimento": "10\/07\/2005"
+    },
+    {
+        "classificacao": 586,
+        "inscricao": "7011230408",
+        "nome": "FELIPE FARIAS BRANDAO",
+        "nota": 8.756,
+        "data_nascimento": "05\/07\/2006"
+    },
+    {
+        "classificacao": 587,
+        "inscricao": "6011230213",
+        "nome": "ARTHUR DO CARMO SANTOS",
+        "nota": 8.75,
+        "data_nascimento": "26\/06\/2002"
+    },
+    {
+        "classificacao": 588,
+        "inscricao": "1021230141",
+        "nome": "ALEXANDRO BRUNO DE ALMEIDA SOUSA",
+        "nota": 8.75,
+        "data_nascimento": "03\/06\/2001"
+    },
+    {
+        "classificacao": 589,
+        "inscricao": "3041230290",
+        "nome": "EZEQUIEL ACORDI",
+        "nota": 8.75,
+        "data_nascimento": "01\/05\/2003"
+    },
+    {
+        "classificacao": 590,
+        "inscricao": "6011232807",
+        "nome": "PEDRO DE MELO SOUSA SILVA",
+        "nota": 8.75,
+        "data_nascimento": "13\/03\/2004"
+    },
+    {
+        "classificacao": 591,
+        "inscricao": "7011231616",
+        "nome": "VITOR TEODORO DA SILVA SANTOS",
+        "nota": 8.738,
+        "data_nascimento": "28\/09\/2004"
+    },
+    {
+        "classificacao": 592,
+        "inscricao": "3061230458",
+        "nome": "ELON VITORINO DA SILVA",
+        "nota": 8.726,
+        "data_nascimento": "05\/05\/2002"
+    },
+    {
+        "classificacao": 593,
+        "inscricao": "1021232655",
+        "nome": "HENRIQUE LAEL FREITAS DA SILVA",
+        "nota": 8.726,
+        "data_nascimento": "20\/03\/2005"
+    },
+    {
+        "classificacao": 594,
+        "inscricao": "2021230714",
+        "nome": "GUSTAVO HAGUENDONE MANGETTI",
+        "nota": 8.726,
+        "data_nascimento": "17\/09\/2002"
+    },
+    {
+        "classificacao": 595,
+        "inscricao": "2031231060",
+        "nome": "VINICIUS GOBATO VIEIRA BENTO",
+        "nota": 8.726,
+        "data_nascimento": "12\/09\/2003"
+    },
+    {
+        "classificacao": 596,
+        "inscricao": "2031231004",
+        "nome": "THIAGO RIBEIRO BILARD DOS SANTOS",
+        "nota": 8.726,
+        "data_nascimento": "23\/09\/2003"
+    },
+    {
+        "classificacao": 597,
+        "inscricao": "1021236940",
+        "nome": "VICTOR HUGO VASCONCELOS DE ALBUQUERQUE",
+        "nota": 8.726,
+        "data_nascimento": "17\/04\/2004"
+    },
+    {
+        "classificacao": 598,
+        "inscricao": "1021230130",
+        "nome": "ALEXANDRE LIMA DE SOUSA JUNIOR",
+        "nota": 8.726,
+        "data_nascimento": "04\/08\/2005"
+    },
+    {
+        "classificacao": 599,
+        "inscricao": "2011230905",
+        "nome": "GABRIEL CAMARGO LEMOS DA SILVA",
+        "nota": 8.726,
+        "data_nascimento": "28\/11\/2005"
+    },
+    {
+        "classificacao": 600,
+        "inscricao": "4011232470",
+        "nome": "JOAO VICTOR DA PAZ COSTA",
+        "nota": 8.721,
+        "data_nascimento": "06\/09\/2001"
+    },
+    {
+        "classificacao": 601,
+        "inscricao": "6011230386",
+        "nome": "CALEB MAGALHAES DE ARAUJO",
+        "nota": 8.721,
+        "data_nascimento": "07\/07\/2000"
+    },
+    {
+        "classificacao": 602,
+        "inscricao": "3061231797",
+        "nome": "RENAN DISNER PEREIRA TEIXEIRA",
+        "nota": 8.721,
+        "data_nascimento": "11\/08\/2000"
+    },
+    {
+        "classificacao": 603,
+        "inscricao": "1061232142",
+        "nome": "MARCELO DO ESPIRITO SANTO ALVES LEAO",
+        "nota": 8.721,
+        "data_nascimento": "12\/04\/2002"
+    },
+    {
+        "classificacao": 604,
+        "inscricao": "1081230407",
+        "nome": "DIEGO ASSIS REBOUCAS",
+        "nota": 8.721,
+        "data_nascimento": "11\/06\/2002"
+    },
+    {
+        "classificacao": 605,
+        "inscricao": "6031231095",
+        "nome": "MATHEUS AUGUSTO RODRIGUES CARDOSO",
+        "nota": 8.721,
+        "data_nascimento": "13\/05\/2003"
+    },
+    {
+        "classificacao": 606,
+        "inscricao": "3011230682",
+        "nome": "GABRIEL CORTES SILVEIRA",
+        "nota": 8.721,
+        "data_nascimento": "09\/04\/2004"
+    },
+    {
+        "classificacao": 607,
+        "inscricao": "1011230856",
+        "nome": "CAIO GONCALVES LEONARDO",
+        "nota": 8.721,
+        "data_nascimento": "03\/07\/2004"
+    },
+    {
+        "classificacao": 608,
+        "inscricao": "4061230876",
+        "nome": "GUSTAVO ANDRE DA SILVA FERNANDES",
+        "nota": 8.721,
+        "data_nascimento": "26\/11\/2004"
+    },
+    {
+        "classificacao": 609,
+        "inscricao": "6011232205",
+        "nome": "LUCAS SERAFIM OLIVEIRA",
+        "nota": 8.721,
+        "data_nascimento": "13\/07\/2005"
+    },
+    {
+        "classificacao": 610,
+        "inscricao": "1021231295",
+        "nome": "DAVID PEREIRA DE SOUZA SANTOS JUNIOR",
+        "nota": 8.721,
+        "data_nascimento": "25\/10\/2005"
+    },
+    {
+        "classificacao": 611,
+        "inscricao": "2024230086",
+        "nome": "GABRIEL HANNICKEL ALONSO",
+        "nota": 8.72,
+        "data_nascimento": "20\/03\/2000"
+    },
+    {
+        "classificacao": 612,
+        "inscricao": "1021230594",
+        "nome": "BRUNO RICARDO RIBEIRO BRANDAO",
+        "nota": 8.72,
+        "data_nascimento": "04\/05\/2001"
+    },
+    {
+        "classificacao": 613,
+        "inscricao": "4041232492",
+        "nome": "JOAO GUILHERME CARIBE BASTOS GONCALVES",
+        "nota": 8.72,
+        "data_nascimento": "02\/10\/2001"
+    },
+    {
+        "classificacao": 614,
+        "inscricao": "2021230348",
+        "nome": "EDUARDO BUTIGELI SILVA",
+        "nota": 8.72,
+        "data_nascimento": "23\/08\/2002"
+    },
+    {
+        "classificacao": 615,
+        "inscricao": "2021231923",
+        "nome": "VICTOR MORETTO TAVORA DE OLIVEIRA",
+        "nota": 8.72,
+        "data_nascimento": "11\/11\/2003"
+    },
+    {
+        "classificacao": 616,
+        "inscricao": "1021234879",
+        "nome": "MARCO ANTONIO ALVES DE LIMA",
+        "nota": 8.72,
+        "data_nascimento": "16\/03\/2004"
+    },
+    {
+        "classificacao": 617,
+        "inscricao": "1141230548",
+        "nome": "KLEBER LUCAS VEREDIANO DOS SANTOS",
+        "nota": 8.72,
+        "data_nascimento": "05\/05\/2004"
+    },
+    {
+        "classificacao": 618,
+        "inscricao": "4071230397",
+        "nome": "CARLOS EDUARDO LOIOLA",
+        "nota": 8.72,
+        "data_nascimento": "05\/10\/2004"
+    },
+    {
+        "classificacao": 619,
+        "inscricao": "1021232809",
+        "nome": "ISAAC MATOS DA CUNHA",
+        "nota": 8.72,
+        "data_nascimento": "18\/04\/2006"
+    },
+    {
+        "classificacao": 620,
+        "inscricao": "5011231033",
+        "nome": "JADESON ISMAEL LOPES",
+        "nota": 8.72,
+        "data_nascimento": "21\/04\/2000"
+    },
+    {
+        "classificacao": 621,
+        "inscricao": "1011238866",
+        "nome": "XAPANAN DA CONCEICAO SILVA",
+        "nota": 8.72,
+        "data_nascimento": "20\/07\/2000"
+    },
+    {
+        "classificacao": 622,
+        "inscricao": "1061233219",
+        "nome": "WENDERSON DE SOUZA OLIVEIRA SOARES",
+        "nota": 8.72,
+        "data_nascimento": "06\/10\/2000"
+    },
+    {
+        "classificacao": 623,
+        "inscricao": "7021230018",
+        "nome": "ALEX OURIVES MARQUES",
+        "nota": 8.72,
+        "data_nascimento": "31\/10\/2000"
+    },
+    {
+        "classificacao": 624,
+        "inscricao": "1064230410",
+        "nome": "JOAO PEDRO CHAGAS STOFEL",
+        "nota": 8.72,
+        "data_nascimento": "15\/08\/2001"
+    },
+    {
+        "classificacao": 625,
+        "inscricao": "4081230557",
+        "nome": "GABRIEL DIAS DE CARVALHO",
+        "nota": 8.72,
+        "data_nascimento": "23\/08\/2001"
+    },
+    {
+        "classificacao": 626,
+        "inscricao": "4071232346",
+        "nome": "MATHEUS TAVEIRA DE SOUSA",
+        "nota": 8.72,
+        "data_nascimento": "14\/12\/2001"
+    },
+    {
+        "classificacao": 627,
+        "inscricao": "5011231717",
+        "nome": "MATHEUS GOMES OLIVEIRA MEIRELLES",
+        "nota": 8.72,
+        "data_nascimento": "06\/05\/2002"
+    },
+    {
+        "classificacao": 628,
+        "inscricao": "1041230432",
+        "nome": "JONATHAN MULLER HIPOLITO DOS SANTOS",
+        "nota": 8.72,
+        "data_nascimento": "13\/05\/2002"
+    },
+    {
+        "classificacao": 629,
+        "inscricao": "2021230030",
+        "nome": "ALISON JACQUES GONZAGA SANTOS",
+        "nota": 8.72,
+        "data_nascimento": "17\/02\/2003"
+    },
+    {
+        "classificacao": 630,
+        "inscricao": "2021230494",
+        "nome": "FRANCISCO DEUZIMAR SILVA NETO",
+        "nota": 8.72,
+        "data_nascimento": "16\/03\/2003"
+    },
+    {
+        "classificacao": 631,
+        "inscricao": "1041230777",
+        "nome": "PEDRO TEIXEIRA VETORAZI GUSSON",
+        "nota": 8.72,
+        "data_nascimento": "14\/06\/2003"
+    },
+    {
+        "classificacao": 632,
+        "inscricao": "2021230576",
+        "nome": "GABRIEL OLIVEIRA LUCHINI",
+        "nota": 8.72,
+        "data_nascimento": "02\/02\/2004"
+    },
+    {
+        "classificacao": 633,
+        "inscricao": "6011233008",
+        "nome": "RAYR DOUGLAS BARBOSA BARROS MIRANDA",
+        "nota": 8.72,
+        "data_nascimento": "20\/03\/2004"
+    },
+    {
+        "classificacao": 634,
+        "inscricao": "4061231579",
+        "nome": "LUCAS BORGES GONCALVES DOS PASSOS",
+        "nota": 8.72,
+        "data_nascimento": "04\/08\/2004"
+    },
+    {
+        "classificacao": 635,
+        "inscricao": "1021237098",
+        "nome": "VITOR MOTTA PORTO",
+        "nota": 8.72,
+        "data_nascimento": "23\/09\/2004"
+    },
+    {
+        "classificacao": 636,
+        "inscricao": "1021233632",
+        "nome": "JOSUE VICTOR VILELA DA SILVA",
+        "nota": 8.72,
+        "data_nascimento": "04\/07\/2005"
+    },
+    {
+        "classificacao": 637,
+        "inscricao": "6011231023",
+        "nome": "GABRIEL FERNANDES PIRES",
+        "nota": 8.72,
+        "data_nascimento": "30\/07\/2003"
+    },
+    {
+        "classificacao": 638,
+        "inscricao": "1021232238",
+        "nome": "GABRIEL PEREIRA MUNIZ DO CARMO",
+        "nota": 8.72,
+        "data_nascimento": "28\/11\/2005"
+    },
+    {
+        "classificacao": 639,
+        "inscricao": "2011232206",
+        "nome": "LUIGI LIESSI",
+        "nota": 8.714,
+        "data_nascimento": "25\/01\/2003"
+    },
+    {
+        "classificacao": 640,
+        "inscricao": "6011233020",
+        "nome": "RENAN VICENTE BOAVENTURA",
+        "nota": 8.697,
+        "data_nascimento": "04\/03\/2006"
+    },
+    {
+        "classificacao": 641,
+        "inscricao": "1121230176",
+        "nome": "GABRIEL MATHEUS DA SILVA BEZERRA",
+        "nota": 8.691,
+        "data_nascimento": "02\/03\/2000"
+    },
+    {
+        "classificacao": 642,
+        "inscricao": "1011236961",
+        "nome": "PAULO HENRIQUE MUNIZ DE SOUZA",
+        "nota": 8.691,
+        "data_nascimento": "29\/05\/2000"
+    },
+    {
+        "classificacao": 643,
+        "inscricao": "6011230333",
+        "nome": "BRUNO RICARDO SZERMAN RODRIGUES DA SILVA",
+        "nota": 8.691,
+        "data_nascimento": "17\/07\/2000"
+    },
+    {
+        "classificacao": 644,
+        "inscricao": "1011233825",
+        "nome": "JOAO MARCIO CALVET MUZZY CHAFIM",
+        "nota": 8.691,
+        "data_nascimento": "24\/06\/2001"
+    },
+    {
+        "classificacao": 645,
+        "inscricao": "7021230508",
+        "nome": "LUCINEY GOMES DE BRITO JUNIOR",
+        "nota": 8.691,
+        "data_nascimento": "26\/11\/2001"
+    },
+    {
+        "classificacao": 646,
+        "inscricao": "1041230725",
+        "nome": "PAULO VITOR SEABRA SILVA",
+        "nota": 8.691,
+        "data_nascimento": "13\/03\/2002"
+    },
+    {
+        "classificacao": 647,
+        "inscricao": "1061231855",
+        "nome": "LEONARDO OLIVEIRA MACIEL",
+        "nota": 8.691,
+        "data_nascimento": "16\/04\/2002"
+    },
+    {
+        "classificacao": 648,
+        "inscricao": "1021233966",
+        "nome": "KAYQUE SARMENTO DE SOUZA",
+        "nota": 8.691,
+        "data_nascimento": "19\/02\/2003"
+    },
+    {
+        "classificacao": 649,
+        "inscricao": "7011230775",
+        "nome": "JOAO VICTOR DA ROCHA AVALO",
+        "nota": 8.691,
+        "data_nascimento": "27\/03\/2003"
+    },
+    {
+        "classificacao": 650,
+        "inscricao": "1071230650",
+        "nome": "GUILHERME TOMAZ FERREIRA",
+        "nota": 8.691,
+        "data_nascimento": "19\/11\/2003"
+    },
+    {
+        "classificacao": 651,
+        "inscricao": "1091230813",
+        "nome": "PEDRO HENRIQUE SOARES E SILVA",
+        "nota": 8.691,
+        "data_nascimento": "21\/02\/2004"
+    },
+    {
+        "classificacao": 652,
+        "inscricao": "4071232305",
+        "nome": "MATHEUS ALBUQUERQUE SOUSA",
+        "nota": 8.691,
+        "data_nascimento": "06\/02\/2005"
+    },
+    {
+        "classificacao": 653,
+        "inscricao": "2011231368",
+        "nome": "HENRIQUE LEITE DA SILVA",
+        "nota": 8.691,
+        "data_nascimento": "20\/06\/2005"
+    },
+    {
+        "classificacao": 654,
+        "inscricao": "1021236913",
+        "nome": "VICTOR HUGO DE FARIAS DO CARMO",
+        "nota": 8.691,
+        "data_nascimento": "25\/06\/2005"
+    },
+    {
+        "classificacao": 655,
+        "inscricao": "3051230624",
+        "nome": "MARCO ANTONIO MIOTTO GASPARIM",
+        "nota": 8.691,
+        "data_nascimento": "29\/10\/2005"
+    },
+    {
+        "classificacao": 656,
+        "inscricao": "1021236408",
+        "nome": "RODRIGO SIQUEIRA DE CARVALHO",
+        "nota": 8.691,
+        "data_nascimento": "09\/01\/2006"
+    },
+    {
+        "classificacao": 657,
+        "inscricao": "4061232527",
+        "nome": "WALDSON MATEUS RODRIGUES DANTAS",
+        "nota": 8.691,
+        "data_nascimento": "28\/09\/2000"
+    },
+    {
+        "classificacao": 658,
+        "inscricao": "1011234238",
+        "nome": "JOAO VITOR FERREIRA LAZARO",
+        "nota": 8.691,
+        "data_nascimento": "10\/08\/2001"
+    },
+    {
+        "classificacao": 659,
+        "inscricao": "1011233437",
+        "nome": "IGOR GABRIEL FIALHO CABRAL",
+        "nota": 8.691,
+        "data_nascimento": "03\/07\/2002"
+    },
+    {
+        "classificacao": 660,
+        "inscricao": "1141230405",
+        "nome": "JOAO GUILHERME COSTA DOS SANTOS",
+        "nota": 8.691,
+        "data_nascimento": "07\/05\/2003"
+    },
+    {
+        "classificacao": 661,
+        "inscricao": "1051230710",
+        "nome": "JUAN BAZELATTO AMANCIO",
+        "nota": 8.691,
+        "data_nascimento": "14\/07\/2003"
+    },
+    {
+        "classificacao": 662,
+        "inscricao": "1021232514",
+        "nome": "GUSTAVO CARVALHO PINTO GUEDES",
+        "nota": 8.691,
+        "data_nascimento": "08\/09\/2003"
+    },
+    {
+        "classificacao": 663,
+        "inscricao": "4011232958",
+        "nome": "LEONARDO BEZERRA MORAIS",
+        "nota": 8.691,
+        "data_nascimento": "03\/07\/2004"
+    },
+    {
+        "classificacao": 664,
+        "inscricao": "4051230566",
+        "nome": "ICARO JOSE BARBOSA PEREIRA",
+        "nota": 8.691,
+        "data_nascimento": "10\/02\/2005"
+    },
+    {
+        "classificacao": 665,
+        "inscricao": "1021231809",
+        "nome": "FELIPE MAIA REED MAYR",
+        "nota": 8.691,
+        "data_nascimento": "30\/10\/2005"
+    },
+    {
+        "classificacao": 666,
+        "inscricao": "3021231667",
+        "nome": "MATHEUS CANDIANI MARIANO",
+        "nota": 8.69,
+        "data_nascimento": "03\/10\/2003"
+    },
+    {
+        "classificacao": 667,
+        "inscricao": "4071230187",
+        "nome": "ANTONIO ISAAC MOREIRA DE LIMA",
+        "nota": 8.69,
+        "data_nascimento": "05\/11\/2000"
+    },
+    {
+        "classificacao": 668,
+        "inscricao": "1021236022",
+        "nome": "PHELLIPE PEREIRA DE CASTRO COSTA",
+        "nota": 8.69,
+        "data_nascimento": "11\/04\/2002"
+    },
+    {
+        "classificacao": 669,
+        "inscricao": "4051230379",
+        "nome": "FABIO LUCAS DE ARAUJO",
+        "nota": 8.69,
+        "data_nascimento": "25\/09\/2002"
+    },
+    {
+        "classificacao": 670,
+        "inscricao": "8021230032",
+        "nome": "ADRIANO MENDES DE SOUZA",
+        "nota": 8.69,
+        "data_nascimento": "03\/03\/2004"
+    },
+    {
+        "classificacao": 671,
+        "inscricao": "1041230048",
+        "nome": "ARTHUR DINIZ LUIZ DO NASCIMENTO",
+        "nota": 8.69,
+        "data_nascimento": "28\/12\/2004"
+    },
+    {
+        "classificacao": 672,
+        "inscricao": "4011231405",
+        "nome": "FELIPE SALVIANO DA ROCHA",
+        "nota": 8.69,
+        "data_nascimento": "06\/04\/2005"
+    },
+    {
+        "classificacao": 673,
+        "inscricao": "5011232105",
+        "nome": "RYAN LUCAS DA SILVA MENDES",
+        "nota": 8.69,
+        "data_nascimento": "29\/04\/2005"
+    },
+    {
+        "classificacao": 674,
+        "inscricao": "6011232244",
+        "nome": "LUIS FELIPE CANDIDO MARQUES",
+        "nota": 8.69,
+        "data_nascimento": "04\/10\/2005"
+    },
+    {
+        "classificacao": 675,
+        "inscricao": "1021233112",
+        "nome": "JOAO NASCIMENTO CARVALHO",
+        "nota": 8.69,
+        "data_nascimento": "09\/10\/2005"
+    },
+    {
+        "classificacao": 676,
+        "inscricao": "4081230126",
+        "nome": "ARNALDO CESAR RODRIGUES ROCHA",
+        "nota": 8.685,
+        "data_nascimento": "17\/07\/2005"
+    },
+    {
+        "classificacao": 677,
+        "inscricao": "1071230139",
+        "nome": "BERNARDO TEIXEIRA DE OLIVEIRA",
+        "nota": 8.685,
+        "data_nascimento": "20\/12\/2003"
+    },
+    {
+        "classificacao": 678,
+        "inscricao": "8021231357",
+        "nome": "JOSE LAIR DE SOUSA NETO",
+        "nota": 8.679,
+        "data_nascimento": "01\/03\/2000"
+    },
+    {
+        "classificacao": 679,
+        "inscricao": "1091230305",
+        "nome": "GUILHERME DE ANDRADE FERREIRA",
+        "nota": 8.679,
+        "data_nascimento": "18\/10\/2002"
+    },
+    {
+        "classificacao": 680,
+        "inscricao": "3021230367",
+        "nome": "DAVI PREDIGER BUCHHOLZ",
+        "nota": 8.679,
+        "data_nascimento": "20\/01\/2004"
+    },
+    {
+        "classificacao": 681,
+        "inscricao": "3041230768",
+        "nome": "MATHEUS COSTA CORREA",
+        "nota": 8.679,
+        "data_nascimento": "03\/01\/2002"
+    },
+    {
+        "classificacao": 682,
+        "inscricao": "1021230966",
+        "nome": "CHARLYS MARQUES LIMA",
+        "nota": 8.679,
+        "data_nascimento": "06\/07\/2004"
+    },
+    {
+        "classificacao": 683,
+        "inscricao": "3021231727",
+        "nome": "MAX FRIEDRICH RITTA",
+        "nota": 8.679,
+        "data_nascimento": "16\/10\/2001"
+    },
+    {
+        "classificacao": 684,
+        "inscricao": "1121230364",
+        "nome": "LUCAS MANHAES OLIVEIRA SANTOS",
+        "nota": 8.661,
+        "data_nascimento": "06\/04\/2003"
+    },
+    {
+        "classificacao": 685,
+        "inscricao": "4061231455",
+        "nome": "JULIO CESAR NUNES DA MATA",
+        "nota": 8.661,
+        "data_nascimento": "12\/02\/2001"
+    },
+    {
+        "classificacao": 686,
+        "inscricao": "1021235207",
+        "nome": "MATHEUS FRANCA DE SOUZA",
+        "nota": 8.661,
+        "data_nascimento": "07\/06\/2001"
+    },
+    {
+        "classificacao": 687,
+        "inscricao": "3051230254",
+        "nome": "FERNANDO GOMES COUTINHO DE SOUZA",
+        "nota": 8.661,
+        "data_nascimento": "16\/07\/2002"
+    },
+    {
+        "classificacao": 688,
+        "inscricao": "4051230402",
+        "nome": "FERNANDO PACHECO DA ROSA NETO",
+        "data_nascimento": "04\/11\/2005",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 689,
+        "inscricao": "1071230236",
+        "nome": "CARLOS MATHEUS RODRIGUES DA COSTA",
+        "data_nascimento": "18\/10\/2000",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 690,
+        "inscricao": "4041232518",
+        "nome": "JOAO IGOR MENDONCA DE MORAES",
+        "data_nascimento": "28\/07\/2001",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 691,
+        "inscricao": "4081231703",
+        "nome": "WENDERSSON OLIVEIRA DA SILVA",
+        "data_nascimento": "21\/08\/2001",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 692,
+        "inscricao": "3041230518",
+        "nome": "JOAO HENRIQUE ALBUQUERQUE DA SILVA",
+        "data_nascimento": "25\/11\/2001",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 693,
+        "inscricao": "4041230402",
+        "nome": "ARON VIEIRA NERY",
+        "data_nascimento": "28\/12\/2001",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 694,
+        "inscricao": "1081230088",
+        "nome": "ANDRE LUIZ RAIA VIEIRA DA SILVA",
+        "data_nascimento": "06\/08\/2002",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 695,
+        "inscricao": "3061230248",
+        "nome": "CARLOS STRESSER DE ASSIS",
+        "data_nascimento": "22\/11\/2002",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 696,
+        "inscricao": "2021231363",
+        "nome": "MARCUS VINICIUS DE OLIVEIRA FRANCO",
+        "data_nascimento": "24\/04\/2003",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 697,
+        "inscricao": "1081231778",
+        "nome": "PEDRO HENRIQUE CARDOSO PENATTE",
+        "data_nascimento": "31\/12\/2003",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 698,
+        "inscricao": "1071231880",
+        "nome": "YURI DE OLIVEIRA TORRES",
+        "data_nascimento": "02\/04\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 699,
+        "inscricao": "1021230265",
+        "nome": "ANDRE VIEIRA DE PAULA",
+        "data_nascimento": "06\/04\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 700,
+        "inscricao": "6011233514",
+        "nome": "WESKLEY MELO RABELO",
+        "data_nascimento": "22\/04\/2005",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 701,
+        "inscricao": "4041230519",
+        "nome": "BERNARDO PAIM MUNIZ",
+        "data_nascimento": "31\/03\/2006",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 702,
+        "inscricao": "3031230127",
+        "nome": "DJONATHAN BITENCOURT LOPES",
+        "data_nascimento": "06\/06\/2002",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 703,
+        "inscricao": "1021236892",
+        "nome": "VICTOR HUGO BANCILLON DE SOUZA",
+        "data_nascimento": "03\/08\/2002",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 704,
+        "inscricao": "1011236906",
+        "nome": "PATRICK RAMOS NUNES",
+        "data_nascimento": "21\/01\/2003",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 705,
+        "inscricao": "5011230405",
+        "nome": "DANIEL RODRIGUES CAVALCANTE DE MENEZES",
+        "data_nascimento": "21\/03\/2003",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 706,
+        "inscricao": "1021232014",
+        "nome": "GABRIEL DA COSTA COPPI",
+        "data_nascimento": "22\/09\/2003",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 707,
+        "inscricao": "3011230768",
+        "nome": "GIAN CARLOS AMARAL LOPES",
+        "data_nascimento": "04\/10\/2003",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 708,
+        "inscricao": "1011238383",
+        "nome": "VICTOR EMANUEL ANCELMO REIS ARAUJO DA SILVA",
+        "data_nascimento": "06\/10\/2003",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 709,
+        "inscricao": "1011233948",
+        "nome": "JOAO PEDRO FERREIRA ROCHA",
+        "data_nascimento": "06\/01\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 710,
+        "inscricao": "1021236417",
+        "nome": "ROGER PARIZ DE JESUS",
+        "data_nascimento": "04\/02\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 711,
+        "inscricao": "1011230462",
+        "nome": "ARTHUR DOS SANTOS FAGUNDES",
+        "data_nascimento": "13\/02\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 712,
+        "inscricao": "1081231403",
+        "nome": "LUIZ FELIPE DO BOM CONSELHO DA SILVA",
+        "data_nascimento": "29\/02\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 713,
+        "inscricao": "2031230014",
+        "nome": "ALEX VICENTE RODRIGUES GONCALVES MADALENO",
+        "data_nascimento": "10\/06\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 714,
+        "inscricao": "1021236341",
+        "nome": "ROBERTO FREITAS FIGUEIREDO",
+        "data_nascimento": "27\/07\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 715,
+        "inscricao": "3021231184",
+        "nome": "JOAO VITOR DE OLIVEIRA NUNES",
+        "data_nascimento": "20\/09\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 716,
+        "inscricao": "3061231854",
+        "nome": "ROMULO REIS SCHALLENBERGER",
+        "data_nascimento": "29\/09\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 717,
+        "inscricao": "3011232089",
+        "nome": "VICENZZO REINA BELMONTE",
+        "data_nascimento": "24\/11\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 718,
+        "inscricao": "3061230274",
+        "nome": "CHRISTOPHER WOLFSTEIN TRUPPEL",
+        "data_nascimento": "27\/11\/2004",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 719,
+        "inscricao": "4061230686",
+        "nome": "FRANCISCO CUSTODIO DA SILVA NETO",
+        "nota": 8.661,
+        "data_nascimento": "19\/01\/2005"
+    },
+    {
+        "classificacao": 720,
+        "inscricao": "1021231704",
+        "nome": "FABIO GABRIEL RODRIGUES REIS",
+        "nota": 8.661,
+        "data_nascimento": "06\/12\/2005"
+    },
+    {
+        "classificacao": 721,
+        "inscricao": "1111230233",
+        "nome": "NIKOLAS LUCAS DE ALMEIDA POMPONET",
+        "nota": 8.661,
+        "data_nascimento": "08\/12\/2005"
+    },
+    {
+        "classificacao": 722,
+        "inscricao": "3061231496",
+        "nome": "MATEUS BZUNEK FISCHER",
+        "nota": 8.661,
+        "data_nascimento": "10\/01\/2006"
+    },
+    {
+        "classificacao": 723,
+        "inscricao": "1081230295",
+        "nome": "CARLOS MIGUEL DA SILVA FERREIRA",
+        "nota": 8.661,
+        "data_nascimento": "06\/03\/2006"
+    },
+    {
+        "classificacao": 724,
+        "inscricao": "1021233110",
+        "nome": "JOAO MIGUEL QUERINO GURGEL",
+        "nota": 8.661,
+        "data_nascimento": "26\/06\/2006"
+    }
+]

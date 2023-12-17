@@ -1,0 +1,586 @@
+[
+    {
+        "classificacao": 1,
+        "inscricao": "1034234975",
+        "nome": "MARCELLY VIEIRA DO ROSARIO FERREIRA",
+        "data_nascimento": "26\/12\/2002",
+        "nota": 9.792
+    },
+    {
+        "classificacao": 2,
+        "inscricao": "1034230368",
+        "nome": "ANA BEATRIZ GUEDES MELO",
+        "data_nascimento": "11\/05\/2006",
+        "nota": 9.792
+    },
+    {
+        "classificacao": 3,
+        "inscricao": "1044230182",
+        "nome": "LIVIA PFAFF MORAES",
+        "data_nascimento": "29\/12\/2002",
+        "nota": 9.613
+    },
+    {
+        "classificacao": 4,
+        "inscricao": "1034230159",
+        "nome": "ALICE SANTOS CUNHA SANTOS",
+        "data_nascimento": "17\/07\/2006",
+        "nota": 9.613
+    },
+    {
+        "classificacao": 5,
+        "inscricao": "4074230018",
+        "nome": "AMANDA SAMPAIO VIEIRA",
+        "data_nascimento": "17\/03\/2003",
+        "nota": 9.435
+    },
+    {
+        "classificacao": 6,
+        "inscricao": "1034231704",
+        "nome": "DANIELA SIMAS SILVA",
+        "nota": 9.435,
+        "data_nascimento": "28\/08\/2003"
+    },
+    {
+        "classificacao": 7,
+        "inscricao": "3054230065",
+        "nome": "GABRIELA RAMOS LABAT UCHOAS",
+        "nota": 9.435,
+        "data_nascimento": "01\/07\/2000"
+    },
+    {
+        "classificacao": 8,
+        "inscricao": "6014230519",
+        "nome": "JULLYANA FERREIRA CARVALHO",
+        "nota": 9.435,
+        "data_nascimento": "11\/06\/2003"
+    },
+    {
+        "classificacao": 9,
+        "inscricao": "3044230047",
+        "nome": "ELIZA HOFFMANN",
+        "nota": 9.435,
+        "data_nascimento": "03\/11\/2003"
+    },
+    {
+        "classificacao": 10,
+        "inscricao": "1034233564",
+        "nome": "JULIA PEREIRA DINIZ",
+        "nota": 9.435,
+        "data_nascimento": "27\/01\/2004"
+    },
+    {
+        "classificacao": 11,
+        "inscricao": "1034234901",
+        "nome": "MANUELA TORRES DA SILVA",
+        "nota": 9.435,
+        "data_nascimento": "24\/03\/2005"
+    },
+    {
+        "classificacao": 12,
+        "inscricao": "3034230033",
+        "nome": "CARLA MORAES BILHALVA",
+        "nota": 9.435,
+        "data_nascimento": "16\/02\/2006"
+    },
+    {
+        "classificacao": 13,
+        "inscricao": "6014230028",
+        "nome": "AMANDA DE CASTRO LACERDA",
+        "nota": 9.405,
+        "data_nascimento": "10\/06\/2000"
+    },
+    {
+        "classificacao": 14,
+        "inscricao": "1064230239",
+        "nome": "ELISA CARVALHO SANTOS",
+        "nota": 9.405,
+        "data_nascimento": "24\/12\/2001"
+    },
+    {
+        "classificacao": 15,
+        "inscricao": "1034232514",
+        "nome": "GABRIELLY PIRES COUTO",
+        "nota": 9.405,
+        "data_nascimento": "09\/07\/2002"
+    },
+    {
+        "classificacao": 16,
+        "inscricao": "4054230058",
+        "nome": "CAMILLY BEATRIZ LEITE DE OLIVEIRA",
+        "nota": 9.405,
+        "data_nascimento": "28\/01\/2006"
+    },
+    {
+        "classificacao": 17,
+        "inscricao": "1034230735",
+        "nome": "ANA LUISA MARQUES DA CONCEICAO",
+        "nota": 9.286,
+        "data_nascimento": "25\/06\/2003"
+    },
+    {
+        "classificacao": 18,
+        "inscricao": "1084230347",
+        "nome": "MARIA JULIA TEODORO VILAMAIOR",
+        "nota": 9.256,
+        "data_nascimento": "14\/03\/2003"
+    },
+    {
+        "classificacao": 19,
+        "inscricao": "1034232710",
+        "nome": "GIULIANA OLIVIA SILVA DE LIMA",
+        "nota": 9.256,
+        "data_nascimento": "18\/04\/2003"
+    },
+    {
+        "classificacao": 20,
+        "inscricao": "3024230516",
+        "nome": "MARIA EDUARDA DOS SANTOS SILVA",
+        "nota": 9.256,
+        "data_nascimento": "10\/10\/2006"
+    },
+    {
+        "classificacao": 21,
+        "inscricao": "1034233340",
+        "nome": "JOANNA OLIVEIRA DE ARAUJO",
+        "nota": 9.256,
+        "data_nascimento": "24\/01\/2001"
+    },
+    {
+        "classificacao": 22,
+        "inscricao": "8034230011",
+        "nome": "CAROLINE SILVA RIBEIRO",
+        "nota": 9.256,
+        "data_nascimento": "14\/11\/2001"
+    },
+    {
+        "classificacao": 23,
+        "inscricao": "1034230377",
+        "nome": "ANA BEATRIZ MACEDO DA SILVA",
+        "nota": 9.256,
+        "data_nascimento": "22\/11\/2001"
+    },
+    {
+        "classificacao": 24,
+        "inscricao": "1034230166",
+        "nome": "ALICIA BEATRIZ LEITE MACHADO",
+        "nota": 9.256,
+        "data_nascimento": "31\/12\/2001"
+    },
+    {
+        "classificacao": 25,
+        "inscricao": "1034235363",
+        "nome": "MARIA EDUARDA SOARES DO CABO",
+        "nota": 9.256,
+        "data_nascimento": "13\/01\/2003"
+    },
+    {
+        "classificacao": 26,
+        "inscricao": "4064230701",
+        "nome": "YASMIM RIBEIRO DOS SANTOS",
+        "nota": 9.256,
+        "data_nascimento": "16\/06\/2004"
+    },
+    {
+        "classificacao": 27,
+        "inscricao": "1034231064",
+        "nome": "AYLA RANGEL DOS REIS",
+        "nota": 9.256,
+        "data_nascimento": "31\/08\/2004"
+    },
+    {
+        "classificacao": 28,
+        "inscricao": "1034230273",
+        "nome": "AMANDA RIBEIRO RODRIGUES",
+        "nota": 9.256,
+        "data_nascimento": "23\/12\/2005"
+    },
+    {
+        "classificacao": 29,
+        "inscricao": "4044230768",
+        "nome": "LIGIA LIMA URBANETTO",
+        "nota": 9.256,
+        "data_nascimento": "20\/07\/2002"
+    },
+    {
+        "classificacao": 30,
+        "inscricao": "7014230249",
+        "nome": "LUANA TOLEDO SENA SEVERO",
+        "nota": 9.256,
+        "data_nascimento": "01\/07\/2003"
+    },
+    {
+        "classificacao": 31,
+        "inscricao": "1034234128",
+        "nome": "LARISSA DANTAS DA SILVA",
+        "nota": 9.226,
+        "data_nascimento": "20\/03\/2000"
+    },
+    {
+        "classificacao": 32,
+        "inscricao": "7014230278",
+        "nome": "MARIANA DE SOUZA SANTIAGO PESSOA",
+        "nota": 9.226,
+        "data_nascimento": "15\/07\/2003"
+    },
+    {
+        "classificacao": 33,
+        "inscricao": "6014230389",
+        "nome": "GIOVANNA MENDONCA LOBO",
+        "nota": 9.226,
+        "data_nascimento": "07\/08\/2002"
+    },
+    {
+        "classificacao": 34,
+        "inscricao": "1034237590",
+        "nome": "YASMIN SILENE DA COSTA SILVA",
+        "nota": 9.226,
+        "data_nascimento": "11\/03\/2003"
+    },
+    {
+        "classificacao": 35,
+        "nota": 9.226,
+        "data_nascimento": "28\/01\/2004"
+    },
+    {
+        "classificacao": 36,
+        "nota": 9.197,
+        "data_nascimento": "29\/08\/2002"
+    },
+    {
+        "classificacao": 37,
+        "inscricao": "4024230057",
+        "nome": "ESTHER MOTA DE GOIS",
+        "data_nascimento": "02\/01\/2003",
+        "nota": 9.197
+    },
+    {
+        "classificacao": 38,
+        "inscricao": "1064230217",
+        "nome": "DANIELLA DE AZEVEDO SARAIVA",
+        "data_nascimento": "05\/07\/2003",
+        "nota": 9.197
+    },
+    {
+        "classificacao": 39,
+        "inscricao": "4064230544",
+        "nome": "MARIANE CLEMENTINO BARBOSA",
+        "data_nascimento": "15\/06\/2006",
+        "nota": 9.167
+    },
+    {
+        "classificacao": 40,
+        "inscricao": "1034234450",
+        "nome": "LETICIA MAGALHAES BRAZ",
+        "data_nascimento": "18\/09\/2003",
+        "nota": 9.113
+    },
+    {
+        "classificacao": 41,
+        "inscricao": "1034235832",
+        "nome": "MILLENA MATHIAS DO NASCIMENTO",
+        "data_nascimento": "15\/10\/2001",
+        "nota": 9.107
+    },
+    {
+        "classificacao": 42,
+        "inscricao": "1034234716",
+        "nome": "LUANE MARIA FIGUEIRA FERREIRA DE CARVALHO",
+        "data_nascimento": "29\/08\/2003",
+        "nota": 9.077
+    },
+    {
+        "classificacao": 43,
+        "inscricao": "3024230438",
+        "nome": "LAVINY MACHADO DA SILVA",
+        "data_nascimento": "03\/07\/2005",
+        "nota": 9.077
+    },
+    {
+        "classificacao": 44,
+        "inscricao": "1034231525",
+        "nome": "CARLA ISABELE DE OLIVEIRA FARIAS",
+        "data_nascimento": "17\/01\/2000",
+        "nota": 9.048
+    },
+    {
+        "classificacao": 45,
+        "inscricao": "6014230637",
+        "nome": "LETICIA MARTINEZ COSTA",
+        "data_nascimento": "23\/12\/2003",
+        "nota": 9.048
+    },
+    {
+        "classificacao": 46,
+        "inscricao": "1064230425",
+        "nome": "JULIA DE ALMEIDA FERREIRA",
+        "data_nascimento": "12\/11\/2004",
+        "nota": 9.048
+    },
+    {
+        "classificacao": 47,
+        "inscricao": "1034231077",
+        "nome": "BARBARA AMARAL RIBEIRO MAGI SIMOES",
+        "data_nascimento": "09\/03\/2002",
+        "nota": 9.048
+    },
+    {
+        "classificacao": 48,
+        "inscricao": "1034234631",
+        "nome": "LORENA RODRIGUES MARTINS",
+        "data_nascimento": "07\/03\/2003",
+        "nota": 9.048
+    },
+    {
+        "classificacao": 49,
+        "inscricao": "1034231606",
+        "nome": "CATARINA RAMOS DE SOUZA",
+        "data_nascimento": "30\/04\/2003",
+        "nota": 9.048
+    },
+    {
+        "classificacao": 50,
+        "inscricao": "1034234417",
+        "nome": "LETICIA EVANGELISTA MARINS NUNES",
+        "data_nascimento": "26\/01\/2006",
+        "nota": 9.048
+    },
+    {
+        "classificacao": 51,
+        "inscricao": "1034234047",
+        "nome": "LAIS CRISTINY DE CAMPOS BRAZ",
+        "data_nascimento": "08\/03\/2004",
+        "nota": 9.036
+    },
+    {
+        "classificacao": 52,
+        "inscricao": "3014230106",
+        "nome": "DUANNI EVELYN DA ROSA COSTA",
+        "data_nascimento": "16\/02\/2002",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 53,
+        "inscricao": "4044230779",
+        "nome": "LIVIA DE OLIVEIRA SOUZA",
+        "data_nascimento": "01\/02\/2003",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 54,
+        "inscricao": "3024230477",
+        "nome": "LUIZA PEYROT TATSCH",
+        "data_nascimento": "20\/05\/2003",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 55,
+        "inscricao": "1034233159",
+        "nome": "IZABELLY ESTEVES DO CARMO",
+        "data_nascimento": "01\/02\/2005",
+        "nota": 9.018
+    },
+    {
+        "classificacao": 56,
+        "inscricao": "1064230649",
+        "nome": "MARIA CLARA PEDRO ANDRE",
+        "data_nascimento": "28\/11\/2006",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 57,
+        "inscricao": "1034236964",
+        "nome": "TAIZA MALAQUIAS VICENTE DE CARVALHO",
+        "data_nascimento": "20\/12\/2000",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 58,
+        "inscricao": "1034236512",
+        "nome": "REBECA BOTO DE SOUZA",
+        "data_nascimento": "27\/08\/2001",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 59,
+        "inscricao": "1094230056",
+        "nome": "GIOVANNA GOMES DE OLIVEIRA",
+        "data_nascimento": "13\/05\/2002",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 60,
+        "inscricao": "3024230696",
+        "nome": "TASSIANY GUILHERME DOS SANTOS",
+        "data_nascimento": "17\/04\/2004",
+        "nota": 9.006
+    },
+    {
+        "classificacao": 61,
+        "inscricao": "4064230095",
+        "nome": "ANI DRIELI MELO DOS SANTOS",
+        "data_nascimento": "07\/12\/2000",
+        "nota": 8.976
+    },
+    {
+        "classificacao": 62,
+        "inscricao": "3024230676",
+        "nome": "SILVIA DE OLIVEIRA FERREIRA",
+        "data_nascimento": "14\/01\/2002",
+        "nota": 8.976
+    },
+    {
+        "classificacao": 63,
+        "inscricao": "3014230089",
+        "nome": "CAUANNY IASMIM FORSTER CANDIDO",
+        "data_nascimento": "02\/05\/2004",
+        "nota": 8.976
+    },
+    {
+        "classificacao": 64,
+        "inscricao": "3034230061",
+        "nome": "GABRIELA ANTUNES COMARU",
+        "data_nascimento": "14\/05\/2004",
+        "nota": 8.976
+    },
+    {
+        "classificacao": 65,
+        "inscricao": "1034234496",
+        "nome": "LETICIA SOUZA ARAUJO",
+        "data_nascimento": "14\/09\/2004",
+        "nota": 8.976
+    },
+    {
+        "classificacao": 66,
+        "inscricao": "1034235333",
+        "nome": "MARIA EDUARDA RODRIGUES BERNARDES",
+        "data_nascimento": "21\/10\/2005",
+        "nota": 8.958
+    },
+    {
+        "classificacao": 67,
+        "inscricao": "1034236938",
+        "nome": "TAINA D AVILA GOULART DA SILVA",
+        "data_nascimento": "08\/05\/2001",
+        "nota": 8.947
+    },
+    {
+        "classificacao": 68,
+        "inscricao": "1034234821",
+        "nome": "LUIZA SOUZA CARDOSO SANT ANNA",
+        "data_nascimento": "02\/12\/2004",
+        "nota": 8.947
+    },
+    {
+        "classificacao": 69,
+        "inscricao": "1034231344",
+        "nome": "BRUNA LIMA DE OLIVEIRA",
+        "data_nascimento": "21\/09\/2001",
+        "nota": 8.935
+    },
+    {
+        "classificacao": 70,
+        "inscricao": "4044230110",
+        "nome": "ANA LAURA DE MAGALHAES DAS NEVES",
+        "data_nascimento": "17\/06\/2004",
+        "nota": 8.935
+    },
+    {
+        "classificacao": 71,
+        "inscricao": "1064230824",
+        "nome": "RAFAELLA DE OLIVEIRA NETTO",
+        "data_nascimento": "21\/12\/2004",
+        "nota": 8.899
+    },
+    {
+        "classificacao": 72,
+        "inscricao": "2034230195",
+        "nome": "MARIA EDUARDA DA SILVA FERREIRA",
+        "data_nascimento": "20\/12\/2000",
+        "nota": 8.899
+    },
+    {
+        "classificacao": 73,
+        "inscricao": "1064230822",
+        "nome": "RAFAELA SANTIAGO SOARES",
+        "data_nascimento": "08\/04\/2003",
+        "nota": 8.899
+    },
+    {
+        "classificacao": 74,
+        "inscricao": "1074230386",
+        "nome": "MARIANA DE SOUZA ROSA",
+        "data_nascimento": "15\/06\/2004",
+        "nota": 8.899
+    },
+    {
+        "classificacao": 75,
+        "inscricao": "1034236852",
+        "nome": "STEPHANIE PAVAO FIGUEIREDO EDUARDO",
+        "data_nascimento": "22\/11\/2000",
+        "nota": 8.899
+    },
+    {
+        "classificacao": 76,
+        "inscricao": "1034233050",
+        "nome": "ISABELLE DE MENEZES LEMOS",
+        "data_nascimento": "08\/02\/2003",
+        "nota": 8.899
+    },
+    {
+        "classificacao": 77,
+        "inscricao": "1034235087",
+        "nome": "MARIA CLARA VIEIRA MACEDO",
+        "data_nascimento": "20\/12\/2005",
+        "nota": 8.899
+    },
+    {
+        "classificacao": 78,
+        "inscricao": "1034231588",
+        "nome": "CAROLLINE VIEIRA BARROS DA SILVA",
+        "data_nascimento": "18\/02\/2002",
+        "nota": 8.899
+    },
+    {
+        "classificacao": 79,
+        "inscricao": "1034232615",
+        "nome": "GIOVANNA DE FREITAS STORTI",
+        "data_nascimento": "13\/07\/2005",
+        "nota": 8.869
+    },
+    {
+        "classificacao": 80,
+        "inscricao": "4064230403",
+        "nome": "LETICIA MIRANDA FERREIRA",
+        "data_nascimento": "10\/09\/2002",
+        "nota": 8.869
+    },
+    {
+        "classificacao": 81,
+        "inscricao": "3044230056",
+        "nome": "FABIANA OLIVEIRA DA COSTA",
+        "data_nascimento": "30\/12\/2003",
+        "nota": 8.869
+    },
+    {
+        "classificacao": 82,
+        "inscricao": "6014230007",
+        "nome": "AIME CAROLINA SIRILO KROTH",
+        "data_nascimento": "22\/05\/2001",
+        "nota": 8.869
+    },
+    {
+        "classificacao": 83,
+        "inscricao": "1044230285",
+        "nome": "VICTORIA DE SOUZA BRASIL NASCIMENTO",
+        "data_nascimento": "13\/05\/2002",
+        "nota": 8.869
+    },
+    {
+        "classificacao": 84,
+        "inscricao": "4054230225",
+        "nome": "RAIANE BAUER LIMA",
+        "data_nascimento": "05\/04\/2003",
+        "nota": 8.869
+    }
+]

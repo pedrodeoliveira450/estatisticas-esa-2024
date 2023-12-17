@@ -1,0 +1,149 @@
+[
+    {
+        "classificacao": 1,
+        "inscricao": "4044230808",
+        "nome": "LUMA EDUARDA RIBEIRO CAMPELO",
+        "data_nascimento": "13\/02\/2002",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 2,
+        "inscricao": "1034236783",
+        "nome": "SOFIA AZEVEDO DE SOUZA DOS SANTOS",
+        "data_nascimento": "18\/08\/2004",
+        "nota": 8.839
+    },
+    {
+        "classificacao": 3,
+        "inscricao": "4084230033",
+        "nome": "ANA VITORIA FERNANDES FELIPE",
+        "data_nascimento": "25\/03\/2001",
+        "nota": 8.828
+    },
+    {
+        "classificacao": 4,
+        "inscricao": "1044230145",
+        "nome": "KAMILLY VICTORIA FERREIRA VELLOSO",
+        "data_nascimento": "29\/12\/2003",
+        "nota": 8.827
+    },
+    {
+        "classificacao": 5,
+        "inscricao": "1034235975",
+        "nome": "NATHALIA LUIZ DO NASCIMENTO MOREIRA",
+        "data_nascimento": "08\/05\/2000",
+        "nota": 8.798
+    },
+    {
+        "classificacao": 6,
+        "inscricao": "4014230331",
+        "nome": "ESTHER RODRIGUES NOGUEIRA",
+        "data_nascimento": "07\/02\/2001",
+        "nota": 8.798
+    },
+    {
+        "classificacao": 7,
+        "inscricao": "1034235797",
+        "nome": "MILENA MARQUES CANDIDO FIGUEIRA",
+        "data_nascimento": "27\/04\/2000",
+        "nota": 8.798
+    },
+    {
+        "classificacao": 8,
+        "inscricao": "1034235007",
+        "nome": "MARIA CAROLINA LIMA BALBINO",
+        "data_nascimento": "12\/09\/2002",
+        "nota": 8.798
+    },
+    {
+        "classificacao": 9,
+        "inscricao": "1034235972",
+        "nome": "NATHALIA FURTADO DE OLIVEIRA",
+        "data_nascimento": "09\/02\/2003",
+        "nota": 8.798
+    },
+    {
+        "classificacao": 10,
+        "inscricao": "1034230955",
+        "nome": "ANNA ELISA FERREIRA COSTA RODRIGUES",
+        "data_nascimento": "24\/01\/2004",
+        "nota": 8.768
+    },
+    {
+        "classificacao": 11,
+        "inscricao": "1064230662",
+        "nome": "MARIA EDUARDA DA SILVA GOMES",
+        "data_nascimento": "17\/03\/2004",
+        "nota": 8.72
+    },
+    {
+        "classificacao": 12,
+        "inscricao": "1034230329",
+        "nome": "ANA BEATRIZ DE ANDRADE MOREIRA",
+        "data_nascimento": "06\/05\/2003",
+        "nota": 8.679
+    },
+    {
+        "classificacao": 13,
+        "inscricao": "1034230558",
+        "nome": "ANA CLARA DE FREITAS VELHO",
+        "data_nascimento": "27\/04\/2001",
+        "nota": 8.679
+    },
+    {
+        "classificacao": 14,
+        "inscricao": "6014231002",
+        "nome": "VANESSA SANTOS SILVA",
+        "data_nascimento": "10\/06\/2002",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 15,
+        "inscricao": "1034234751",
+        "nome": "LUDYMILA DE SOUZA CAMPOS",
+        "data_nascimento": "23\/01\/2003",
+        "nota": 8.661
+    },
+    {
+        "classificacao": 16,
+        "inscricao": "4014230296",
+        "nome": "EMILLY CARNEIRO DA CRUZ SANTOS",
+        "data_nascimento": "17\/09\/2002",
+        "nota": 8.619
+    },
+    {
+        "classificacao": 17,
+        "inscricao": "1034230097",
+        "nome": "ALESSANDRA FERNANDES DE ANDRADE",
+        "data_nascimento": "12\/03\/2003",
+        "nota": 8.619
+    },
+    {
+        "classificacao": 18,
+        "inscricao": "1064230025",
+        "nome": "ALINE DA SILVA PEREIRA DO CARMO",
+        "data_nascimento": "15\/10\/2005",
+        "nota": 8.619
+    },
+    {
+        "classificacao": 19,
+        "inscricao": "1064230131",
+        "nome": "ANNA CLARA LEAO GULLO",
+        "data_nascimento": "23\/04\/2003",
+        "nota": 8.619
+    },
+    {
+        "classificacao": 20,
+        "inscricao": "1034233145",
+        "nome": "IZABELLA DA SILVA PEIXOTO",
+        "data_nascimento": "02\/06\/2003",
+        "nota": 8.601
+    },
+    {
+        "classificacao": 21,
+        "inscricao": "1064230863",
+        "nome": "REBECA DE MOURA MACIEL",
+        "data_nascimento": "06\/01\/2005",
+        "nota": 8.589
+    }
+]

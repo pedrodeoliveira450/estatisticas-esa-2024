@@ -1,0 +1,7436 @@
+[
+    {
+        "inscricao": "010532",
+        "nome": "JO\u00c3O PEDRO PASSOS HOFFMANN",
+        "cotista": false,
+        "nota": 90.583,
+        "classificacao": 1
+    },
+    {
+        "inscricao": "040168",
+        "nome": "BRENO TAQUES MUSSI ENDRES",
+        "cotista": false,
+        "nota": 90.083,
+        "classificacao": 2
+    },
+    {
+        "inscricao": "080189",
+        "nome": "EDUARDO ALVES REZENDE",
+        "cotista": false,
+        "nota": 88.167,
+        "classificacao": 3
+    },
+    {
+        "inscricao": "291312",
+        "nome": "PEDRO HENRIQUE DE SOUSA FIGUEIREDO",
+        "cotista": false,
+        "nota": 87,
+        "classificacao": 4
+    },
+    {
+        "inscricao": "071328",
+        "nome": "MATHEUS BRITO PESSOA",
+        "cotista": false,
+        "nota": 86.917,
+        "classificacao": 5
+    },
+    {
+        "inscricao": "291346",
+        "nome": "PEDRO PRACA GOMES",
+        "cotista": false,
+        "nota": 86.833,
+        "classificacao": 6
+    },
+    {
+        "inscricao": "260146",
+        "nome": "GUSTAVO MENDON\u00c7A PEREIRA FERNANDES",
+        "cotista": true,
+        "nota": 86.417,
+        "classificacao": 7
+    },
+    {
+        "inscricao": "190758",
+        "nome": "MATHEUS ASSIS MAIA",
+        "cotista": false,
+        "nota": 86.417,
+        "classificacao": 8
+    },
+    {
+        "inscricao": "241321",
+        "nome": "MARCO TH\u00daLIO SOARES KOSSOOSKI",
+        "cotista": false,
+        "nota": 86.333,
+        "classificacao": 9
+    },
+    {
+        "inscricao": "010648",
+        "nome": "LEONARDO LUCAS BENTO DE MORAES",
+        "cotista": false,
+        "nota": 86.083,
+        "classificacao": 10
+    },
+    {
+        "inscricao": "291071",
+        "nome": "LUIZ SATOSHI YUNOMAE OIKAWA",
+        "cotista": false,
+        "nota": 86.083,
+        "classificacao": 11
+    },
+    {
+        "inscricao": "290840",
+        "nome": "JOS\u00c9 GUILHERME CORREIA DE MENEZES",
+        "cotista": false,
+        "nota": 85.917,
+        "classificacao": 12
+    },
+    {
+        "inscricao": "291033",
+        "nome": "LU\u00cdS EDUARDO VIEIRA DE MELLO",
+        "cotista": false,
+        "nota": 85.833,
+        "classificacao": 13
+    },
+    {
+        "inscricao": "100712",
+        "nome": "JO\u00c3O PAULO FERREIRA ALVES DO NASCIMENTO SILVA",
+        "cotista": false,
+        "nota": 85.833,
+        "classificacao": 14
+    },
+    {
+        "inscricao": "110013",
+        "nome": "ALEXANDRO CERQUEIRA DE SOUZA JUNIOR",
+        "cotista": false,
+        "nota": 85.417,
+        "classificacao": 15
+    },
+    {
+        "inscricao": "290156",
+        "nome": "ARTHUR LEMOS HERBSTER MOURA",
+        "cotista": false,
+        "nota": 84.25,
+        "classificacao": 16
+    },
+    {
+        "inscricao": "180728",
+        "nome": "MATEUS MARCATO DE ANDRADE",
+        "cotista": false,
+        "nota": 84.083,
+        "classificacao": 17
+    },
+    {
+        "inscricao": "241007",
+        "nome": "JOAO WAGNER MACEDO COSTA",
+        "cotista": false,
+        "nota": 84.083,
+        "classificacao": 18
+    },
+    {
+        "inscricao": "190964",
+        "nome": "SAMUEL JALES TERRINHA GUIMARAES",
+        "cotista": false,
+        "nota": 83.75,
+        "classificacao": 19
+    },
+    {
+        "inscricao": "070215",
+        "nome": "CARLOS HENRIQUE PALUGAN GOMES",
+        "cotista": false,
+        "nota": 83.417,
+        "classificacao": 20
+    },
+    {
+        "inscricao": "291034",
+        "nome": "LUIS FELIPE CAVALCANTE SOUZA FARIAS",
+        "cotista": false,
+        "nota": 83.25,
+        "classificacao": 21
+    },
+    {
+        "inscricao": "041333",
+        "nome": "PEDRO AFONSO DE ASSUN\u00c7\u00c3O MANCE",
+        "cotista": false,
+        "nota": 83.167,
+        "classificacao": 22
+    },
+    {
+        "inscricao": "310796",
+        "nome": "LEONARDO BERGER DA SILVA",
+        "cotista": false,
+        "nota": 82.917,
+        "classificacao": 23
+    },
+    {
+        "inscricao": "240619",
+        "nome": "GABRIEL MASCENE GOMES",
+        "cotista": false,
+        "nota": 82.917,
+        "classificacao": 24
+    },
+    {
+        "inscricao": "290315",
+        "nome": "DAVI HONORIO DE BRITO PONTES",
+        "cotista": false,
+        "nota": 82.75,
+        "classificacao": 25
+    },
+    {
+        "inscricao": "290280",
+        "nome": "CL\u00c1UDIO ERICK DE HOLANDA FONTENELE",
+        "cotista": false,
+        "nota": 82.75,
+        "classificacao": 26
+    },
+    {
+        "inscricao": "110120",
+        "nome": "DANIEL LIMA DE PAIVA ALMEIDA",
+        "cotista": false,
+        "nota": 82.75,
+        "classificacao": 27
+    },
+    {
+        "inscricao": "291394",
+        "nome": "RENAN FERREIRA RODRIGUES",
+        "cotista": false,
+        "nota": 82.75,
+        "classificacao": 28
+    },
+    {
+        "inscricao": "021295",
+        "nome": "THIAGO BIANCHESSI",
+        "cotista": false,
+        "nota": 82.667,
+        "classificacao": 29
+    },
+    {
+        "inscricao": "240439",
+        "nome": "EDUARDO VIEIRA SILVA",
+        "cotista": false,
+        "nota": 82.667,
+        "classificacao": 30
+    },
+    {
+        "inscricao": "180599",
+        "nome": "LUCA CORR\u00caA TAVARES",
+        "cotista": false,
+        "nota": 82.667,
+        "classificacao": 31
+    },
+    {
+        "inscricao": "060810",
+        "nome": "THIAGO RIBEIRO BILARD DOS SANTOS",
+        "cotista": false,
+        "nota": 82.5,
+        "classificacao": 32
+    },
+    {
+        "inscricao": "080726",
+        "nome": "PEDRO HENRIQUE SEBBENN",
+        "cotista": false,
+        "nota": 82.417,
+        "classificacao": 33
+    },
+    {
+        "inscricao": "030453",
+        "nome": "RAFAEL DA ROCHA ZUCHI",
+        "cotista": false,
+        "nota": 82.417,
+        "classificacao": 34
+    },
+    {
+        "inscricao": "030045",
+        "nome": "ARTHUR CONSTANTINO BARTOLAMEI",
+        "cotista": false,
+        "nota": 82.417,
+        "classificacao": 35
+    },
+    {
+        "inscricao": "180744",
+        "nome": "MATHEUS DE SOUZA RAMOS",
+        "cotista": false,
+        "nota": 82.333,
+        "classificacao": 36
+    },
+    {
+        "inscricao": "240435",
+        "nome": "EDUARDO RODRIGUES VERZOLA",
+        "cotista": false,
+        "nota": 82.333,
+        "classificacao": 37
+    },
+    {
+        "inscricao": "290808",
+        "nome": "JO\u00c3O VITOR PEREIRA FONSECA",
+        "cotista": false,
+        "nota": 82.25,
+        "classificacao": 38
+    },
+    {
+        "inscricao": "101308",
+        "nome": "PEDRO CALHEIAS ALVES",
+        "cotista": false,
+        "nota": 82.167,
+        "classificacao": 39
+    },
+    {
+        "inscricao": "040403",
+        "nome": "ERIK PEREIRA HORST",
+        "cotista": false,
+        "nota": 82.167,
+        "classificacao": 40
+    },
+    {
+        "inscricao": "170347",
+        "nome": "VICTOR AUGUSTO CARVALHO NOGUEIRA",
+        "cotista": false,
+        "nota": 82.083,
+        "classificacao": 41
+    },
+    {
+        "inscricao": "291489",
+        "nome": "THALISON BASTOS NASCIMENTO",
+        "cotista": false,
+        "nota": 81.833,
+        "classificacao": 42
+    },
+    {
+        "inscricao": "250081",
+        "nome": "ANDR\u00c9 LUZ DOS SANTOS NETO",
+        "cotista": false,
+        "nota": 81.667,
+        "classificacao": 43
+    },
+    {
+        "inscricao": "310246",
+        "nome": "DANIEL WILSON LOPES DE SOUZA",
+        "cotista": false,
+        "nota": 81.667,
+        "classificacao": 44
+    },
+    {
+        "inscricao": "241631",
+        "nome": "PEDRO HENRIQUE LIMA SILVA",
+        "cotista": false,
+        "nota": 81.667,
+        "classificacao": 45
+    },
+    {
+        "inscricao": "241133",
+        "nome": "L\u00c1ZARO MICHAELSEN DE LIMA",
+        "cotista": false,
+        "nota": 81.5,
+        "classificacao": 46
+    },
+    {
+        "inscricao": "240547",
+        "nome": "FERNANDO BISINOTTO MENDES",
+        "cotista": false,
+        "nota": 81.5,
+        "classificacao": 47
+    },
+    {
+        "inscricao": "020482",
+        "nome": "GUILHERME ALEXANDER LAUERMANN",
+        "cotista": false,
+        "nota": 81.333,
+        "classificacao": 48
+    },
+    {
+        "inscricao": "140971",
+        "nome": "MARCOS PAULO LOPES DE ASSUNCAO",
+        "cotista": false,
+        "nota": 81.333,
+        "classificacao": 49
+    },
+    {
+        "inscricao": "161313",
+        "nome": "MICAEL DE FARIAS MOURA",
+        "cotista": false,
+        "nota": 81.333,
+        "classificacao": 50
+    },
+    {
+        "inscricao": "241984",
+        "nome": "YAN DE OLIVEIRA BATKO",
+        "cotista": false,
+        "nota": 81.25,
+        "classificacao": 51
+    },
+    {
+        "inscricao": "260114",
+        "nome": "EXPEDITO RONALD DA SILVA LAPA",
+        "cotista": false,
+        "nota": 81.25,
+        "classificacao": 52
+    },
+    {
+        "inscricao": "290954",
+        "nome": "LEONARDO TORRES SILVA",
+        "cotista": false,
+        "nota": 81.25,
+        "classificacao": 53
+    },
+    {
+        "inscricao": "180134",
+        "nome": "BRUNO OIRING DE SOUSA",
+        "cotista": false,
+        "nota": 81.167,
+        "classificacao": 54
+    },
+    {
+        "inscricao": "311000",
+        "nome": "MURILO DE MELO E SILVA ROLO",
+        "cotista": false,
+        "nota": 81.167,
+        "classificacao": 55
+    },
+    {
+        "inscricao": "291166",
+        "nome": "MATHEUS ALBUQUERQUE LOMONACO",
+        "cotista": false,
+        "nota": 81.167,
+        "classificacao": 56
+    },
+    {
+        "inscricao": "241593",
+        "nome": "PAULO VICTOR RODRIGUES MASCARENHAS",
+        "cotista": false,
+        "nota": 81.083,
+        "classificacao": 57
+    },
+    {
+        "inscricao": "110159",
+        "nome": "EDUARDO MUNIZ WULHYNEK",
+        "cotista": true,
+        "nota": 81.083,
+        "classificacao": 58
+    },
+    {
+        "inscricao": "190503",
+        "nome": "JO\u00c3O PEDRO PENNA SALES",
+        "cotista": false,
+        "nota": 81.083,
+        "classificacao": 59
+    },
+    {
+        "inscricao": "101516",
+        "nome": "TALISSON BAMBINO DA SILVA",
+        "cotista": false,
+        "nota": 81.083,
+        "classificacao": 60
+    },
+    {
+        "inscricao": "210051",
+        "nome": "ANTHONY GOMES LOPES",
+        "cotista": false,
+        "nota": 81,
+        "classificacao": 61
+    },
+    {
+        "inscricao": "291270",
+        "nome": "PAULO ALEXANDRE BORGES MOURA",
+        "cotista": false,
+        "nota": 80.917,
+        "classificacao": 62
+    },
+    {
+        "inscricao": "240884",
+        "nome": "JO\u00c3O ANT\u00d4NIO MENEZES RAMOS",
+        "cotista": false,
+        "nota": 80.917,
+        "classificacao": 63
+    },
+    {
+        "inscricao": "080263",
+        "nome": "GABRIEL INTORNE BARROS",
+        "cotista": false,
+        "nota": 80.917,
+        "classificacao": 64
+    },
+    {
+        "inscricao": "290751",
+        "nome": "JO\u00c3O LUCAS DE OLIVEIRA SOARES",
+        "cotista": false,
+        "nota": 80.917,
+        "classificacao": 65
+    },
+    {
+        "inscricao": "140008",
+        "nome": "AHMED EHAB FAHMY EL TABEY",
+        "cotista": false,
+        "nota": 80.917,
+        "classificacao": 66
+    },
+    {
+        "inscricao": "180252",
+        "nome": "ENZO LUIZ NOGUEIRA DOS ANJOS",
+        "cotista": false,
+        "nota": 80.833,
+        "classificacao": 67
+    },
+    {
+        "inscricao": "190670",
+        "nome": "LUIZ FELIPE DO BOM CONSELHO DA SILVA",
+        "cotista": false,
+        "nota": 80.75,
+        "classificacao": 68
+    },
+    {
+        "inscricao": "220281",
+        "nome": "LUIZ EDUARDO SANTI SILVA",
+        "cotista": false,
+        "nota": 80.667,
+        "classificacao": 69
+    },
+    {
+        "inscricao": "060185",
+        "nome": "FELIPE LACERDA DA CRUZ FREIRE",
+        "cotista": false,
+        "nota": 80.667,
+        "classificacao": 70
+    },
+    {
+        "inscricao": "041191",
+        "nome": "MATHEUS CAMARGO SILVA",
+        "cotista": false,
+        "nota": 80.667,
+        "classificacao": 71
+    },
+    {
+        "inscricao": "300103",
+        "nome": "CARLOS ALBERTO FERREIRA DA SILVA NETO",
+        "cotista": false,
+        "nota": 80.667,
+        "classificacao": 72
+    },
+    {
+        "inscricao": "340453",
+        "nome": "JO\u00c3O PEDRO QUEIROZ DE SOUSA RODRIGUES",
+        "cotista": false,
+        "nota": 80.5,
+        "classificacao": 73
+    },
+    {
+        "inscricao": "291525",
+        "nome": "V\u00cdCTOR MANUEL FERN\u00c1NDEZ P\u00c9REZ",
+        "cotista": false,
+        "nota": 80.5,
+        "classificacao": 74
+    },
+    {
+        "inscricao": "080230",
+        "nome": "FELIPE FERREIRA DE LIMA",
+        "cotista": true,
+        "nota": 80.5,
+        "classificacao": 75
+    },
+    {
+        "inscricao": "050628",
+        "nome": "GABRIEL HENRIQUE KOBAYASHI CORREA",
+        "cotista": false,
+        "nota": 80.5,
+        "classificacao": 76
+    },
+    {
+        "inscricao": "161436",
+        "nome": "PEDRO HENRIQUE DE OLIVEIRA NASCIMENTO",
+        "cotista": true,
+        "nota": 80.5,
+        "classificacao": 77
+    },
+    {
+        "inscricao": "140768",
+        "nome": "KAIKI DE ALMEIDA DA SILVA",
+        "cotista": false,
+        "nota": 80.417,
+        "classificacao": 78
+    },
+    {
+        "inscricao": "291274",
+        "nome": "PAULO GUSTAVO FONTELES SILVA",
+        "cotista": false,
+        "nota": 80.334,
+        "classificacao": 79
+    },
+    {
+        "inscricao": "290302",
+        "nome": "DANNY SECUNDINO SOUSA FILHO",
+        "cotista": false,
+        "nota": 80.333,
+        "classificacao": 80
+    },
+    {
+        "inscricao": "300334",
+        "nome": "JACQUES FRANKLIN DE JESUS NUNES NETO",
+        "cotista": false,
+        "nota": 80.333,
+        "classificacao": 81
+    },
+    {
+        "inscricao": "140838",
+        "nome": "LEONARDO VIANNA VALENTE",
+        "cotista": false,
+        "nota": 80.333,
+        "classificacao": 82
+    },
+    {
+        "inscricao": "180188",
+        "nome": "DANIEL MEDEIROS CAETANO",
+        "cotista": false,
+        "nota": 80.333,
+        "classificacao": 83
+    },
+    {
+        "inscricao": "100603",
+        "nome": "HIAGO BRAND\u00c3O SILVA",
+        "cotista": true,
+        "nota": 80.25,
+        "classificacao": 84
+    },
+    {
+        "inscricao": "290332",
+        "nome": "DAVISON DHIEGO DE FARIAS MAZZEI",
+        "cotista": false,
+        "nota": 80.25,
+        "classificacao": 85
+    },
+    {
+        "inscricao": "230215",
+        "nome": "FELIPE KRAUSE RODRIGUES DE AFONSECA",
+        "cotista": false,
+        "nota": 80.25,
+        "classificacao": 86
+    },
+    {
+        "inscricao": "290197",
+        "nome": "BRUNO LEVY SOUZA GUIMAR\u00c3ES",
+        "cotista": false,
+        "nota": 80.25,
+        "classificacao": 87
+    },
+    {
+        "inscricao": "230704",
+        "nome": "PEDRO REZENDE OLIVEIRA",
+        "cotista": false,
+        "nota": 80.167,
+        "classificacao": 88
+    },
+    {
+        "inscricao": "290662",
+        "nome": "HUDSON MURILLO DE ALMEIDA SANTOS",
+        "cotista": false,
+        "nota": 80.167,
+        "classificacao": 89
+    },
+    {
+        "inscricao": "240576",
+        "nome": "GABRIEL ARAUJO GUIMARAES TROIS",
+        "cotista": false,
+        "nota": 80.084,
+        "classificacao": 90
+    },
+    {
+        "inscricao": "041188",
+        "nome": "MATHEUS AUGUSTO KUDLA DA SILVA",
+        "cotista": false,
+        "nota": 80.083,
+        "classificacao": 91
+    },
+    {
+        "inscricao": "240582",
+        "nome": "GABRIEL CAU\u00c3 RAMOS DE CARVALHO PINTO",
+        "cotista": false,
+        "nota": 80.083,
+        "classificacao": 92
+    },
+    {
+        "inscricao": "020491",
+        "nome": "GUILHERME DOS SANTOS DA ROSA",
+        "cotista": false,
+        "nota": 80.083,
+        "classificacao": 93
+    },
+    {
+        "inscricao": "010962",
+        "nome": "RENAN AUGUSTO DA SILVA ZEN",
+        "cotista": false,
+        "nota": 80,
+        "classificacao": 94
+    },
+    {
+        "inscricao": "290584",
+        "nome": "GLAUBER SILVA ELOI PIRES",
+        "cotista": true,
+        "nota": 79.917,
+        "classificacao": 95
+    },
+    {
+        "inscricao": "291341",
+        "nome": "PEDRO NOGUEIRA CAVALCANTI CAJADO",
+        "cotista": false,
+        "nota": 79.917,
+        "classificacao": 96
+    },
+    {
+        "inscricao": "190926",
+        "nome": "RENATO RAFAEL JUNIOR",
+        "cotista": false,
+        "nota": 79.75,
+        "classificacao": 97
+    },
+    {
+        "inscricao": "230303",
+        "nome": "GUSTAVO GUIMAR\u00c3ES BARBOSA DE FREITAS LIMA",
+        "cotista": false,
+        "nota": 79.75,
+        "classificacao": 98
+    },
+    {
+        "inscricao": "290628",
+        "nome": "GUSTAVO ELPIDIO RIBEIRO DA SILVA",
+        "cotista": false,
+        "nota": 79.75,
+        "classificacao": 99
+    },
+    {
+        "inscricao": "060074",
+        "nome": "BRUNO DOS SANTOS TARGA CHAVES",
+        "cotista": false,
+        "nota": 79.75,
+        "classificacao": 100
+    },
+    {
+        "inscricao": "120340",
+        "nome": "ENRICO WAKIM ASTOLFI PEDRO",
+        "cotista": false,
+        "nota": 79.667,
+        "classificacao": 101
+    },
+    {
+        "inscricao": "060569",
+        "nome": "MARCUS VINICIUS KELLY PEREIRA",
+        "cotista": false,
+        "nota": 79.583,
+        "classificacao": 102
+    },
+    {
+        "inscricao": "340588",
+        "nome": "LUAN GABRIEL SOUZA DOS SANTOS",
+        "cotista": false,
+        "nota": 79.5,
+        "classificacao": 103
+    },
+    {
+        "inscricao": "360047",
+        "nome": "DANIEL MELO DOS PASSOS",
+        "cotista": false,
+        "nota": 79.5,
+        "classificacao": 104
+    },
+    {
+        "inscricao": "060704",
+        "nome": "PEDRO LAS CASAS FONSECA LADEIRA",
+        "cotista": false,
+        "nota": 79.5,
+        "classificacao": 105
+    },
+    {
+        "inscricao": "120624",
+        "nome": "JO\u00c3O FRANCISCO LOUZADA NEVES",
+        "cotista": false,
+        "nota": 79.5,
+        "classificacao": 106
+    },
+    {
+        "inscricao": "040258",
+        "nome": "CRISTOPHER THIERRY DOMINGOS DOS SANTOS",
+        "cotista": false,
+        "nota": 79.417,
+        "classificacao": 107
+    },
+    {
+        "inscricao": "071662",
+        "nome": "RICARDO VIN\u00cdCIUS SILVA",
+        "cotista": false,
+        "nota": 79.333,
+        "classificacao": 108
+    },
+    {
+        "inscricao": "190378",
+        "nome": "GUSTAVO LUIZ DOS SANTOS",
+        "cotista": false,
+        "nota": 79.333,
+        "classificacao": 109
+    },
+    {
+        "inscricao": "290344",
+        "nome": "DIEGO CALADO DE MATTOS",
+        "cotista": false,
+        "nota": 79.333,
+        "classificacao": 110
+    },
+    {
+        "inscricao": "150845",
+        "nome": "LORENZO DEMIGUEL CATALDO MORANI",
+        "cotista": false,
+        "nota": 79.25,
+        "classificacao": 111
+    },
+    {
+        "inscricao": "290803",
+        "nome": "JOAO VITHOR MENDES PEREIRA E SILVA",
+        "cotista": false,
+        "nota": 79.25,
+        "classificacao": 112
+    },
+    {
+        "inscricao": "050905",
+        "nome": "IAGO MAIA ANDRADE",
+        "cotista": false,
+        "nota": 79.25,
+        "classificacao": 113
+    },
+    {
+        "inscricao": "180680",
+        "nome": "MARCO ANT\u00d4NIO CARNEIRO SCHMIDT",
+        "cotista": false,
+        "nota": 79.167,
+        "classificacao": 114
+    },
+    {
+        "inscricao": "291363",
+        "nome": "RAFAEL AUGUSTO BUDZIAK DE OLIVEIRA",
+        "cotista": false,
+        "nota": 79.167,
+        "classificacao": 115
+    },
+    {
+        "inscricao": "291588",
+        "nome": "YAGO LOBO XIMENES",
+        "cotista": false,
+        "nota": 79.167,
+        "classificacao": 116
+    },
+    {
+        "inscricao": "010656",
+        "nome": "LEONARDO SOUTO VIEIRA",
+        "cotista": false,
+        "nota": 79.167,
+        "classificacao": 117
+    },
+    {
+        "inscricao": "270052",
+        "nome": "ALLAN FELIPE ALVES DA COSTA",
+        "cotista": false,
+        "nota": 79.083,
+        "classificacao": 118
+    },
+    {
+        "inscricao": "291364",
+        "nome": "RAFAEL BARBOSA VAZ",
+        "cotista": false,
+        "nota": 79.083,
+        "classificacao": 119
+    },
+    {
+        "inscricao": "181016",
+        "nome": "YURI MANGANELLI VIEIRA",
+        "cotista": false,
+        "nota": 79,
+        "classificacao": 120
+    },
+    {
+        "inscricao": "290735",
+        "nome": "JO\u00c3O EDUARDO MORO HOFFMANN",
+        "cotista": false,
+        "nota": 79,
+        "classificacao": 121
+    },
+    {
+        "inscricao": "050640",
+        "nome": "GABRIEL LUCENA DA CUNHA",
+        "cotista": false,
+        "nota": 79,
+        "classificacao": 122
+    },
+    {
+        "inscricao": "291290",
+        "nome": "PEDRO CAMPANHA NETO",
+        "cotista": false,
+        "nota": 78.917,
+        "classificacao": 123
+    },
+    {
+        "inscricao": "241112",
+        "nome": "KENZO DE OLIVEIRA MATSUDA",
+        "cotista": false,
+        "nota": 78.75,
+        "classificacao": 124
+    },
+    {
+        "inscricao": "291182",
+        "nome": "MATHEUS MACHADO DOS SANTOS",
+        "cotista": false,
+        "nota": 78.75,
+        "classificacao": 125
+    },
+    {
+        "inscricao": "050612",
+        "nome": "GABRIEL ELIAS LOUZADA GONCALVES",
+        "cotista": false,
+        "nota": 78.667,
+        "classificacao": 126
+    },
+    {
+        "inscricao": "040774",
+        "nome": "JO\u00c3O GABRIEL CORREA",
+        "cotista": false,
+        "nota": 78.667,
+        "classificacao": 127
+    },
+    {
+        "inscricao": "360032",
+        "nome": "AUGUSTO DREBOR BARBOSA",
+        "cotista": false,
+        "nota": 78.667,
+        "classificacao": 128
+    },
+    {
+        "inscricao": "190132",
+        "nome": "BRUNO RODRIGUES BARROS",
+        "cotista": false,
+        "nota": 78.667,
+        "classificacao": 129
+    },
+    {
+        "inscricao": "100125",
+        "nome": "ARTHUR MOREIRA DE OLIVEIRA",
+        "cotista": false,
+        "nota": 78.583,
+        "classificacao": 130
+    },
+    {
+        "inscricao": "290255",
+        "nome": "CARLOS VIN\u00cdCIUS GON\u00c7ALVES FEITOSA",
+        "cotista": false,
+        "nota": 78.583,
+        "classificacao": 131
+    },
+    {
+        "inscricao": "180652",
+        "nome": "LUIS HENRIQUE ROCHA GARCIA",
+        "cotista": false,
+        "nota": 78.5,
+        "classificacao": 132
+    },
+    {
+        "inscricao": "291328",
+        "nome": "PEDRO LUCAS DUTRA BRAGA",
+        "cotista": false,
+        "nota": 78.5,
+        "classificacao": 133
+    },
+    {
+        "inscricao": "290127",
+        "nome": "ANTONIO VINICIUS CANDEIRA SOEIRO MOREIRA",
+        "cotista": false,
+        "nota": 78.5,
+        "classificacao": 134
+    },
+    {
+        "inscricao": "290784",
+        "nome": "JOAO PEDRO SIEBRA VIEIRA",
+        "cotista": false,
+        "nota": 78.417,
+        "classificacao": 135
+    },
+    {
+        "inscricao": "140275",
+        "nome": "DAVI SANTOS SILVA",
+        "cotista": false,
+        "nota": 78.417,
+        "classificacao": 136
+    },
+    {
+        "inscricao": "241486",
+        "nome": "MIGUEL ANGELO AZEVEDO LIMA FILHO",
+        "cotista": false,
+        "nota": 78.417,
+        "classificacao": 137
+    },
+    {
+        "inscricao": "290792",
+        "nome": "JO\u00c3O VICTOR C\u00c9SAR SALES FRANCO",
+        "cotista": false,
+        "nota": 78.417,
+        "classificacao": 138
+    },
+    {
+        "inscricao": "240516",
+        "nome": "FELIPE FRIZZERA DE MORAES",
+        "cotista": false,
+        "nota": 78.417,
+        "classificacao": 139
+    },
+    {
+        "inscricao": "020555",
+        "nome": "HENRIQUE DE MARTINI MUNHOZ",
+        "cotista": false,
+        "nota": 78.333,
+        "classificacao": 140
+    },
+    {
+        "inscricao": "290307",
+        "nome": "DAVI BRUNO AZEVEDO",
+        "cotista": false,
+        "nota": 78.333,
+        "classificacao": 141
+    },
+    {
+        "inscricao": "340689",
+        "nome": "MATHEUS GOMES OLIVEIRA MEIRELLES",
+        "cotista": false,
+        "nota": 78.333,
+        "classificacao": 142
+    },
+    {
+        "inscricao": "151005",
+        "nome": "MATEUS GUSTAVO SALES DA SILVA ROMA",
+        "cotista": false,
+        "nota": 78.333,
+        "classificacao": 143
+    },
+    {
+        "inscricao": "280271",
+        "nome": "GABRIEL VICTOR CEOLIM SOUZA",
+        "cotista": false,
+        "nota": 78.25,
+        "classificacao": 144
+    },
+    {
+        "inscricao": "060363",
+        "nome": "JOAO PEDRO ESCANDIEL DE ALMEIDA",
+        "cotista": false,
+        "nota": 78.25,
+        "classificacao": 145
+    },
+    {
+        "inscricao": "010722",
+        "nome": "LUIGI ALANIS PERONIO",
+        "cotista": false,
+        "nota": 78.25,
+        "classificacao": 146
+    },
+    {
+        "inscricao": "280104",
+        "nome": "CAIO ALEXSANDER CALDERON CAVALCANTI",
+        "cotista": true,
+        "nota": 78.25,
+        "classificacao": 147
+    },
+    {
+        "inscricao": "241945",
+        "nome": "VITOR MEDEIROS DA CUNHA",
+        "cotista": false,
+        "nota": 78.167,
+        "classificacao": 148
+    },
+    {
+        "inscricao": "010336",
+        "nome": "FREDERICO DA MOTTA VILLANI",
+        "cotista": false,
+        "nota": 78.167,
+        "classificacao": 149
+    },
+    {
+        "inscricao": "241939",
+        "nome": "VITOR HUGO LEUSIN REGIO",
+        "cotista": false,
+        "nota": 78.083,
+        "classificacao": 150
+    },
+    {
+        "inscricao": "290269",
+        "nome": "C\u00c9SAR AUGUSTO NORONHA E SOUSA JUNIOR",
+        "cotista": false,
+        "nota": 78.083,
+        "classificacao": 151
+    },
+    {
+        "inscricao": "290145",
+        "nome": "ARTHUR BELONI MONTEIRO OLIVEIRA",
+        "cotista": false,
+        "nota": 78.083,
+        "classificacao": 152
+    },
+    {
+        "inscricao": "021184",
+        "nome": "PEDRO NETTO DE ALMEIDA",
+        "cotista": false,
+        "nota": 78.083,
+        "classificacao": 153
+    },
+    {
+        "inscricao": "161293",
+        "nome": "MATHEUS MACHADO CAMPOS",
+        "cotista": false,
+        "nota": 78,
+        "classificacao": 154
+    },
+    {
+        "inscricao": "290177",
+        "nome": "BERNARDO PAPA SEGURA",
+        "cotista": false,
+        "nota": 78,
+        "classificacao": 155
+    },
+    {
+        "inscricao": "210265",
+        "nome": "FABRICIO FARIAS BRANDAO",
+        "cotista": false,
+        "nota": 77.917,
+        "classificacao": 156
+    },
+    {
+        "inscricao": "051515",
+        "nome": "MATHEUS ROCHA MOREIRA RIBEIRO",
+        "cotista": false,
+        "nota": 77.917,
+        "classificacao": 157
+    },
+    {
+        "inscricao": "180219",
+        "nome": "DIEGO NASSIF CARDOZO",
+        "cotista": false,
+        "nota": 77.833,
+        "classificacao": 158
+    },
+    {
+        "inscricao": "291169",
+        "nome": "MATHEUS C\u00c9SAR DOS SANTOS ARA\u00daJO",
+        "cotista": false,
+        "nota": 77.833,
+        "classificacao": 159
+    },
+    {
+        "inscricao": "291306",
+        "nome": "PEDRO HENRIQUE COELHO PONTE",
+        "cotista": false,
+        "nota": 77.833,
+        "classificacao": 160
+    },
+    {
+        "inscricao": "021051",
+        "nome": "MATHEUS SALBEGO ANHALT",
+        "cotista": false,
+        "nota": 77.75,
+        "classificacao": 161
+    },
+    {
+        "inscricao": "160821",
+        "nome": "JO\u00c3O VICTOR DA CRUZ RAPOSO",
+        "cotista": false,
+        "nota": 77.75,
+        "classificacao": 162
+    },
+    {
+        "inscricao": "241925",
+        "nome": "VINICIUS SANTOS DE MAGALHAES",
+        "cotista": true,
+        "nota": 77.667,
+        "classificacao": 163
+    },
+    {
+        "inscricao": "210933",
+        "nome": "VICTOR DA CRUZ SILVA",
+        "cotista": false,
+        "nota": 77.667,
+        "classificacao": 164
+    },
+    {
+        "inscricao": "250127",
+        "nome": "ARTHUR SOUZA FERNANDES",
+        "cotista": false,
+        "nota": 77.667,
+        "classificacao": 165
+    },
+    {
+        "inscricao": "210498",
+        "nome": "JOAO VITOR ARAUJO BATISTA",
+        "cotista": false,
+        "nota": 77.667,
+        "classificacao": 166
+    },
+    {
+        "inscricao": "290752",
+        "nome": "JO\u00c3O LUCAS FERNANDES FELIPE",
+        "cotista": false,
+        "nota": 77.667,
+        "classificacao": 167
+    },
+    {
+        "inscricao": "050812",
+        "nome": "GUSTAVO GOUVEIA LOPES DA SILVA",
+        "cotista": false,
+        "nota": 77.583,
+        "classificacao": 168
+    },
+    {
+        "inscricao": "180015",
+        "nome": "ALONSO DALMORO COUTINHO",
+        "cotista": false,
+        "nota": 77.583,
+        "classificacao": 169
+    },
+    {
+        "inscricao": "241867",
+        "nome": "THIAGO VILELA DE MELO",
+        "cotista": false,
+        "nota": 77.583,
+        "classificacao": 170
+    },
+    {
+        "inscricao": "340498",
+        "nome": "JOSU\u00c9 LUZ BRITO PACHECO",
+        "cotista": true,
+        "nota": 77.583,
+        "classificacao": 171
+    },
+    {
+        "inscricao": "140392",
+        "nome": "GABRIEL DE ALMEIDA COSTA",
+        "cotista": false,
+        "nota": 77.417,
+        "classificacao": 172
+    },
+    {
+        "inscricao": "250499",
+        "nome": "GUILHERME ALVES BARRETO",
+        "cotista": false,
+        "nota": 77.417,
+        "classificacao": 173
+    },
+    {
+        "inscricao": "291098",
+        "nome": "MARCO CAETANO BORILLE NOBRE",
+        "cotista": false,
+        "nota": 77.417,
+        "classificacao": 174
+    },
+    {
+        "inscricao": "101458",
+        "nome": "RODRIGO LEAL DE SOUZA",
+        "cotista": false,
+        "nota": 77.333,
+        "classificacao": 175
+    },
+    {
+        "inscricao": "010079",
+        "nome": "ARTHUR FERREIRA DA SILVA",
+        "cotista": false,
+        "nota": 77.333,
+        "classificacao": 176
+    },
+    {
+        "inscricao": "130522",
+        "nome": "GUILHERME DE ALMEIDA SOARES",
+        "cotista": false,
+        "nota": 77.333,
+        "classificacao": 177
+    },
+    {
+        "inscricao": "210103",
+        "nome": "BRUNO ALBUQUERQUE TINOCO",
+        "cotista": false,
+        "nota": 77.333,
+        "classificacao": 178
+    },
+    {
+        "inscricao": "290205",
+        "nome": "CAIO EDUARDO MACAMBIRA ARA\u00daJO",
+        "cotista": false,
+        "nota": 77.25,
+        "classificacao": 179
+    },
+    {
+        "inscricao": "110349",
+        "nome": "JOSE ROBERTO DA SILVA SARMENTO",
+        "cotista": false,
+        "nota": 77.25,
+        "classificacao": 180
+    },
+    {
+        "inscricao": "241331",
+        "nome": "MARCOS ROG\u00c9RIO BOSHETTI FLORES",
+        "cotista": false,
+        "nota": 77.25,
+        "classificacao": 181
+    },
+    {
+        "inscricao": "241020",
+        "nome": "JOS\u00c9 ANT\u00d4NIO ALC\u00c2NTARA DA SILVA DE ANDRADE",
+        "cotista": false,
+        "nota": 77.25,
+        "classificacao": 182
+    },
+    {
+        "inscricao": "250868",
+        "nome": "LUCAS VALADARES LIMA",
+        "cotista": false,
+        "nota": 77.25,
+        "classificacao": 183
+    },
+    {
+        "inscricao": "291547",
+        "nome": "VIN\u00cdCIUS SCREMIN",
+        "cotista": false,
+        "nota": 77.25,
+        "classificacao": 184
+    },
+    {
+        "inscricao": "210796",
+        "nome": "PAULO ROBERTO",
+        "cotista": false,
+        "nota": 77.167,
+        "classificacao": 185
+    },
+    {
+        "inscricao": "290653",
+        "nome": "HENRICO DALLABONA DE JESUS",
+        "cotista": false,
+        "nota": 77.167,
+        "classificacao": 186
+    },
+    {
+        "inscricao": "271035",
+        "nome": "JOS\u00c9 ALBERTO RODRIGUES DA ROSA J\u00daNIOR",
+        "cotista": false,
+        "nota": 77.167,
+        "classificacao": 187
+    },
+    {
+        "inscricao": "291376",
+        "nome": "RAPHAEL DIAS MOREIRA",
+        "cotista": true,
+        "nota": 77.083,
+        "classificacao": 188
+    },
+    {
+        "inscricao": "140541",
+        "nome": "HENRIQUE DILELIS DE RESENDE SOUSA",
+        "cotista": false,
+        "nota": 77.083,
+        "classificacao": 189
+    },
+    {
+        "inscricao": "040733",
+        "nome": "ITALO AMADEU FERNANDES",
+        "cotista": false,
+        "nota": 77.083,
+        "classificacao": 190
+    },
+    {
+        "inscricao": "010203",
+        "nome": "DEIVTI DIMITRIOS PORTO DOS SANTOS FILHO",
+        "cotista": false,
+        "nota": 77,
+        "classificacao": 191
+    },
+    {
+        "inscricao": "010466",
+        "nome": "HENRIQUE MALYSZ SARZENSKI",
+        "cotista": false,
+        "nota": 76.917,
+        "classificacao": 192
+    },
+    {
+        "inscricao": "030081",
+        "nome": "BRUNO BARRETO BIANCHINI",
+        "cotista": false,
+        "nota": 76.917,
+        "classificacao": 193
+    },
+    {
+        "inscricao": "180322",
+        "nome": "GABRIEL PEREIRA RODRIGUES",
+        "cotista": false,
+        "nota": 76.833,
+        "classificacao": 194
+    },
+    {
+        "inscricao": "190691",
+        "nome": "MARCELO HENRIQUE RODRIGUES",
+        "cotista": false,
+        "nota": 76.833,
+        "classificacao": 195
+    },
+    {
+        "inscricao": "131279",
+        "nome": "RODRIGO DE ALMEIDA BECKHAUSER",
+        "cotista": true,
+        "nota": 76.833,
+        "classificacao": 196
+    },
+    {
+        "inscricao": "130645",
+        "nome": "JO\u00c3O GABRIEL MOTA MARINHO",
+        "cotista": false,
+        "nota": 76.833,
+        "classificacao": 197
+    },
+    {
+        "inscricao": "291537",
+        "nome": "VINICIUS FERREIRA FERNANDES",
+        "cotista": false,
+        "nota": 76.833,
+        "classificacao": 198
+    },
+    {
+        "inscricao": "181008",
+        "nome": "YAGON ENES MENEZES",
+        "cotista": false,
+        "nota": 76.75,
+        "classificacao": 199
+    },
+    {
+        "inscricao": "290550",
+        "nome": "GABRIEL SILVA SENA",
+        "cotista": false,
+        "nota": 76.75,
+        "classificacao": 200
+    },
+    {
+        "inscricao": "101399",
+        "nome": "RA\u00cd HENRIQUE MEDEIROS DA ROCHA",
+        "cotista": false,
+        "nota": 76.75,
+        "classificacao": 201
+    },
+    {
+        "inscricao": "290721",
+        "nome": "JEFTER GOMES MACIEL PAZ",
+        "cotista": false,
+        "nota": 76.75,
+        "classificacao": 202
+    },
+    {
+        "inscricao": "010691",
+        "nome": "LUCAS CARDOZO TEIXEIRA COSTA",
+        "cotista": false,
+        "nota": 76.75,
+        "classificacao": 203
+    },
+    {
+        "inscricao": "280095",
+        "nome": "BRUNO DE FARIAS FRANCO",
+        "cotista": false,
+        "nota": 76.75,
+        "classificacao": 204
+    },
+    {
+        "inscricao": "210325",
+        "nome": "GABRIEL SOUZA DE JONAS GUEDES",
+        "cotista": false,
+        "nota": 76.75,
+        "classificacao": 205
+    },
+    {
+        "inscricao": "110308",
+        "nome": "JO\u00c3O LUIZ LARANJEIRA DA SILVA",
+        "cotista": true,
+        "nota": 76.667,
+        "classificacao": 206
+    },
+    {
+        "inscricao": "291387",
+        "nome": "REANDON COSTA COELHO",
+        "cotista": false,
+        "nota": 76.667,
+        "classificacao": 207
+    },
+    {
+        "inscricao": "160091",
+        "nome": "ANDR\u00c9 MARK SANTOS OLIVEIRA",
+        "cotista": true,
+        "nota": 76.583,
+        "classificacao": 208
+    },
+    {
+        "inscricao": "230624",
+        "nome": "MATHEUS SALES DAMASCENO",
+        "cotista": true,
+        "nota": 76.583,
+        "classificacao": 209
+    },
+    {
+        "inscricao": "051268",
+        "nome": "LUCA DE CASTRO SANNINI",
+        "cotista": false,
+        "nota": 76.583,
+        "classificacao": 210
+    },
+    {
+        "inscricao": "290253",
+        "nome": "CARLOS VICTOR BARA\u00daNA AMORIM",
+        "cotista": true,
+        "nota": 76.583,
+        "classificacao": 211
+    },
+    {
+        "inscricao": "100716",
+        "nome": "JO\u00c3O PAULO SOARES LEITE",
+        "cotista": false,
+        "nota": 76.583,
+        "classificacao": 212
+    },
+    {
+        "inscricao": "290316",
+        "nome": "DAVI JUC\u00c1 PINHEIRO",
+        "cotista": false,
+        "nota": 76.583,
+        "classificacao": 213
+    },
+    {
+        "inscricao": "080696",
+        "nome": "PABLO CAPUCHO DE PAULA",
+        "cotista": false,
+        "nota": 76.5,
+        "classificacao": 214
+    },
+    {
+        "inscricao": "131067",
+        "nome": "MATHEUS DA SILVA MAGALHAES",
+        "cotista": false,
+        "nota": 76.5,
+        "classificacao": 215
+    },
+    {
+        "inscricao": "120066",
+        "nome": "ANDR\u00c9 LUCAS BARCELLOS GUEDES",
+        "cotista": false,
+        "nota": 76.417,
+        "classificacao": 216
+    },
+    {
+        "inscricao": "010356",
+        "nome": "GABRIEL HUNHOFF",
+        "cotista": false,
+        "nota": 76.417,
+        "classificacao": 217
+    },
+    {
+        "inscricao": "150776",
+        "nome": "KAUA PECLAT FERREIRA",
+        "cotista": false,
+        "nota": 76.333,
+        "classificacao": 218
+    },
+    {
+        "inscricao": "240990",
+        "nome": "JOAO VITHOR ERVATTI ROCHA DE LIMA",
+        "cotista": false,
+        "nota": 76.333,
+        "classificacao": 219
+    },
+    {
+        "inscricao": "100262",
+        "nome": "CHRISTIAN FEITOSA DE OLIVEIRA",
+        "cotista": false,
+        "nota": 76.333,
+        "classificacao": 220
+    },
+    {
+        "inscricao": "141226",
+        "nome": "PLINIO MARCOS DE ALBUQUERQUE COSTA",
+        "cotista": false,
+        "nota": 76.333,
+        "classificacao": 221
+    },
+    {
+        "inscricao": "140909",
+        "nome": "LUCAS SOUZA TELLES",
+        "cotista": false,
+        "nota": 76.25,
+        "classificacao": 222
+    },
+    {
+        "inscricao": "170081",
+        "nome": "GABRIEL ANDRADE FLORIANO",
+        "cotista": false,
+        "nota": 76.167,
+        "classificacao": 223
+    },
+    {
+        "inscricao": "101542",
+        "nome": "THIAGO MORAIS DO ROSARIO DE SOUZA",
+        "cotista": true,
+        "nota": 76.167,
+        "classificacao": 224
+    },
+    {
+        "inscricao": "100818",
+        "nome": "JUAN SMITH DIAS LUIZ",
+        "cotista": false,
+        "nota": 76.167,
+        "classificacao": 225
+    },
+    {
+        "inscricao": "340618",
+        "nome": "LUIS EDUARDO DA COSTA DOS SANTOS",
+        "cotista": false,
+        "nota": 76.167,
+        "classificacao": 226
+    },
+    {
+        "inscricao": "241195",
+        "nome": "LUCAS DE ANDRADE FERNANDES RODRIGUES",
+        "cotista": false,
+        "nota": 76.167,
+        "classificacao": 227
+    },
+    {
+        "inscricao": "241249",
+        "nome": "LU\u00cdS EDUARDO BONORINO MARON\u00caS PE\u00c7ANHA",
+        "cotista": false,
+        "nota": 76.167,
+        "classificacao": 228
+    },
+    {
+        "inscricao": "220397",
+        "nome": "THEODORO ELY BISCHOFF",
+        "cotista": false,
+        "nota": 76.083,
+        "classificacao": 229
+    },
+    {
+        "inscricao": "280387",
+        "nome": "JO\u00c3O CARLOS COSTA DE MELO",
+        "cotista": false,
+        "nota": 76.083,
+        "classificacao": 230
+    },
+    {
+        "inscricao": "340299",
+        "nome": "GABRIEL BUCCI DE MELO",
+        "cotista": false,
+        "nota": 76.083,
+        "classificacao": 231
+    },
+    {
+        "inscricao": "151390",
+        "nome": "WANDERSON CARLOS MERCEDES DE SOUSA FILHO",
+        "cotista": false,
+        "nota": 76.083,
+        "classificacao": 232
+    },
+    {
+        "inscricao": "161127",
+        "nome": "LUIS GABRIEL DA SILVA CURTY",
+        "cotista": true,
+        "nota": 76,
+        "classificacao": 233
+    },
+    {
+        "inscricao": "020649",
+        "nome": "JO\u00c3O GABRIEL KINCZIKOWSKI TABACZENISKI",
+        "cotista": false,
+        "nota": 76,
+        "classificacao": 234
+    },
+    {
+        "inscricao": "010452",
+        "nome": "HEITOR SIAS LEITE",
+        "cotista": false,
+        "nota": 76,
+        "classificacao": 235
+    },
+    {
+        "inscricao": "270624",
+        "nome": "GABRIEL LEAL TAVARES",
+        "cotista": false,
+        "nota": 76,
+        "classificacao": 236
+    },
+    {
+        "inscricao": "130423",
+        "nome": "GABRIEL DA SILVA GUERRA TRINDADE",
+        "cotista": false,
+        "nota": 75.917,
+        "classificacao": 237
+    },
+    {
+        "inscricao": "190401",
+        "nome": "HENRIQUE CHARLES FERNANDES CARVALHO",
+        "cotista": false,
+        "nota": 75.833,
+        "classificacao": 238
+    },
+    {
+        "inscricao": "051768",
+        "nome": "RAFAEL APARECIDO GONCALVES BORLOTH",
+        "cotista": false,
+        "nota": 75.833,
+        "classificacao": 239
+    },
+    {
+        "inscricao": "240192",
+        "nome": "ATHOS HENRIQUE LOPES DE OLIVEIRA",
+        "cotista": false,
+        "nota": 75.833,
+        "classificacao": 240
+    },
+    {
+        "inscricao": "080063",
+        "nome": "ARTHUR CAUE DE MELLO SANTOS",
+        "cotista": true,
+        "nota": 75.833,
+        "classificacao": 241
+    },
+    {
+        "inscricao": "291436",
+        "nome": "RYAN BARBOSA CASTRO",
+        "cotista": false,
+        "nota": 75.75,
+        "classificacao": 242
+    },
+    {
+        "inscricao": "051109",
+        "nome": "JUAN PABLO DE ALMEIDA LOPEZ",
+        "cotista": false,
+        "nota": 75.667,
+        "classificacao": 243
+    },
+    {
+        "inscricao": "010570",
+        "nome": "JORGE EDUARDO SARMANHO BOABAID",
+        "cotista": false,
+        "nota": 75.667,
+        "classificacao": 244
+    },
+    {
+        "inscricao": "110341",
+        "nome": "JOAO VITOR BRANDAO MOURAO",
+        "cotista": false,
+        "nota": 75.667,
+        "classificacao": 245
+    },
+    {
+        "inscricao": "200112",
+        "nome": "DAVI SALOM\u00c3O GARCIA LOPES",
+        "cotista": false,
+        "nota": 75.667,
+        "classificacao": 246
+    },
+    {
+        "inscricao": "291310",
+        "nome": "PEDRO HENRIQUE DE LIMA SOUSA",
+        "cotista": false,
+        "nota": 75.667,
+        "classificacao": 247
+    },
+    {
+        "inscricao": "080853",
+        "nome": "V\u00cdTOR ZAGUINI GON\u00c7ALVES",
+        "cotista": true,
+        "nota": 75.583,
+        "classificacao": 248
+    },
+    {
+        "inscricao": "190626",
+        "nome": "LUCAS EDUARDO WAGATSUMA SANTOS",
+        "cotista": false,
+        "nota": 75.583,
+        "classificacao": 249
+    },
+    {
+        "inscricao": "030198",
+        "nome": "GIAN PIETRO RODRIGUES BARIVIEIRA",
+        "cotista": false,
+        "nota": 75.583,
+        "classificacao": 250
+    },
+    {
+        "inscricao": "250422",
+        "nome": "FELIPE SANTANA CARVALHO",
+        "cotista": true,
+        "nota": 75.583,
+        "classificacao": 251
+    },
+    {
+        "inscricao": "070903",
+        "nome": "JOAO RAFAEL CARVALHO CAMARGO",
+        "cotista": false,
+        "nota": 75.583,
+        "classificacao": 252
+    },
+    {
+        "inscricao": "240613",
+        "nome": "GABRIEL KANJI LARANJEIRA CALDAS KAMEI",
+        "cotista": false,
+        "nota": 75.5,
+        "classificacao": 253
+    },
+    {
+        "inscricao": "291158",
+        "nome": "MATEUS CASTRO MARTINS BRAGA DE VASCONCELOS",
+        "cotista": false,
+        "nota": 75.5,
+        "classificacao": 254
+    },
+    {
+        "inscricao": "121277",
+        "nome": "SAMUEL BATISTA DE HOLANDA",
+        "cotista": false,
+        "nota": 75.417,
+        "classificacao": 255
+    },
+    {
+        "inscricao": "041125",
+        "nome": "MARCUS MATHEUS SCHULTZ",
+        "cotista": false,
+        "nota": 75.417,
+        "classificacao": 256
+    },
+    {
+        "inscricao": "290607",
+        "nome": "GUILHERME RIOS CAMPOS FREITAS",
+        "cotista": false,
+        "nota": 75.417,
+        "classificacao": 257
+    },
+    {
+        "inscricao": "060646",
+        "nome": "MURILO PARIZZI LABINAS DE OLIVEIRA",
+        "cotista": false,
+        "nota": 75.417,
+        "classificacao": 258
+    },
+    {
+        "inscricao": "051021",
+        "nome": "JOAO PEDRO NOVAIS XAVIER",
+        "cotista": false,
+        "nota": 75.25,
+        "classificacao": 259
+    },
+    {
+        "inscricao": "040306",
+        "nome": "DIOGO ALBERTI FERREIRA",
+        "cotista": false,
+        "nota": 75.25,
+        "classificacao": 260
+    },
+    {
+        "inscricao": "101389",
+        "nome": "RAFAEL LOPASSO",
+        "cotista": false,
+        "nota": 75.25,
+        "classificacao": 261
+    },
+    {
+        "inscricao": "290523",
+        "nome": "GABRIEL DOS SANTOS CONCEI\u00c7\u00c3O SCHWENGBER",
+        "cotista": false,
+        "nota": 75.25,
+        "classificacao": 262
+    },
+    {
+        "inscricao": "260150",
+        "nome": "GUSTAVO SANTOS BISPO",
+        "cotista": false,
+        "nota": 75.167,
+        "classificacao": 263
+    },
+    {
+        "inscricao": "010047",
+        "nome": "ANDR\u00c9 LUIZ CANALLI",
+        "cotista": false,
+        "nota": 75.167,
+        "classificacao": 264
+    },
+    {
+        "inscricao": "180984",
+        "nome": "VINICIUS RODRIGUES DOMINGUES",
+        "cotista": false,
+        "nota": 75.167,
+        "classificacao": 265
+    },
+    {
+        "inscricao": "070779",
+        "nome": "IAN MARTINS DA SILVA",
+        "cotista": false,
+        "nota": 75.167,
+        "classificacao": 266
+    },
+    {
+        "inscricao": "030354",
+        "nome": "LUCAS MATEUS MADUREIRA TOLEDO",
+        "cotista": false,
+        "nota": 75.167,
+        "classificacao": 267
+    },
+    {
+        "inscricao": "260275",
+        "nome": "LUIZ FELIPE BARRETO UCHOA",
+        "cotista": false,
+        "nota": 75.167,
+        "classificacao": 268
+    },
+    {
+        "inscricao": "170319",
+        "nome": "RUAN JOSE DE OLIVEIRA GIAROLA",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 269
+    },
+    {
+        "inscricao": "210847",
+        "nome": "RAMIRO DE SOUZA PIMENTEL NETO",
+        "cotista": true,
+        "nota": 75.083,
+        "classificacao": 270
+    },
+    {
+        "inscricao": "290204",
+        "nome": "CAIO CIDADE RODRIGUES",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 271
+    },
+    {
+        "inscricao": "141396",
+        "nome": "VIN\u00cdCIUS LEONARDO NUNES MORENO",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 272
+    },
+    {
+        "inscricao": "180048",
+        "nome": "ANDRE CARDOSO ANTUNES BILATE PIZOEIRO",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 273
+    },
+    {
+        "inscricao": "250506",
+        "nome": "GUILHERME GON\u00c7ALVES DE BRITTO",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 274
+    },
+    {
+        "inscricao": "100109",
+        "nome": "ARTHUR AMARAL FERREIRA PERES",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 275
+    },
+    {
+        "inscricao": "060556",
+        "nome": "MARCELO AUGUSTO BARBOSA RODRIGUES",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 276
+    },
+    {
+        "inscricao": "010574",
+        "nome": "JOS\u00c9 PEDRO COSTA CURTA",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 277
+    },
+    {
+        "inscricao": "291067",
+        "nome": "LUIZ HENRIQUE MARTINS SILVA",
+        "cotista": false,
+        "nota": 75.083,
+        "classificacao": 278
+    },
+    {
+        "inscricao": "100385",
+        "nome": "EVIL\u00c1SIO MESQUITA CUNHA",
+        "cotista": true,
+        "nota": 75,
+        "classificacao": 279
+    },
+    {
+        "inscricao": "251099",
+        "nome": "PAULO GUILHERME NUNES DA ROCHA",
+        "cotista": false,
+        "nota": 75,
+        "classificacao": 280
+    },
+    {
+        "inscricao": "291503",
+        "nome": "THOMAZ ANTONY CINTRA PEREIRA",
+        "cotista": false,
+        "nota": 75,
+        "classificacao": 281
+    },
+    {
+        "inscricao": "080559",
+        "nome": "LU\u00cdS GUSTAVO DE SOUZA MENDON\u00c7A",
+        "cotista": false,
+        "nota": 75,
+        "classificacao": 282
+    },
+    {
+        "inscricao": "040900",
+        "nome": "JULIO CESAR DE CAMARGO FESTA",
+        "cotista": false,
+        "nota": 75,
+        "classificacao": 283
+    },
+    {
+        "inscricao": "260136",
+        "nome": "GUILHERME GARCIA OLIVEIRA",
+        "cotista": false,
+        "nota": 74.917,
+        "classificacao": 284
+    },
+    {
+        "inscricao": "100022",
+        "nome": "ALEXANDRE DE ANDRADE SILVA",
+        "cotista": false,
+        "nota": 74.917,
+        "classificacao": 285
+    },
+    {
+        "inscricao": "120659",
+        "nome": "JO\u00c3O PEDRO FERREIRA DE OLIVEIRA",
+        "cotista": false,
+        "nota": 74.917,
+        "classificacao": 286
+    },
+    {
+        "inscricao": "170322",
+        "nome": "RYAN DE OLIVEIRA MATEUS",
+        "cotista": false,
+        "nota": 74.917,
+        "classificacao": 287
+    },
+    {
+        "inscricao": "101315",
+        "nome": "PEDRO GABRIEL RODRIGUES DA SILVA FREITAS",
+        "cotista": false,
+        "nota": 74.917,
+        "classificacao": 288
+    },
+    {
+        "inscricao": "300353",
+        "nome": "JO\u00c3O ELIAS DE MACEDO FILHO",
+        "cotista": false,
+        "nota": 74.917,
+        "classificacao": 289
+    },
+    {
+        "inscricao": "141407",
+        "nome": "VITOR ESTANECH SILVA",
+        "cotista": false,
+        "nota": 74.833,
+        "classificacao": 290
+    },
+    {
+        "inscricao": "100324",
+        "nome": "DOUGLAS PIMENTA DE CASTRO",
+        "cotista": false,
+        "nota": 74.833,
+        "classificacao": 291
+    },
+    {
+        "inscricao": "161267",
+        "nome": "MATEUS BARBOSA VILA NOVA C\u00c2MARA",
+        "cotista": false,
+        "nota": 74.833,
+        "classificacao": 292
+    },
+    {
+        "inscricao": "290769",
+        "nome": "JOAO PAULO RIBEIRO ROLIM",
+        "cotista": false,
+        "nota": 74.833,
+        "classificacao": 293
+    },
+    {
+        "inscricao": "060824",
+        "nome": "VICTOR DE BONA CANDIDO",
+        "cotista": false,
+        "nota": 74.833,
+        "classificacao": 294
+    },
+    {
+        "inscricao": "240161",
+        "nome": "ARTHUR MARTINS CUNHA",
+        "cotista": false,
+        "nota": 74.75,
+        "classificacao": 295
+    },
+    {
+        "inscricao": "290435",
+        "nome": "EWERTON FARINELLI DE MELO SILVA",
+        "cotista": false,
+        "nota": 74.75,
+        "classificacao": 296
+    },
+    {
+        "inscricao": "041573",
+        "nome": "VINICIUS EDUARDO CORAIOLLA",
+        "cotista": false,
+        "nota": 74.75,
+        "classificacao": 297
+    },
+    {
+        "inscricao": "272045",
+        "nome": "VINICIUS RIBEIRO DE SOUZA",
+        "cotista": true,
+        "nota": 74.667,
+        "classificacao": 298
+    },
+    {
+        "inscricao": "160954",
+        "nome": "KAU\u00c3 GON\u00c7ALVES FERNANDES FERREIRA",
+        "cotista": false,
+        "nota": 74.667,
+        "classificacao": 299
+    },
+    {
+        "inscricao": "020262",
+        "nome": "DJONATHAN BITENCOURT LOPES",
+        "cotista": false,
+        "nota": 74.667,
+        "classificacao": 300
+    },
+    {
+        "inscricao": "141296",
+        "nome": "SALOM\u00c3O DAVI PIRES DE CARVALHO DO R\u00caGO",
+        "cotista": true,
+        "nota": 74.667,
+        "classificacao": 301
+    },
+    {
+        "inscricao": "130355",
+        "nome": "ERICK DOS SANTOS TAVARES",
+        "cotista": false,
+        "nota": 74.667,
+        "classificacao": 302
+    },
+    {
+        "inscricao": "200089",
+        "nome": "DANIEL COMPER DRUMOND",
+        "cotista": false,
+        "nota": 74.584,
+        "classificacao": 303
+    },
+    {
+        "inscricao": "010476",
+        "nome": "IGOR ALBUQUERQUE DA SILVA RUIZ",
+        "cotista": false,
+        "nota": 74.583,
+        "classificacao": 304
+    },
+    {
+        "inscricao": "050968",
+        "nome": "JEFERSON DE MOURA SILVA",
+        "cotista": true,
+        "nota": 74.583,
+        "classificacao": 305
+    },
+    {
+        "inscricao": "020329",
+        "nome": "ENDRYEL MONTEIRO TEIXEIRA",
+        "cotista": false,
+        "nota": 74.583,
+        "classificacao": 306
+    },
+    {
+        "inscricao": "241741",
+        "nome": "RICARDO DE CARVALHOSA PASSOS",
+        "cotista": false,
+        "nota": 74.5,
+        "classificacao": 307
+    },
+    {
+        "inscricao": "200500",
+        "nome": "R\u00d4MULO SANTANA MUTZ JUNIOR",
+        "cotista": false,
+        "nota": 74.5,
+        "classificacao": 308
+    },
+    {
+        "inscricao": "010941",
+        "nome": "RAFAEL LORETO DE MORAES",
+        "cotista": false,
+        "nota": 74.5,
+        "classificacao": 309
+    },
+    {
+        "inscricao": "161272",
+        "nome": "MATEUS SOARES MOREIRA",
+        "cotista": false,
+        "nota": 74.5,
+        "classificacao": 310
+    },
+    {
+        "inscricao": "310703",
+        "nome": "J\u00daLIO BARROS SOARES",
+        "cotista": true,
+        "nota": 74.417,
+        "classificacao": 311
+    },
+    {
+        "inscricao": "291024",
+        "nome": "LUCAS TERRA COSTA",
+        "cotista": false,
+        "nota": 74.417,
+        "classificacao": 312
+    },
+    {
+        "inscricao": "280634",
+        "nome": "MATHEUS ROCHA DUARTE",
+        "cotista": true,
+        "nota": 74.417,
+        "classificacao": 313
+    },
+    {
+        "inscricao": "210198",
+        "nome": "EDUARDO AUGUSTO PAES SOLIS",
+        "cotista": false,
+        "nota": 74.417,
+        "classificacao": 314
+    },
+    {
+        "inscricao": "290636",
+        "nome": "GUSTAVO SANTOS SIMAS",
+        "cotista": true,
+        "nota": 74.417,
+        "classificacao": 315
+    },
+    {
+        "inscricao": "271282",
+        "nome": "LUCAS FERNANDO NASCIMENTO BARBOSA DE SOUZA",
+        "cotista": true,
+        "nota": 74.333,
+        "classificacao": 316
+    },
+    {
+        "inscricao": "150259",
+        "nome": "DANIEL MASSUMI ISMERIO TAMURA",
+        "cotista": false,
+        "nota": 74.333,
+        "classificacao": 317
+    },
+    {
+        "inscricao": "290032",
+        "nome": "ALEXANDRE CAVALCANTE NETO",
+        "cotista": false,
+        "nota": 74.333,
+        "classificacao": 318
+    },
+    {
+        "inscricao": "271268",
+        "nome": "LUCAS AUGUSTO DO NASCIMENTO SILVA",
+        "cotista": false,
+        "nota": 74.25,
+        "classificacao": 319
+    },
+    {
+        "inscricao": "240931",
+        "nome": "JOAO MARCOS SOUSA DUMONT",
+        "cotista": false,
+        "nota": 74.25,
+        "classificacao": 320
+    },
+    {
+        "inscricao": "020647",
+        "nome": "JO\u00c3O GABRIEL ALVES BONILHA",
+        "cotista": false,
+        "nota": 74.25,
+        "classificacao": 321
+    },
+    {
+        "inscricao": "150909",
+        "nome": "LUIZ FELIPE LAPORT RODRIGUES DE SOUZA",
+        "cotista": false,
+        "nota": 74.25,
+        "classificacao": 322
+    },
+    {
+        "inscricao": "290967",
+        "nome": "LEYAN SILVA GUIMAR\u00c3ES",
+        "cotista": false,
+        "nota": 74.167,
+        "classificacao": 323
+    },
+    {
+        "inscricao": "010140",
+        "nome": "BRUNO HAHN DE OLIVEIRA",
+        "cotista": false,
+        "nota": 74.167,
+        "classificacao": 324
+    },
+    {
+        "inscricao": "040905",
+        "nome": "KAEHRY ALVES MARCZAOKOSKI",
+        "cotista": false,
+        "nota": 74.167,
+        "classificacao": 325
+    },
+    {
+        "inscricao": "360033",
+        "nome": "AUGUSTO ROCHA",
+        "cotista": false,
+        "nota": 74.167,
+        "classificacao": 326
+    },
+    {
+        "inscricao": "050396",
+        "nome": "DIOGO SANTOS FERREIRA",
+        "cotista": false,
+        "nota": 74.083,
+        "classificacao": 327
+    },
+    {
+        "inscricao": "271383",
+        "nome": "MANUEL ISAAC ARAUJO MACEDO",
+        "cotista": false,
+        "nota": 74.083,
+        "classificacao": 328
+    },
+    {
+        "inscricao": "160471",
+        "nome": "GABRIEL ALBUQUERQUE DA SILVA",
+        "cotista": true,
+        "nota": 74,
+        "classificacao": 329
+    },
+    {
+        "inscricao": "060776",
+        "nome": "SAMUEL BARBOZA MAN\u00c7ANO E SOUZA",
+        "cotista": false,
+        "nota": 74,
+        "classificacao": 330
+    },
+    {
+        "inscricao": "210745",
+        "nome": "MIKAEL DE MEDEIROS SCHMIDT",
+        "cotista": false,
+        "nota": 74,
+        "classificacao": 331
+    },
+    {
+        "inscricao": "120775",
+        "nome": "K\u00caNUE FRAN\u00c7A MELO DE CARVALHO",
+        "cotista": false,
+        "nota": 74,
+        "classificacao": 332
+    },
+    {
+        "inscricao": "210537",
+        "nome": "KASSIO HENRIQUE MACHADO DE SENA",
+        "cotista": true,
+        "nota": 74,
+        "classificacao": 333
+    },
+    {
+        "inscricao": "241667",
+        "nome": "PEDRO ROMERO SANTOS",
+        "cotista": false,
+        "nota": 74,
+        "classificacao": 334
+    },
+    {
+        "inscricao": "010943",
+        "nome": "RAFAEL OLIVEIRA DE SOUZA",
+        "cotista": false,
+        "nota": 73.917,
+        "classificacao": 335
+    },
+    {
+        "inscricao": "090320",
+        "nome": "ESTEVAO RIBEIRO COUTINHO",
+        "cotista": false,
+        "nota": 73.917,
+        "classificacao": 336
+    },
+    {
+        "inscricao": "160674",
+        "nome": "HUGO GUIMAR\u00c3ES GON\u00c7ALVES",
+        "cotista": false,
+        "nota": 73.917,
+        "classificacao": 337
+    },
+    {
+        "inscricao": "210183",
+        "nome": "DAVIDSON PEREIRA DOS SANTOS",
+        "cotista": true,
+        "nota": 73.834,
+        "classificacao": 338
+    },
+    {
+        "inscricao": "240357",
+        "nome": "DAVI BORGES BRINGEL MACHADO",
+        "cotista": false,
+        "nota": 73.833,
+        "classificacao": 339
+    },
+    {
+        "inscricao": "280410",
+        "nome": "JO\u00c3O PEREIRA DE OLIVEIRA NETO",
+        "cotista": false,
+        "nota": 73.833,
+        "classificacao": 340
+    },
+    {
+        "inscricao": "200233",
+        "nome": "HENRIQUE PIVETTA GOMES",
+        "cotista": false,
+        "nota": 73.833,
+        "classificacao": 341
+    },
+    {
+        "inscricao": "241285",
+        "nome": "LUIZ FELIPE DUCAT",
+        "cotista": false,
+        "nota": 73.833,
+        "classificacao": 342
+    },
+    {
+        "inscricao": "071912",
+        "nome": "YURI ACSANY DE ALMEIDA VIEIRA",
+        "cotista": false,
+        "nota": 73.833,
+        "classificacao": 343
+    },
+    {
+        "inscricao": "100258",
+        "nome": "CEZAR AUGUSTO RIBEIRO DA COSTA",
+        "cotista": true,
+        "nota": 73.75,
+        "classificacao": 344
+    },
+    {
+        "inscricao": "180941",
+        "nome": "STEVAN SHAMMAH OLIVEIRA DE JESUS",
+        "cotista": false,
+        "nota": 73.75,
+        "classificacao": 345
+    },
+    {
+        "inscricao": "210502",
+        "nome": "JO\u00c3O VITOR DANTAS DE AZEVEDO",
+        "cotista": true,
+        "nota": 73.75,
+        "classificacao": 346
+    },
+    {
+        "inscricao": "240179",
+        "nome": "ARTHUR SOUZA DA ROCHA",
+        "cotista": false,
+        "nota": 73.75,
+        "classificacao": 347
+    },
+    {
+        "inscricao": "101507",
+        "nome": "ST\u00caNIO HENRIQUE ANDRADE DIAS SEPOLAR",
+        "cotista": false,
+        "nota": 73.667,
+        "classificacao": 348
+    },
+    {
+        "inscricao": "241896",
+        "nome": "VICTOR HUGO FERREIRA MELO",
+        "cotista": true,
+        "nota": 73.667,
+        "classificacao": 349
+    },
+    {
+        "inscricao": "080387",
+        "nome": "JO\u00c3O HENRIQUE GOMES MACIEL",
+        "cotista": false,
+        "nota": 73.667,
+        "classificacao": 350
+    },
+    {
+        "inscricao": "240366",
+        "nome": "DAVI FECURY ZENNI TRIFONI",
+        "cotista": false,
+        "nota": 73.667,
+        "classificacao": 351
+    },
+    {
+        "inscricao": "290530",
+        "nome": "GABRIEL GOUVEIA DIAS BITTENCOURT",
+        "cotista": false,
+        "nota": 73.667,
+        "classificacao": 352
+    },
+    {
+        "inscricao": "140679",
+        "nome": "JOAO PEDRO RODRIGUES DE FARIA",
+        "cotista": false,
+        "nota": 73.583,
+        "classificacao": 353
+    },
+    {
+        "inscricao": "121145",
+        "nome": "PAULO CESAR DANTAS LOUZADA DE SOUZA",
+        "cotista": true,
+        "nota": 73.5,
+        "classificacao": 354
+    },
+    {
+        "inscricao": "110199",
+        "nome": "GABRIEL DE SOUZA ANDRADE DE OLIVEIRA",
+        "cotista": false,
+        "nota": 73.5,
+        "classificacao": 355
+    },
+    {
+        "inscricao": "060386",
+        "nome": "JO\u00c3O VICTOR SILVA",
+        "cotista": false,
+        "nota": 73.5,
+        "classificacao": 356
+    },
+    {
+        "inscricao": "242004",
+        "nome": "YURI KOITI MAEDA SANTANA",
+        "cotista": false,
+        "nota": 73.417,
+        "classificacao": 357
+    },
+    {
+        "inscricao": "240598",
+        "nome": "GABRIEL FERNANDES DA SILVA",
+        "cotista": false,
+        "nota": 73.417,
+        "classificacao": 358
+    },
+    {
+        "inscricao": "290809",
+        "nome": "JO\u00c3O VITOR PINHO SOARES",
+        "cotista": true,
+        "nota": 73.417,
+        "classificacao": 359
+    },
+    {
+        "inscricao": "270920",
+        "nome": "JO\u00c3O GABRIEL RODRIGUES GOMES",
+        "cotista": false,
+        "nota": 73.417,
+        "classificacao": 360
+    },
+    {
+        "inscricao": "071072",
+        "nome": "L\u00c9O ELENA",
+        "cotista": false,
+        "nota": 73.417,
+        "classificacao": 361
+    },
+    {
+        "inscricao": "050955",
+        "nome": "ISRAEL DOS SANTOS HENRIQUES",
+        "cotista": false,
+        "nota": 73.333,
+        "classificacao": 362
+    },
+    {
+        "inscricao": "160624",
+        "nome": "GUSTAVO FLORENTINO BITTENCOURT",
+        "cotista": true,
+        "nota": 73.333,
+        "classificacao": 363
+    },
+    {
+        "inscricao": "041392",
+        "nome": "RAFAEL ALMEIDA DE PAULA SOUZA",
+        "cotista": false,
+        "nota": 73.333,
+        "classificacao": 364
+    },
+    {
+        "inscricao": "120752",
+        "nome": "KAU\u00c3 DE SOUSA ALVES",
+        "cotista": false,
+        "nota": 73.333,
+        "classificacao": 365
+    },
+    {
+        "inscricao": "091247",
+        "nome": "VINICIUS ANDRADE DE OLIVEIRA SOUZA",
+        "cotista": false,
+        "nota": 73.25,
+        "classificacao": 366
+    },
+    {
+        "inscricao": "030061",
+        "nome": "ARTUR DOLZAN MORITZ",
+        "cotista": false,
+        "nota": 73.25,
+        "classificacao": 367
+    },
+    {
+        "inscricao": "190805",
+        "nome": "NICOLAS FORNERO NASCIMENTO",
+        "cotista": false,
+        "nota": 73.25,
+        "classificacao": 368
+    },
+    {
+        "inscricao": "161526",
+        "nome": "RAUL GUSTAVO LIRA DA SILVA",
+        "cotista": false,
+        "nota": 73.25,
+        "classificacao": 369
+    },
+    {
+        "inscricao": "290712",
+        "nome": "JAIME ALEX VITOR VALENTINO",
+        "cotista": false,
+        "nota": 73.25,
+        "classificacao": 370
+    },
+    {
+        "inscricao": "291338",
+        "nome": "PEDRO MAIA DE LIMA SILVA",
+        "cotista": false,
+        "nota": 73.25,
+        "classificacao": 371
+    },
+    {
+        "inscricao": "080482",
+        "nome": "KENNEDY JURANDY BARROS DA SILVA",
+        "cotista": true,
+        "nota": 73.167,
+        "classificacao": 372
+    },
+    {
+        "inscricao": "071482",
+        "nome": "PAULO AUGUSTO FALDA SEEMANN",
+        "cotista": false,
+        "nota": 73.167,
+        "classificacao": 373
+    },
+    {
+        "inscricao": "060219",
+        "nome": "GABRIEL DOS SANTOS TORRES",
+        "cotista": false,
+        "nota": 73.167,
+        "classificacao": 374
+    },
+    {
+        "inscricao": "020519",
+        "nome": "GUSTAVO ADAM",
+        "cotista": false,
+        "nota": 73.167,
+        "classificacao": 375
+    },
+    {
+        "inscricao": "040407",
+        "nome": "EROS ALBERTO TRENTO",
+        "cotista": false,
+        "nota": 73.083,
+        "classificacao": 376
+    },
+    {
+        "inscricao": "280521",
+        "nome": "LOHAN GUTHIERREZ SERRA",
+        "cotista": false,
+        "nota": 73.083,
+        "classificacao": 377
+    },
+    {
+        "inscricao": "210283",
+        "nome": "FELIPE TONIN AGUIAR",
+        "cotista": false,
+        "nota": 73.083,
+        "classificacao": 378
+    },
+    {
+        "inscricao": "101208",
+        "nome": "MATIAS DOS SANTOS AFONSO",
+        "cotista": false,
+        "nota": 73.083,
+        "classificacao": 379
+    },
+    {
+        "inscricao": "070319",
+        "nome": "EDSON SHINJI OTANI",
+        "cotista": false,
+        "nota": 73.083,
+        "classificacao": 380
+    },
+    {
+        "inscricao": "210270",
+        "nome": "FELIPE BARROSO DE MEDEIROS",
+        "cotista": false,
+        "nota": 73,
+        "classificacao": 381
+    },
+    {
+        "inscricao": "130016",
+        "nome": "ALEXANDER TEIXEIRA DOS SANTOS FILHO",
+        "cotista": false,
+        "nota": 73,
+        "classificacao": 382
+    },
+    {
+        "inscricao": "101302",
+        "nome": "PAULO VICTOR MORAES DA SILVA",
+        "cotista": false,
+        "nota": 73,
+        "classificacao": 383
+    },
+    {
+        "inscricao": "291278",
+        "nome": "PAULO JEFFERSON OLIVEIRA COSTA",
+        "cotista": true,
+        "nota": 73,
+        "classificacao": 384
+    },
+    {
+        "inscricao": "291019",
+        "nome": "LUCAS RAFAEL BRAGA NASCIMENTO",
+        "cotista": false,
+        "nota": 73,
+        "classificacao": 385
+    },
+    {
+        "inscricao": "280430",
+        "nome": "JOO VICTOR LEITE CUNHA SILVA",
+        "cotista": true,
+        "nota": 72.917,
+        "classificacao": 386
+    },
+    {
+        "inscricao": "140412",
+        "nome": "GABRIEL HENRIQUE DE SOUSA DA SILVA",
+        "cotista": true,
+        "nota": 72.917,
+        "classificacao": 387
+    },
+    {
+        "inscricao": "051738",
+        "nome": "PEDRO PAULO FIORETTO BIANCONI DE OLIVEIRA",
+        "cotista": true,
+        "nota": 72.917,
+        "classificacao": 388
+    },
+    {
+        "inscricao": "080653",
+        "nome": "MATHEUS REIS DE OLIVEIRA",
+        "cotista": false,
+        "nota": 72.917,
+        "classificacao": 389
+    },
+    {
+        "inscricao": "291603",
+        "nome": "YURI MAGALH\u00c3ES CANTO",
+        "cotista": false,
+        "nota": 72.917,
+        "classificacao": 390
+    },
+    {
+        "inscricao": "180368",
+        "nome": "GUILHERME LEOPOLDO GARCIA",
+        "cotista": false,
+        "nota": 72.917,
+        "classificacao": 391
+    },
+    {
+        "inscricao": "100753",
+        "nome": "JO\u00c3O VICTOR GALDINO RIVERO RIVERO",
+        "cotista": false,
+        "nota": 72.917,
+        "classificacao": 392
+    },
+    {
+        "inscricao": "160243",
+        "nome": "CARLOS ALBERTO LEONARDO DE ARA\u00daJO",
+        "cotista": false,
+        "nota": 72.833,
+        "classificacao": 393
+    },
+    {
+        "inscricao": "100216",
+        "nome": "CAIQUE GUEDES CONDE SANGENIS",
+        "cotista": false,
+        "nota": 72.833,
+        "classificacao": 394
+    },
+    {
+        "inscricao": "050542",
+        "nome": "FELIPE PEREZ AUGUSTO DOS SANTOS",
+        "cotista": false,
+        "nota": 72.833,
+        "classificacao": 395
+    },
+    {
+        "inscricao": "020495",
+        "nome": "GUILHERME FEDERIZZI",
+        "cotista": false,
+        "nota": 72.75,
+        "classificacao": 396
+    },
+    {
+        "inscricao": "270640",
+        "nome": "GABRIEL VIANA LOUREN\u00c7O",
+        "cotista": false,
+        "nota": 72.75,
+        "classificacao": 397
+    },
+    {
+        "inscricao": "240001",
+        "nome": "ABIEL DANTAS LIMA",
+        "cotista": true,
+        "nota": 72.667,
+        "classificacao": 398
+    },
+    {
+        "inscricao": "030441",
+        "nome": "PEDRO FERREIRA TRUPEL",
+        "cotista": false,
+        "nota": 72.667,
+        "classificacao": 399
+    },
+    {
+        "inscricao": "020644",
+        "nome": "JO\u00c3O EDUARDO MC MANNIS DE LIMA",
+        "cotista": false,
+        "nota": 72.667,
+        "classificacao": 400
+    },
+    {
+        "inscricao": "241040",
+        "nome": "JUAN LONDERO FABRICIO",
+        "cotista": false,
+        "nota": 72.667,
+        "classificacao": 401
+    },
+    {
+        "inscricao": "101170",
+        "nome": "MATEUS LIMA REIS",
+        "cotista": true,
+        "nota": 72.583,
+        "classificacao": 402
+    },
+    {
+        "inscricao": "161319",
+        "nome": "MIGUEL GOMES DA SILVA SANTOS",
+        "cotista": true,
+        "nota": 72.583,
+        "classificacao": 403
+    },
+    {
+        "inscricao": "240703",
+        "nome": "GUILHERME PADOAN FERRI",
+        "cotista": false,
+        "nota": 72.583,
+        "classificacao": 404
+    },
+    {
+        "inscricao": "020871",
+        "nome": "LORENZO GABRIEL SCHMIDT HERTER",
+        "cotista": false,
+        "nota": 72.583,
+        "classificacao": 405
+    },
+    {
+        "inscricao": "311065",
+        "nome": "PEDRO HENRIQUE SANTOS BARATA OLIVEIRA",
+        "cotista": false,
+        "nota": 72.583,
+        "classificacao": 406
+    },
+    {
+        "inscricao": "051878",
+        "nome": "RYAN CARNEIRO SENA",
+        "cotista": true,
+        "nota": 72.5,
+        "classificacao": 407
+    },
+    {
+        "inscricao": "110121",
+        "nome": "DANIEL LUIZ SILVA DANTAS",
+        "cotista": false,
+        "nota": 72.5,
+        "classificacao": 408
+    },
+    {
+        "inscricao": "090134",
+        "nome": "BRENO DA CRUZ TEIXEIRA",
+        "cotista": true,
+        "nota": 72.5,
+        "classificacao": 409
+    },
+    {
+        "inscricao": "041198",
+        "nome": "MATHEUS FERNANDES DOMINGUES",
+        "cotista": false,
+        "nota": 72.5,
+        "classificacao": 410
+    },
+    {
+        "inscricao": "121042",
+        "nome": "MATHEUS DOS SANTOS ALMEIDA DO CARMO PEREIRA",
+        "cotista": true,
+        "nota": 72.5,
+        "classificacao": 411
+    },
+    {
+        "inscricao": "190256",
+        "nome": "ERICK DOUGLAS CARVALHO VARGAS",
+        "cotista": false,
+        "nota": 72.5,
+        "classificacao": 412
+    },
+    {
+        "inscricao": "060507",
+        "nome": "LUCAS SIMAO DE OLIVEIRA",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 413
+    },
+    {
+        "inscricao": "240377",
+        "nome": "DAVI WESLEY COSTA DE LIMA",
+        "cotista": true,
+        "nota": 72.417,
+        "classificacao": 414
+    },
+    {
+        "inscricao": "210456",
+        "nome": "JO\u00c3O GUILHERME DE SOUZA BARBOZA",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 415
+    },
+    {
+        "inscricao": "160249",
+        "nome": "CARLOS EDUARDO DA COSTA GOUVEA",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 416
+    },
+    {
+        "inscricao": "100773",
+        "nome": "JO\u00c3O VITOR NUNES DA SILVA",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 417
+    },
+    {
+        "inscricao": "090863",
+        "nome": "MARCO ANTONIO OLIVEIRA DE LIMA FILHO",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 418
+    },
+    {
+        "inscricao": "020792",
+        "nome": "KAUE PINTO DA CRUZ",
+        "cotista": false,
+        "nota": 72.333,
+        "classificacao": 419
+    },
+    {
+        "inscricao": "280001",
+        "nome": "ABNER AUGUSTO C\u00cdCERO DE LIMA",
+        "cotista": false,
+        "nota": 72.333,
+        "classificacao": 420
+    },
+    {
+        "inscricao": "260409",
+        "nome": "V\u00cdTOR HUGO DE CARVALHO DAMASCENA",
+        "cotista": false,
+        "nota": 72.25,
+        "classificacao": 421
+    },
+    {
+        "inscricao": "021328",
+        "nome": "VINICIUS CARVALHO BOLZAN",
+        "cotista": false,
+        "nota": 72.25,
+        "classificacao": 422
+    },
+    {
+        "inscricao": "101571",
+        "nome": "VICTOR ROMEU LEONISSA",
+        "cotista": false,
+        "nota": 72.25,
+        "classificacao": 423
+    },
+    {
+        "inscricao": "290802",
+        "nome": "JO\u00c3O VIN\u00cdCIUS PAIVA LAURENTINO",
+        "cotista": false,
+        "nota": 72.25,
+        "classificacao": 424
+    },
+    {
+        "inscricao": "110135",
+        "nome": "DAVI FASSARELLA PEREIRA",
+        "cotista": false,
+        "nota": 72.25,
+        "classificacao": 425
+    },
+    {
+        "inscricao": "060724",
+        "nome": "RAFAEL OLIVEIRA FELIX",
+        "cotista": false,
+        "nota": 72.25,
+        "classificacao": 426
+    },
+    {
+        "inscricao": "180634",
+        "nome": "LUCAS RODRIGUES GON\u00c7ALVES",
+        "cotista": false,
+        "nota": 72.25,
+        "classificacao": 427
+    },
+    {
+        "inscricao": "291186",
+        "nome": "MATHEUS OBARA ANTUNES",
+        "cotista": false,
+        "nota": 72.25,
+        "classificacao": 428
+    },
+    {
+        "inscricao": "241200",
+        "nome": "LUCAS DUTRA FERRAZ DE CAMPOS",
+        "cotista": true,
+        "nota": 72.167,
+        "classificacao": 429
+    },
+    {
+        "inscricao": "030028",
+        "nome": "ANDR\u00c9 CRISTIAN PEREIRA",
+        "cotista": false,
+        "nota": 72.167,
+        "classificacao": 430
+    },
+    {
+        "inscricao": "100208",
+        "nome": "CAIO MARCELO VEN\u00c2NCIO PEREIRA DOS SANTOS",
+        "cotista": true,
+        "nota": 72.083,
+        "classificacao": 431
+    },
+    {
+        "inscricao": "110236",
+        "nome": "GUILHERME ANTONIO DINUCCI DA SILVA",
+        "cotista": true,
+        "nota": 72.083,
+        "classificacao": 432
+    },
+    {
+        "inscricao": "040159",
+        "nome": "BERNARDO VALERIO MALINOSKI",
+        "cotista": false,
+        "nota": 72.083,
+        "classificacao": 433
+    },
+    {
+        "inscricao": "180945",
+        "nome": "TALES FERREIRA RODRIGUES",
+        "cotista": false,
+        "nota": 72.083,
+        "classificacao": 434
+    },
+    {
+        "inscricao": "240723",
+        "nome": "GUSTAVO COSTA SANTOS GON\u00c7ALVES",
+        "cotista": true,
+        "nota": 72.083,
+        "classificacao": 435
+    },
+    {
+        "inscricao": "290749",
+        "nome": "JO\u00c3O LUCAS ARAG\u00c3O MAR\u00c7AL",
+        "cotista": false,
+        "nota": 72.083,
+        "classificacao": 436
+    },
+    {
+        "inscricao": "280680",
+        "nome": "PEDRO AUGUSTO DO NASCIMENTO LYRA",
+        "cotista": true,
+        "nota": 72,
+        "classificacao": 437
+    },
+    {
+        "inscricao": "241673",
+        "nome": "PETERSON MACEDO DE OLIVEIRA DA SILVA",
+        "cotista": false,
+        "nota": 72,
+        "classificacao": 438
+    },
+    {
+        "inscricao": "180612",
+        "nome": "LUCAS DE OLIVEIRA FERRAZ CONRADO",
+        "cotista": false,
+        "nota": 72,
+        "classificacao": 439
+    },
+    {
+        "inscricao": "140312",
+        "nome": "EMANNUEL TROMBINI TAVARES",
+        "cotista": false,
+        "nota": 72,
+        "classificacao": 440
+    },
+    {
+        "inscricao": "291426",
+        "nome": "R\u00d4MULLO BARROSO DE ARA\u00daJO",
+        "cotista": false,
+        "nota": 72,
+        "classificacao": 441
+    },
+    {
+        "inscricao": "291493",
+        "nome": "THELDER WODSON DE SOUSA DUARTE",
+        "cotista": false,
+        "nota": 72,
+        "classificacao": 442
+    },
+    {
+        "inscricao": "250152",
+        "nome": "BRENO EDUARDO NOGUEIRA FRAGA",
+        "cotista": true,
+        "nota": 72,
+        "classificacao": 443
+    },
+    {
+        "inscricao": "051924",
+        "nome": "S\u00c9RGIO GON\u00c7ALVES FILHO",
+        "cotista": false,
+        "nota": 71.917,
+        "classificacao": 444
+    },
+    {
+        "inscricao": "200555",
+        "nome": "WENDHOUVITYS MARTINS DA SILVA",
+        "cotista": false,
+        "nota": 71.917,
+        "classificacao": 445
+    },
+    {
+        "inscricao": "290821",
+        "nome": "JONAS SOARES DA SILVA",
+        "cotista": false,
+        "nota": 71.917,
+        "classificacao": 446
+    },
+    {
+        "inscricao": "200533",
+        "nome": "TIAGO LINO SAMPAIO GUETLER",
+        "cotista": true,
+        "nota": 71.917,
+        "classificacao": 447
+    },
+    {
+        "inscricao": "290449",
+        "nome": "FELIPE KELLER",
+        "cotista": false,
+        "nota": 71.917,
+        "classificacao": 448
+    },
+    {
+        "inscricao": "050619",
+        "nome": "GABRIEL GAMAS GIUNTINI",
+        "cotista": false,
+        "nota": 71.833,
+        "classificacao": 449
+    },
+    {
+        "inscricao": "220088",
+        "nome": "DOUGLAS CAVALCANTE RIBEIRO",
+        "cotista": true,
+        "nota": 71.833,
+        "classificacao": 450
+    },
+    {
+        "inscricao": "050753",
+        "nome": "GUILHERME EVANGELISTA PEREIRA",
+        "cotista": false,
+        "nota": 71.833,
+        "classificacao": 451
+    },
+    {
+        "inscricao": "220238",
+        "nome": "KENZO KAWAKAMI",
+        "cotista": false,
+        "nota": 71.833,
+        "classificacao": 452
+    },
+    {
+        "inscricao": "291272",
+        "nome": "PAULO BERNARDO BARROSO DE ALMEIDA",
+        "cotista": false,
+        "nota": 71.833,
+        "classificacao": 453
+    },
+    {
+        "inscricao": "060849",
+        "nome": "VINICIUS GOBATO VIEIRA BENTO",
+        "cotista": false,
+        "nota": 71.75,
+        "classificacao": 454
+    },
+    {
+        "inscricao": "250097",
+        "nome": "ANT\u00d4NIO BRUNO MENDES SILVA",
+        "cotista": true,
+        "nota": 71.75,
+        "classificacao": 455
+    },
+    {
+        "inscricao": "340173",
+        "nome": "DANIEL RODRIGUES CAVALCANTE DE MENEZES",
+        "cotista": false,
+        "nota": 71.75,
+        "classificacao": 456
+    },
+    {
+        "inscricao": "051519",
+        "nome": "MATHEUS SALES GERMANO SILVA",
+        "cotista": false,
+        "nota": 71.75,
+        "classificacao": 457
+    },
+    {
+        "inscricao": "010927",
+        "nome": "PEDRO SCHULTZ ALMEIDA",
+        "cotista": false,
+        "nota": 71.75,
+        "classificacao": 458
+    },
+    {
+        "inscricao": "271558",
+        "nome": "MATHEUS SOARES MELO",
+        "cotista": false,
+        "nota": 71.75,
+        "classificacao": 459
+    },
+    {
+        "inscricao": "270464",
+        "nome": "EDUARDO PIETRO EVANGELISTA LIMA LACERDA",
+        "cotista": false,
+        "nota": 71.75,
+        "classificacao": 460
+    },
+    {
+        "inscricao": "241679",
+        "nome": "RAFAEL AUGUSTO DE OLIVEIRA CUNHA",
+        "cotista": false,
+        "nota": 71.75,
+        "classificacao": 461
+    },
+    {
+        "inscricao": "040138",
+        "nome": "ARTHUR RODRIGUES AREND DA SILVA",
+        "cotista": false,
+        "nota": 71.75,
+        "classificacao": 462
+    },
+    {
+        "inscricao": "011052",
+        "nome": "VICENZZO REINA BELMONTE",
+        "cotista": false,
+        "nota": 71.667,
+        "classificacao": 463
+    },
+    {
+        "inscricao": "100711",
+        "nome": "JO\u00c3O PAULO DO SANTOS QUEIROZ",
+        "cotista": false,
+        "nota": 71.667,
+        "classificacao": 464
+    },
+    {
+        "inscricao": "271285",
+        "nome": "LUCAS FIRMINO DOS SANTOS",
+        "cotista": true,
+        "nota": 71.667,
+        "classificacao": 465
+    },
+    {
+        "inscricao": "250207",
+        "nome": "CARLOS MAGNO DE ARAGAO CORDEIRO FILHO",
+        "cotista": true,
+        "nota": 71.667,
+        "classificacao": 466
+    },
+    {
+        "inscricao": "040683",
+        "nome": "HENRIQUE KLEMANN ROHWEDER",
+        "cotista": false,
+        "nota": 71.583,
+        "classificacao": 467
+    },
+    {
+        "inscricao": "290312",
+        "nome": "DAVI FARIAS BRASIL",
+        "cotista": false,
+        "nota": 71.583,
+        "classificacao": 468
+    },
+    {
+        "inscricao": "060214",
+        "nome": "GABRIEL DA SILVA BECKMANN",
+        "cotista": false,
+        "nota": 71.5,
+        "classificacao": 469
+    },
+    {
+        "inscricao": "121143",
+        "nome": "PATRICK RAMOS NUNES",
+        "cotista": false,
+        "nota": 71.5,
+        "classificacao": 470
+    },
+    {
+        "inscricao": "290229",
+        "nome": "CARLOS DANIEL PALHANO DE OLIVEIRA FILHO",
+        "cotista": false,
+        "nota": 71.5,
+        "classificacao": 471
+    },
+    {
+        "inscricao": "180904",
+        "nome": "RODNEY DE MAGALHAES FILHO",
+        "cotista": true,
+        "nota": 71.5,
+        "classificacao": 472
+    },
+    {
+        "inscricao": "240529",
+        "nome": "FELIPE MINARDI SABBA DE ALENCAR",
+        "cotista": false,
+        "nota": 71.5,
+        "classificacao": 473
+    },
+    {
+        "inscricao": "071857",
+        "nome": "VITOR HENRIQUE PECORARO",
+        "cotista": false,
+        "nota": 71.5,
+        "classificacao": 474
+    },
+    {
+        "inscricao": "100331",
+        "nome": "EDUARDO DA SILVA PEREIRA",
+        "cotista": false,
+        "nota": 71.417,
+        "classificacao": 475
+    },
+    {
+        "inscricao": "010239",
+        "nome": "EDUARDO DE FREITAS CHIES",
+        "cotista": false,
+        "nota": 71.417,
+        "classificacao": 476
+    },
+    {
+        "inscricao": "010310",
+        "nome": "FELIPE LARREA FERNANDES",
+        "cotista": true,
+        "nota": 71.417,
+        "classificacao": 477
+    },
+    {
+        "inscricao": "240752",
+        "nome": "HEITOR JORGE VALENTE BITTENCOURT",
+        "cotista": false,
+        "nota": 71.417,
+        "classificacao": 478
+    },
+    {
+        "inscricao": "300343",
+        "nome": "JEFFERSON LUCAS MORAIS SOARES",
+        "cotista": false,
+        "nota": 71.417,
+        "classificacao": 479
+    },
+    {
+        "inscricao": "290952",
+        "nome": "LEONARDO PAILLO DA SILVA",
+        "cotista": false,
+        "nota": 71.417,
+        "classificacao": 480
+    },
+    {
+        "inscricao": "240632",
+        "nome": "GABRIEL SAMIR T\u00c1VORA JACQUES RESENDE",
+        "cotista": false,
+        "nota": 71.334,
+        "classificacao": 481
+    },
+    {
+        "inscricao": "100183",
+        "nome": "BRUNO DA SILVA MACEDO",
+        "cotista": false,
+        "nota": 71.334,
+        "classificacao": 482
+    },
+    {
+        "inscricao": "140368",
+        "nome": "GABRIEL AMORIM VILLA REAL DE BARROS",
+        "cotista": false,
+        "nota": 71.333,
+        "classificacao": 483
+    },
+    {
+        "inscricao": "271288",
+        "nome": "LUCAS GABRIEL ALBUQUERQUE ANDRADE",
+        "cotista": true,
+        "nota": 71.333,
+        "classificacao": 484
+    },
+    {
+        "inscricao": "270555",
+        "nome": "FELIPE DE SOUSA BARBOSA",
+        "cotista": false,
+        "nota": 71.25,
+        "classificacao": 485
+    },
+    {
+        "inscricao": "131161",
+        "nome": "PAULO SERGIO CREDER COELHO",
+        "cotista": false,
+        "nota": 71.25,
+        "classificacao": 486
+    },
+    {
+        "inscricao": "250354",
+        "nome": "EMANUEL SANTANA DE ALMEIDA",
+        "cotista": true,
+        "nota": 71.25,
+        "classificacao": 487
+    },
+    {
+        "inscricao": "101044",
+        "nome": "LUIZ CARLOS SOUZA HORT\u00caNCIO",
+        "cotista": false,
+        "nota": 71.25,
+        "classificacao": 488
+    },
+    {
+        "inscricao": "120868",
+        "nome": "LUCAS FERREIRA ARMINI COUTINHO",
+        "cotista": false,
+        "nota": 71.25,
+        "classificacao": 489
+    },
+    {
+        "inscricao": "180352",
+        "nome": "GIOVANNI CAMPISSE BORBONI",
+        "cotista": false,
+        "nota": 71.167,
+        "classificacao": 490
+    },
+    {
+        "inscricao": "270773",
+        "nome": "HIGOR BRUNO MELO DA SILVA",
+        "cotista": true,
+        "nota": 71.167,
+        "classificacao": 491
+    },
+    {
+        "inscricao": "272060",
+        "nome": "VITOR GABRIEL SOUSA RIBEIRO",
+        "cotista": false,
+        "nota": 71.167,
+        "classificacao": 492
+    },
+    {
+        "inscricao": "141132",
+        "nome": "NICOLAS DOS SANTOS MATOS PINTO",
+        "cotista": true,
+        "nota": 71.167,
+        "classificacao": 493
+    },
+    {
+        "inscricao": "060481",
+        "nome": "LUCAS ALVES GAZALE",
+        "cotista": false,
+        "nota": 71.167,
+        "classificacao": 494
+    },
+    {
+        "inscricao": "020099",
+        "nome": "ARTHUR LEI FERNANDES NUNES",
+        "cotista": false,
+        "nota": 71.083,
+        "classificacao": 495
+    },
+    {
+        "inscricao": "290534",
+        "nome": "GABRIEL LEITE LUZ",
+        "cotista": false,
+        "nota": 71.083,
+        "classificacao": 496
+    },
+    {
+        "inscricao": "070209",
+        "nome": "CARLOS EDUARDO DUTRA DE CARVALHO ALMEIDA",
+        "cotista": false,
+        "nota": 71.083,
+        "classificacao": 497
+    },
+    {
+        "inscricao": "240291",
+        "nome": "CARLOS FELIPE DIRSCHEN CABRAL",
+        "cotista": false,
+        "nota": 71,
+        "classificacao": 498
+    },
+    {
+        "inscricao": "161453",
+        "nome": "PEDRO HENRIQUE SILVA PEREIRA",
+        "cotista": false,
+        "nota": 71,
+        "classificacao": 499
+    },
+    {
+        "inscricao": "190535",
+        "nome": "JOS\u00c9 MAURO JERONIMO CARVALHO DA COSTA",
+        "cotista": false,
+        "nota": 71,
+        "classificacao": 500
+    },
+    {
+        "inscricao": "290178",
+        "nome": "BESALEEL DE OLIVEIRA NEPOMUCENO",
+        "cotista": true,
+        "nota": 71,
+        "classificacao": 501
+    },
+    {
+        "inscricao": "210966",
+        "nome": "VINICIUS SANTOS DE SOUZA",
+        "cotista": false,
+        "nota": 71,
+        "classificacao": 502
+    },
+    {
+        "inscricao": "290888",
+        "nome": "KAIO LOPES VIEIRA LUZ",
+        "cotista": false,
+        "nota": 71,
+        "classificacao": 503
+    },
+    {
+        "inscricao": "272004",
+        "nome": "VALMIR EDSON MOURA BESERRA",
+        "cotista": true,
+        "nota": 71,
+        "classificacao": 504
+    },
+    {
+        "inscricao": "220035",
+        "nome": "ARTHUR MICHELS AVANCINI",
+        "cotista": false,
+        "nota": 71,
+        "classificacao": 505
+    },
+    {
+        "inscricao": "180471",
+        "nome": "JO\u00c3O VICTOR ALVARENGA CASSIANO PAIXAO",
+        "cotista": false,
+        "nota": 70.917,
+        "classificacao": 506
+    },
+    {
+        "inscricao": "120860",
+        "nome": "LUCAS DAVI OLIVEIRA E SILVA",
+        "cotista": true,
+        "nota": 70.917,
+        "classificacao": 507
+    },
+    {
+        "inscricao": "080184",
+        "nome": "EDIRLEI ELDER MACHADO FILHO",
+        "cotista": false,
+        "nota": 70.917,
+        "classificacao": 508
+    },
+    {
+        "inscricao": "340734",
+        "nome": "NICOLAS PEREIRA RIBEIRO",
+        "cotista": false,
+        "nota": 70.917,
+        "classificacao": 509
+    },
+    {
+        "inscricao": "051757",
+        "nome": "PETERSON PEREIRA",
+        "cotista": false,
+        "nota": 70.833,
+        "classificacao": 510
+    },
+    {
+        "inscricao": "050280",
+        "nome": "CARLOS EDUARDO LIMA DE SOUSA",
+        "cotista": true,
+        "nota": 70.833,
+        "classificacao": 511
+    },
+    {
+        "inscricao": "071437",
+        "nome": "NICOLAS DE OLIVEIRA DONATO",
+        "cotista": false,
+        "nota": 70.833,
+        "classificacao": 512
+    },
+    {
+        "inscricao": "040567",
+        "nome": "GIANCARLO MIRA OTTO FILHO",
+        "cotista": false,
+        "nota": 70.833,
+        "classificacao": 513
+    },
+    {
+        "inscricao": "160191",
+        "nome": "BRENO PINHEIRO PITAMEIA",
+        "cotista": false,
+        "nota": 70.833,
+        "classificacao": 514
+    },
+    {
+        "inscricao": "280524",
+        "nome": "LUAN VYCTOR LOPES DE MELO CUNHA",
+        "cotista": false,
+        "nota": 70.75,
+        "classificacao": 515
+    },
+    {
+        "inscricao": "180296",
+        "nome": "GABRIEL DE SOUZA BARROS FAGUNDES",
+        "cotista": false,
+        "nota": 70.667,
+        "classificacao": 516
+    },
+    {
+        "inscricao": "160212",
+        "nome": "CAIO FOLLY DE CARVALHO",
+        "cotista": false,
+        "nota": 70.667,
+        "classificacao": 517
+    },
+    {
+        "inscricao": "180495",
+        "nome": "JO\u00c3O VITOR SILVA COSTA",
+        "cotista": false,
+        "nota": 70.583,
+        "classificacao": 518
+    },
+    {
+        "inscricao": "040228",
+        "nome": "CARLOS STRESSER DE ASSIS",
+        "cotista": false,
+        "nota": 70.583,
+        "classificacao": 519
+    },
+    {
+        "inscricao": "151034",
+        "nome": "MATHEUS OLIVEIRA SEABRA DOS SANTOS",
+        "cotista": false,
+        "nota": 70.583,
+        "classificacao": 520
+    },
+    {
+        "inscricao": "010477",
+        "nome": "IGOR AZEVEDO DA SILVA ALVES",
+        "cotista": false,
+        "nota": 70.5,
+        "classificacao": 521
+    },
+    {
+        "inscricao": "241035",
+        "nome": "JOSUE MARTINS RIBEIRO",
+        "cotista": false,
+        "nota": 70.5,
+        "classificacao": 522
+    },
+    {
+        "inscricao": "240170",
+        "nome": "ARTHUR ROCHA GUERBE FERA DE ALMADA",
+        "cotista": false,
+        "nota": 70.5,
+        "classificacao": 523
+    },
+    {
+        "inscricao": "100764",
+        "nome": "JO\u00c3O VITOR DA SILVA SANT' ANA",
+        "cotista": false,
+        "nota": 70.5,
+        "classificacao": 524
+    },
+    {
+        "inscricao": "021121",
+        "nome": "NICOLLAS GUEDES DOS REIS",
+        "cotista": false,
+        "nota": 70.5,
+        "classificacao": 525
+    },
+    {
+        "inscricao": "240953",
+        "nome": "JOAO PEDRO MAIA PIRES",
+        "cotista": true,
+        "nota": 70.5,
+        "classificacao": 526
+    },
+    {
+        "inscricao": "030531",
+        "nome": "VINICIUS FERNANDES DOMINGOS",
+        "cotista": false,
+        "nota": 70.417,
+        "classificacao": 527
+    },
+    {
+        "inscricao": "230068",
+        "nome": "ATHOS DANIEL DE SOUZA DIOGO",
+        "cotista": true,
+        "nota": 70.417,
+        "classificacao": 528
+    },
+    {
+        "inscricao": "161520",
+        "nome": "RAPHAEL LIMA SANTA RITA",
+        "cotista": false,
+        "nota": 70.417,
+        "classificacao": 529
+    },
+    {
+        "inscricao": "271294",
+        "nome": "LUCAS HENRIQUE DIAS DE SOUZA",
+        "cotista": true,
+        "nota": 70.417,
+        "classificacao": 530
+    },
+    {
+        "inscricao": "260023",
+        "nome": "ANDRE SANTOS DA SILVA FILHO",
+        "cotista": false,
+        "nota": 70.334,
+        "classificacao": 531
+    },
+    {
+        "inscricao": "021151",
+        "nome": "PAULO ROBERTO DIAS DA SILVA FILHO",
+        "cotista": false,
+        "nota": 70.333,
+        "classificacao": 532
+    },
+    {
+        "inscricao": "070636",
+        "nome": "GUILHERME DO NASCIMENTO MEDINA",
+        "cotista": false,
+        "nota": 70.25,
+        "classificacao": 533
+    },
+    {
+        "inscricao": "210107",
+        "nome": "BRUNO GUILHERME MIRANDA DE OLIVEIRA",
+        "cotista": false,
+        "nota": 70.25,
+        "classificacao": 534
+    },
+    {
+        "inscricao": "280823",
+        "nome": "VICTOR MATEUS DE ARA\u00daJO PEREIRA",
+        "cotista": true,
+        "nota": 70.25,
+        "classificacao": 535
+    },
+    {
+        "inscricao": "020870",
+        "nome": "LORENZO ESTIVALETI SEGOBIA",
+        "cotista": false,
+        "nota": 70.25,
+        "classificacao": 536
+    },
+    {
+        "inscricao": "340070",
+        "nome": "ANDREY KALEL SOUZA SOARES",
+        "cotista": false,
+        "nota": 70.25,
+        "classificacao": 537
+    },
+    {
+        "inscricao": "040029",
+        "nome": "ALEXANDRE CARNEIRO PAZ",
+        "cotista": false,
+        "nota": 70.25,
+        "classificacao": 538
+    },
+    {
+        "inscricao": "291516",
+        "nome": "VASCO ANT\u00d4NIO MAIA DE OLIVEIRA",
+        "cotista": false,
+        "nota": 70.25,
+        "classificacao": 539
+    },
+    {
+        "inscricao": "230416",
+        "nome": "JO\u00c3O VITOR BARBOSA DANTAS",
+        "cotista": false,
+        "nota": 70.167,
+        "classificacao": 540
+    },
+    {
+        "inscricao": "110417",
+        "nome": "LUCAS BATISTA EVANGELISTA",
+        "cotista": true,
+        "nota": 70.167,
+        "classificacao": 541
+    },
+    {
+        "inscricao": "070634",
+        "nome": "GUILHERME DE MEDEIROS ELLENA",
+        "cotista": false,
+        "nota": 70.167,
+        "classificacao": 542
+    },
+    {
+        "inscricao": "180203",
+        "nome": "DAVI LUIS BRAGA SERPA",
+        "cotista": false,
+        "nota": 70.167,
+        "classificacao": 543
+    },
+    {
+        "inscricao": "161464",
+        "nome": "PEDRO LUCAS MASCARENHAS DE FREITAS",
+        "cotista": false,
+        "nota": 70.167,
+        "classificacao": 544
+    },
+    {
+        "inscricao": "070370",
+        "nome": "ENRICO VANINI",
+        "cotista": false,
+        "nota": 70.167,
+        "classificacao": 545
+    },
+    {
+        "inscricao": "350085",
+        "nome": "PAULO MOACYR SANTANA DE SOUZA FERREIRA",
+        "cotista": false,
+        "nota": 70.083,
+        "classificacao": 546
+    },
+    {
+        "inscricao": "310478",
+        "nome": "GUILHERME SALES DE DEUS",
+        "cotista": false,
+        "nota": 70.083,
+        "classificacao": 547
+    },
+    {
+        "inscricao": "160759",
+        "nome": "JO\u00c3O GABRIEL SAMPAIO VIEIRA",
+        "cotista": false,
+        "nota": 70.083,
+        "classificacao": 548
+    },
+    {
+        "inscricao": "070860",
+        "nome": "JO\u00c3O LUCAS SARAGOSSA ZAFALON",
+        "cotista": false,
+        "nota": 70.083,
+        "classificacao": 549
+    },
+    {
+        "inscricao": "070575",
+        "nome": "GABRIEL YOSHIRARU DELFINO MAZZO",
+        "cotista": false,
+        "nota": 70.083,
+        "classificacao": 550
+    },
+    {
+        "inscricao": "020842",
+        "nome": "LEONARDO HUTHER DA SILVA",
+        "cotista": false,
+        "nota": 70.083,
+        "classificacao": 551
+    },
+    {
+        "inscricao": "041557",
+        "nome": "V\u00cdCTOR MELEZ MENDES",
+        "cotista": false,
+        "nota": 70,
+        "classificacao": 552
+    },
+    {
+        "inscricao": "020769",
+        "nome": "JUNIOR ALVES RODRIGUES",
+        "cotista": false,
+        "nota": 70,
+        "classificacao": 553
+    },
+    {
+        "inscricao": "021081",
+        "nome": "MURILO BOFF FATURI",
+        "cotista": false,
+        "nota": 70,
+        "classificacao": 554
+    },
+    {
+        "inscricao": "131207",
+        "nome": "PEDRO LUIS SOUZA SILVA",
+        "cotista": true,
+        "nota": 70,
+        "classificacao": 555
+    },
+    {
+        "inscricao": "161277",
+        "nome": "MATHEUS AURELO DA SILVEIRA BARBOSA",
+        "cotista": false,
+        "nota": 70,
+        "classificacao": 556
+    },
+    {
+        "inscricao": "180458",
+        "nome": "JOAO PEDRO DE PAULA DIAS",
+        "cotista": false,
+        "nota": 70,
+        "classificacao": 557
+    },
+    {
+        "inscricao": "290804",
+        "nome": "JO\u00c3O VITOR BRAGA RODRIGUES",
+        "cotista": false,
+        "nota": 70,
+        "classificacao": 558
+    },
+    {
+        "inscricao": "030540",
+        "nome": "VITOR ROBERTO SANTANA DA SILVA",
+        "cotista": false,
+        "nota": 70,
+        "classificacao": 559
+    },
+    {
+        "inscricao": "120605",
+        "nome": "JAIR GABRIEL DE SOUZA DA SILVA",
+        "cotista": true,
+        "nota": 69.917,
+        "classificacao": 560
+    },
+    {
+        "inscricao": "240600",
+        "nome": "GABRIEL FERNANDES PIRES",
+        "cotista": false,
+        "nota": 69.917,
+        "classificacao": 561
+    },
+    {
+        "inscricao": "290774",
+        "nome": "JO\u00c3O PEDRO DOS SANTOS ROSA",
+        "cotista": false,
+        "nota": 69.917,
+        "classificacao": 562
+    },
+    {
+        "inscricao": "080271",
+        "nome": "GABRIEL MARTINS RODRIGUES DE SOUZA",
+        "cotista": true,
+        "nota": 69.917,
+        "classificacao": 563
+    },
+    {
+        "inscricao": "010937",
+        "nome": "RAFAEL FRYDMAN MENNA BARRETO",
+        "cotista": false,
+        "nota": 69.833,
+        "classificacao": 564
+    },
+    {
+        "inscricao": "250474",
+        "nome": "GABRIEL ZACARIAS SILVA KOPKE",
+        "cotista": true,
+        "nota": 69.833,
+        "classificacao": 565
+    },
+    {
+        "inscricao": "010874",
+        "nome": "OT\u00c1VIO AUGUSTO FALEIRO RIBEIRO",
+        "cotista": true,
+        "nota": 69.833,
+        "classificacao": 566
+    },
+    {
+        "inscricao": "270865",
+        "nome": "JEFFERSON PEREIRA DE OLIVEIRA JUNIOR",
+        "cotista": false,
+        "nota": 69.833,
+        "classificacao": 567
+    },
+    {
+        "inscricao": "240610",
+        "nome": "GABRIEL IZAC F\u00c9LIX BARBOSA",
+        "cotista": true,
+        "nota": 69.833,
+        "classificacao": 568
+    },
+    {
+        "inscricao": "241264",
+        "nome": "LUIS FILIPE DE MELO REZENDE",
+        "cotista": true,
+        "nota": 69.833,
+        "classificacao": 569
+    },
+    {
+        "inscricao": "240581",
+        "nome": "GABRIEL BIANCHINI MACHADO",
+        "cotista": false,
+        "nota": 69.833,
+        "classificacao": 570
+    },
+    {
+        "inscricao": "271095",
+        "nome": "JOSHUA TEICHRIEB DE CASTRO",
+        "cotista": false,
+        "nota": 69.75,
+        "classificacao": 571
+    },
+    {
+        "inscricao": "340589",
+        "nome": "LUAN SOUZA ALEM\u00c3O",
+        "cotista": false,
+        "nota": 69.75,
+        "classificacao": 572
+    },
+    {
+        "inscricao": "101246",
+        "nome": "NATAN GUIMAR\u00c3ES CARDOSO",
+        "cotista": false,
+        "nota": 69.75,
+        "classificacao": 573
+    },
+    {
+        "inscricao": "080741",
+        "nome": "PEDRO TEIXEIRA VETORAZI GUSSON",
+        "cotista": false,
+        "nota": 69.75,
+        "classificacao": 574
+    },
+    {
+        "inscricao": "240440",
+        "nome": "EDUARDO WOLLENA OURIQUES DA COSTA",
+        "cotista": false,
+        "nota": 69.667,
+        "classificacao": 575
+    },
+    {
+        "inscricao": "060310",
+        "nome": "IGOR DE OLIVEIRA BAPTISTA",
+        "cotista": false,
+        "nota": 69.667,
+        "classificacao": 576
+    },
+    {
+        "inscricao": "210326",
+        "nome": "GABRIEL TONIN AGUIAR",
+        "cotista": false,
+        "nota": 69.667,
+        "classificacao": 577
+    },
+    {
+        "inscricao": "120897",
+        "nome": "LUIS BERNARDO DE REZENDE TEBALDI",
+        "cotista": false,
+        "nota": 69.667,
+        "classificacao": 578
+    },
+    {
+        "inscricao": "271430",
+        "nome": "MARCUS MATHEUS BEZERRA DOS SANTOS",
+        "cotista": false,
+        "nota": 69.667,
+        "classificacao": 579
+    },
+    {
+        "inscricao": "170273",
+        "nome": "OT\u00c1VIO HENRIQUE SILVA GATTINI",
+        "cotista": false,
+        "nota": 69.583,
+        "classificacao": 580
+    },
+    {
+        "inscricao": "210515",
+        "nome": "JOSE ROBERTO DURAN ANDRE JUNIOR",
+        "cotista": false,
+        "nota": 69.583,
+        "classificacao": 581
+    },
+    {
+        "inscricao": "060760",
+        "nome": "RODRIGO MARCONDES VASCONCELOS",
+        "cotista": true,
+        "nota": 69.583,
+        "classificacao": 582
+    },
+    {
+        "inscricao": "180639",
+        "nome": "LUCCA DE ALMEIDA SAMPAIO LISB\u00d4A",
+        "cotista": false,
+        "nota": 69.583,
+        "classificacao": 583
+    },
+    {
+        "inscricao": "060141",
+        "nome": "DIOGO PINHO DA FONSECA",
+        "cotista": false,
+        "nota": 69.583,
+        "classificacao": 584
+    },
+    {
+        "inscricao": "060702",
+        "nome": "PEDRO HENRIQUE PRADO DE SOUZA SANTOS",
+        "cotista": false,
+        "nota": 69.583,
+        "classificacao": 585
+    },
+    {
+        "inscricao": "241609",
+        "nome": "PEDRO DE MELO SOUSA SILVA",
+        "cotista": false,
+        "nota": 69.583,
+        "classificacao": 586
+    },
+    {
+        "inscricao": "010979",
+        "nome": "RODOLFO SCHNEIDER FOGA\u00c7A",
+        "cotista": false,
+        "nota": 69.583,
+        "classificacao": 587
+    },
+    {
+        "inscricao": "180620",
+        "nome": "LUCAS FRANCO DE TOLEDO",
+        "cotista": false,
+        "nota": 69.5,
+        "classificacao": 588
+    },
+    {
+        "inscricao": "160812",
+        "nome": "JO\u00c3O PEDRO RODRIGUES AGUIAR",
+        "cotista": false,
+        "nota": 69.5,
+        "classificacao": 589
+    },
+    {
+        "inscricao": "240793",
+        "nome": "HUMBERTO MATHEUS AIRES MONTENEGRO",
+        "cotista": false,
+        "nota": 69.5,
+        "classificacao": 590
+    },
+    {
+        "inscricao": "210466",
+        "nome": "JO\u00c3O PAULO BRASIL BARROS",
+        "cotista": false,
+        "nota": 69.5,
+        "classificacao": 591
+    },
+    {
+        "inscricao": "140309",
+        "nome": "EDUARDO MIGUEL ROMUALDO",
+        "cotista": false,
+        "nota": 69.5,
+        "classificacao": 592
+    },
+    {
+        "inscricao": "291538",
+        "nome": "VINICIUS GABRIEL OLIVEIRA SANTOS",
+        "cotista": false,
+        "nota": 69.417,
+        "classificacao": 593
+    },
+    {
+        "inscricao": "150936",
+        "nome": "MARCELO LAGES MACHADO DE OLIVEIRA",
+        "cotista": true,
+        "nota": 69.417,
+        "classificacao": 594
+    },
+    {
+        "inscricao": "190493",
+        "nome": "JO\u00c3O PEDRO DE SOUZA SEREJO",
+        "cotista": false,
+        "nota": 69.417,
+        "classificacao": 595
+    },
+    {
+        "inscricao": "040224",
+        "nome": "CARLOS HENRIQUE MARTINS LOUZADA",
+        "cotista": true,
+        "nota": 69.417,
+        "classificacao": 596
+    },
+    {
+        "inscricao": "300057",
+        "nome": "ANTONIO GUSTAVO SOARES FRANCELINO",
+        "cotista": false,
+        "nota": 69.417,
+        "classificacao": 597
+    },
+    {
+        "inscricao": "210832",
+        "nome": "PIETRO SILVEIRA MACHADO",
+        "cotista": false,
+        "nota": 69.417,
+        "classificacao": 598
+    },
+    {
+        "inscricao": "310163",
+        "nome": "BRUNO GOMES DE SOUZA",
+        "cotista": false,
+        "nota": 69.417,
+        "classificacao": 599
+    },
+    {
+        "inscricao": "051240",
+        "nome": "LEONARDO STAVES FONTANA",
+        "cotista": false,
+        "nota": 69.333,
+        "classificacao": 600
+    },
+    {
+        "inscricao": "121142",
+        "nome": "PATRICK MEDEIROS DE CARVALHO",
+        "cotista": true,
+        "nota": 69.333,
+        "classificacao": 601
+    },
+    {
+        "inscricao": "080170",
+        "nome": "DAVI NEVES RODY",
+        "cotista": false,
+        "nota": 69.333,
+        "classificacao": 602
+    },
+    {
+        "inscricao": "291561",
+        "nome": "VITOR PERES MARREIROS MOREIRA",
+        "cotista": false,
+        "nota": 69.333,
+        "classificacao": 603
+    },
+    {
+        "inscricao": "290591",
+        "nome": "GUILHERME BRAGA LUNA",
+        "cotista": false,
+        "nota": 69.333,
+        "classificacao": 604
+    },
+    {
+        "inscricao": "100700",
+        "nome": "JO\u00c3O GUILHERME MOREIRA MARTINS DE SANTANA",
+        "cotista": false,
+        "nota": 69.25,
+        "classificacao": 605
+    },
+    {
+        "inscricao": "180074",
+        "nome": "ARTHUR AZEVEDO DO CARMO",
+        "cotista": false,
+        "nota": 69.25,
+        "classificacao": 606
+    },
+    {
+        "inscricao": "240521",
+        "nome": "FELIPE LINS BARBOSA MOUSINHO",
+        "cotista": false,
+        "nota": 69.25,
+        "classificacao": 607
+    },
+    {
+        "inscricao": "121319",
+        "nome": "THIAGO ANSELMO DA CRUZ",
+        "cotista": true,
+        "nota": 69.25,
+        "classificacao": 608
+    },
+    {
+        "inscricao": "060434",
+        "nome": "KAUA OLIVEIRA FLORES",
+        "cotista": false,
+        "nota": 69.25,
+        "classificacao": 609
+    },
+    {
+        "inscricao": "041177",
+        "nome": "MATEUS PANERARI DO CARMO",
+        "cotista": false,
+        "nota": 69.25,
+        "classificacao": 610
+    },
+    {
+        "inscricao": "291419",
+        "nome": "RODRIGO DE ALMEIDA ALBUQUERQUE MARTINS",
+        "cotista": true,
+        "nota": 69.25,
+        "classificacao": 611
+    },
+    {
+        "inscricao": "020514",
+        "nome": "GUILHERME SACCOL PAULO",
+        "cotista": false,
+        "nota": 69.167,
+        "classificacao": 612
+    },
+    {
+        "inscricao": "280644",
+        "nome": "MICAEL RAMOS DE SOUZA",
+        "cotista": false,
+        "nota": 69.167,
+        "classificacao": 613
+    },
+    {
+        "inscricao": "251098",
+        "nome": "PAULO DE CASTRO ESPINHEIRA",
+        "cotista": false,
+        "nota": 69.167,
+        "classificacao": 614
+    },
+    {
+        "inscricao": "160933",
+        "nome": "KAIO MASCARENHAS MOREIRA",
+        "cotista": true,
+        "nota": 69.167,
+        "classificacao": 615
+    },
+    {
+        "inscricao": "270790",
+        "nome": "IANN VINICIUS DE LIMA FARIAS",
+        "cotista": false,
+        "nota": 69.167,
+        "classificacao": 616
+    },
+    {
+        "inscricao": "100890",
+        "nome": "KAYKY SANTOS FERREIRA",
+        "cotista": true,
+        "nota": 69.167,
+        "classificacao": 617
+    },
+    {
+        "inscricao": "140671",
+        "nome": "JOAO PEDRO GERMANO SOUZA BARRETO",
+        "cotista": true,
+        "nota": 69.083,
+        "classificacao": 618
+    },
+    {
+        "inscricao": "020318",
+        "nome": "EMANUEL MACHADO DA SILVA",
+        "cotista": false,
+        "nota": 69.083,
+        "classificacao": 619
+    },
+    {
+        "inscricao": "130178",
+        "nome": "BRUNO MATEUS PEREIRA DE CASTRO",
+        "cotista": false,
+        "nota": 69.083,
+        "classificacao": 620
+    },
+    {
+        "inscricao": "280285",
+        "nome": "GLEYSON DAVID DA SILVA",
+        "cotista": false,
+        "nota": 69,
+        "classificacao": 621
+    },
+    {
+        "inscricao": "120426",
+        "nome": "GABRIEL DE MESQUITA LEAL PEREIRA",
+        "cotista": false,
+        "nota": 69,
+        "classificacao": 622
+    },
+    {
+        "inscricao": "100929",
+        "nome": "LEANDRO CAMPOS DE OLIVEIRA FILHO",
+        "cotista": false,
+        "nota": 69,
+        "classificacao": 623
+    },
+    {
+        "inscricao": "120903",
+        "nome": "LUIS GUSTAVO DE FREITAS FERREIRA",
+        "cotista": false,
+        "nota": 69,
+        "classificacao": 624
+    },
+    {
+        "inscricao": "180601",
+        "nome": "LUCAS ALVES DIAS",
+        "cotista": false,
+        "nota": 69,
+        "classificacao": 625
+    },
+    {
+        "inscricao": "161466",
+        "nome": "PEDRO LUCAS SILVEIRA BEZERRA",
+        "cotista": false,
+        "nota": 69,
+        "classificacao": 626
+    },
+    {
+        "inscricao": "190861",
+        "nome": "PEDRO HENRIQUE MAGALH\u00c3ES DA SILVA",
+        "cotista": false,
+        "nota": 69,
+        "classificacao": 627
+    },
+    {
+        "inscricao": "050916",
+        "nome": "IGOR DE AQUINO LISBOA",
+        "cotista": false,
+        "nota": 69,
+        "classificacao": 628
+    },
+    {
+        "inscricao": "101015",
+        "nome": "LUCAS LEONARDO DE SOUZA ALVES",
+        "cotista": true,
+        "nota": 68.917,
+        "classificacao": 629
+    },
+    {
+        "inscricao": "290439",
+        "nome": "FABIO STAHL AZEVEDO",
+        "cotista": false,
+        "nota": 68.917,
+        "classificacao": 630
+    },
+    {
+        "inscricao": "100658",
+        "nome": "IURI DOS ANJOS DELGADO MACHADO",
+        "cotista": true,
+        "nota": 68.917,
+        "classificacao": 631
+    },
+    {
+        "inscricao": "291283",
+        "nome": "PAULO VICTOR SILVA SOARES",
+        "cotista": false,
+        "nota": 68.917,
+        "classificacao": 632
+    },
+    {
+        "inscricao": "241662",
+        "nome": "PEDRO PAULO DE FREITAS SANTIAGO",
+        "cotista": false,
+        "nota": 68.917,
+        "classificacao": 633
+    },
+    {
+        "inscricao": "290044",
+        "nome": "ALYSSON SOUZA DA SILVA",
+        "cotista": false,
+        "nota": 68.833,
+        "classificacao": 634
+    },
+    {
+        "inscricao": "020516",
+        "nome": "GUILHERME SCHULTZ GOMES",
+        "cotista": false,
+        "nota": 68.833,
+        "classificacao": 635
+    },
+    {
+        "inscricao": "011086",
+        "nome": "VITOR DE AGUIAR CORREA",
+        "cotista": false,
+        "nota": 68.833,
+        "classificacao": 636
+    },
+    {
+        "inscricao": "241465",
+        "nome": "MATHEUS TAVARES MAURER",
+        "cotista": false,
+        "nota": 68.833,
+        "classificacao": 637
+    },
+    {
+        "inscricao": "280318",
+        "nome": "HELDER RUAN SOUZA SILVA",
+        "cotista": true,
+        "nota": 68.833,
+        "classificacao": 638
+    },
+    {
+        "inscricao": "190295",
+        "nome": "GABRIEL ALVARO BORGES DE SOUSA",
+        "cotista": false,
+        "nota": 68.833,
+        "classificacao": 639
+    },
+    {
+        "inscricao": "060088",
+        "nome": "CALEBE DOS SANTOS SOUSA",
+        "cotista": true,
+        "nota": 68.833,
+        "classificacao": 640
+    },
+    {
+        "inscricao": "150261",
+        "nome": "DANIEL MENDES NEGREIROS",
+        "cotista": true,
+        "nota": 68.833,
+        "classificacao": 641
+    },
+    {
+        "inscricao": "090392",
+        "nome": "GABRIEL PIRES BORGES",
+        "cotista": true,
+        "nota": 68.75,
+        "classificacao": 642
+    },
+    {
+        "inscricao": "070680",
+        "nome": "GUSTAVO DO NASCIMENTO MEDINA",
+        "cotista": false,
+        "nota": 68.75,
+        "classificacao": 643
+    },
+    {
+        "inscricao": "161583",
+        "nome": "RUAN GUIMAR\u00c3ES GON\u00c7ALVES",
+        "cotista": false,
+        "nota": 68.75,
+        "classificacao": 644
+    },
+    {
+        "inscricao": "271725",
+        "nome": "PEDRO LUCAS DA SILVA SANTANA",
+        "cotista": true,
+        "nota": 68.667,
+        "classificacao": 645
+    },
+    {
+        "inscricao": "241608",
+        "nome": "PEDRO DE JONGE IFF VIANA DOMINGUES",
+        "cotista": false,
+        "nota": 68.667,
+        "classificacao": 646
+    },
+    {
+        "inscricao": "240800",
+        "nome": "IAGO RODRIGUES BIRNBAUM",
+        "cotista": false,
+        "nota": 68.667,
+        "classificacao": 647
+    },
+    {
+        "inscricao": "272099",
+        "nome": "WIDNEY SHELLDON DA SILVA MAYO",
+        "cotista": true,
+        "nota": 68.667,
+        "classificacao": 648
+    },
+    {
+        "inscricao": "052067",
+        "nome": "V\u00cdTOR GRACILIANO",
+        "cotista": false,
+        "nota": 68.667,
+        "classificacao": 649
+    },
+    {
+        "inscricao": "300173",
+        "nome": "ELAN SANTOS VILANOVA",
+        "cotista": false,
+        "nota": 68.667,
+        "classificacao": 650
+    },
+    {
+        "inscricao": "100889",
+        "nome": "KAYKY ANTONIO SILVA TESTA",
+        "cotista": false,
+        "nota": 68.667,
+        "classificacao": 651
+    },
+    {
+        "inscricao": "180268",
+        "nome": "FELIPE EDUARDO GUIMAR\u00c3ES PEREIRA",
+        "cotista": false,
+        "nota": 68.583,
+        "classificacao": 652
+    },
+    {
+        "inscricao": "140252",
+        "nome": "DANILO SILVA PAES",
+        "cotista": false,
+        "nota": 68.583,
+        "classificacao": 653
+    },
+    {
+        "inscricao": "051017",
+        "nome": "JO\u00c3O PEDRO MARCONDES DOS SANTOS",
+        "cotista": false,
+        "nota": 68.583,
+        "classificacao": 654
+    },
+    {
+        "inscricao": "290364",
+        "nome": "EDMILSON LUIZ FREIRE FREITAS",
+        "cotista": false,
+        "nota": 68.583,
+        "classificacao": 655
+    },
+    {
+        "inscricao": "240699",
+        "nome": "GUILHERME GOMES SANDES",
+        "cotista": false,
+        "nota": 68.583,
+        "classificacao": 656
+    },
+    {
+        "inscricao": "291375",
+        "nome": "RAMON DA SILVA PEREIRA",
+        "cotista": false,
+        "nota": 68.583,
+        "classificacao": 657
+    },
+    {
+        "inscricao": "141090",
+        "nome": "MIGUEL VIEGAS DE MACEDO",
+        "cotista": false,
+        "nota": 68.583,
+        "classificacao": 658
+    },
+    {
+        "inscricao": "290434",
+        "nome": "EVERTON COSTA REIS",
+        "cotista": true,
+        "nota": 68.583,
+        "classificacao": 659
+    },
+    {
+        "inscricao": "071420",
+        "nome": "NATAN PEREIRA TEODORO",
+        "cotista": false,
+        "nota": 68.5,
+        "classificacao": 660
+    },
+    {
+        "inscricao": "100592",
+        "nome": "HAGOS MARIANO DE SOUZA VIEIRA",
+        "cotista": true,
+        "nota": 68.5,
+        "classificacao": 661
+    },
+    {
+        "inscricao": "180232",
+        "nome": "EDUARDO BARLETTA MACHADO",
+        "cotista": false,
+        "nota": 68.5,
+        "classificacao": 662
+    },
+    {
+        "inscricao": "120362",
+        "nome": "F\u00c1BIO FONSECA KRONEMBERGER DE MENEZES",
+        "cotista": false,
+        "nota": 68.5,
+        "classificacao": 663
+    },
+    {
+        "inscricao": "131225",
+        "nome": "RAFAEL LUCAS DA SILVA NASCIMENTO",
+        "cotista": true,
+        "nota": 68.5,
+        "classificacao": 664
+    },
+    {
+        "inscricao": "060536",
+        "nome": "LUIZ FERNANDO BUENO ALVES LEITE",
+        "cotista": false,
+        "nota": 68.417,
+        "classificacao": 665
+    },
+    {
+        "inscricao": "230574",
+        "nome": "MARCOS VINICIUS FERREIRA ARAUJO",
+        "cotista": false,
+        "nota": 68.417,
+        "classificacao": 666
+    },
+    {
+        "inscricao": "240573",
+        "nome": "GABRIEL ALVES DE ASSIS DA SILVA",
+        "cotista": false,
+        "nota": 68.417,
+        "classificacao": 667
+    },
+    {
+        "inscricao": "060372",
+        "nome": "JO\u00c3O PEDRO SCARPARO",
+        "cotista": false,
+        "nota": 68.417,
+        "classificacao": 668
+    },
+    {
+        "inscricao": "190051",
+        "nome": "ANDR\u00c9 LUIZ RAIA VIEIRA DA SILVA",
+        "cotista": false,
+        "nota": 68.417,
+        "classificacao": 669
+    },
+    {
+        "inscricao": "060690",
+        "nome": "PEDRO DE PAULA RODRIGUES ALVES",
+        "cotista": false,
+        "nota": 68.334,
+        "classificacao": 670
+    },
+    {
+        "inscricao": "241752",
+        "nome": "RODRIGO HENRIQUE DONATO DE SOUZA",
+        "cotista": false,
+        "nota": 68.333,
+        "classificacao": 671
+    },
+    {
+        "inscricao": "010542",
+        "nome": "JO\u00c3O VICTOR NUNES RHODEN",
+        "cotista": false,
+        "nota": 68.333,
+        "classificacao": 672
+    },
+    {
+        "inscricao": "131065",
+        "nome": "MATHEUS DA SILVA COUTINHO",
+        "cotista": true,
+        "nota": 68.333,
+        "classificacao": 673
+    },
+    {
+        "inscricao": "010222",
+        "nome": "DOUGLAS DE MORAES NUNES",
+        "cotista": false,
+        "nota": 68.333,
+        "classificacao": 674
+    },
+    {
+        "inscricao": "071574",
+        "nome": "PIETRO MION DE AGUIAR",
+        "cotista": false,
+        "nota": 68.333,
+        "classificacao": 675
+    },
+    {
+        "inscricao": "290370",
+        "nome": "EDUARDO MONTEIRO OLIVEIRA",
+        "cotista": false,
+        "nota": 68.333,
+        "classificacao": 676
+    },
+    {
+        "inscricao": "101299",
+        "nome": "PAULO MOI DA FONSECA",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 677
+    },
+    {
+        "inscricao": "360083",
+        "nome": "GIVAGO MAGALH\u00c3ES ALMEIDA",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 678
+    },
+    {
+        "inscricao": "340281",
+        "nome": "FERNANDO FAMA DE HOLANDA NETO",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 679
+    },
+    {
+        "inscricao": "310830",
+        "nome": "LUCAS FURTADO DA CUNHA",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 680
+    },
+    {
+        "inscricao": "010709",
+        "nome": "LUCAS PAGANELLA MACHADO",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 681
+    },
+    {
+        "inscricao": "161434",
+        "nome": "PEDRO HENRIQUE DAUDT DANIELLI",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 682
+    },
+    {
+        "inscricao": "220325",
+        "nome": "OMAR ANTONIO CHMIELESKI II",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 683
+    },
+    {
+        "inscricao": "180376",
+        "nome": "GUILHERME SARTE GALLO",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 684
+    },
+    {
+        "inscricao": "180379",
+        "nome": "GUILHERME TOMAZ FERREIRA",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 685
+    },
+    {
+        "inscricao": "250698",
+        "nome": "JOAO VITOR SANTOS BARBOSA",
+        "cotista": true,
+        "nota": 68.25,
+        "classificacao": 686
+    },
+    {
+        "inscricao": "130451",
+        "nome": "GABRIEL MATEUS MATOS CALASANS",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 687
+    },
+    {
+        "inscricao": "141241",
+        "nome": "RAFAEL VIANNA PIMENTEL GOMES",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 688
+    },
+    {
+        "inscricao": "080325",
+        "nome": "GUSTAVO HENRIQUE PEIXOTO MERCADO",
+        "cotista": true,
+        "nota": 68.167,
+        "classificacao": 689
+    },
+    {
+        "inscricao": "241791",
+        "nome": "SAMUEL VICENTINI SILVA",
+        "cotista": false,
+        "nota": 68.167,
+        "classificacao": 690
+    },
+    {
+        "inscricao": "180812",
+        "nome": "PEDRO AUGUSTO SOARES DE FREITAS",
+        "cotista": false,
+        "nota": 68.167,
+        "classificacao": 691
+    },
+    {
+        "inscricao": "180650",
+        "nome": "LU\u00cdS GUILHERME ALVES MARQUES",
+        "cotista": false,
+        "nota": 68.167,
+        "classificacao": 692
+    },
+    {
+        "inscricao": "290516",
+        "nome": "GABRIEL DE CASTRO SILVA",
+        "cotista": false,
+        "nota": 68.167,
+        "classificacao": 693
+    },
+    {
+        "inscricao": "190477",
+        "nome": "JOAO GABRIEL WINTER DE CARVALHO",
+        "cotista": false,
+        "nota": 68.083,
+        "classificacao": 694
+    },
+    {
+        "inscricao": "071513",
+        "nome": "PEDRO GRECHI BARADEL",
+        "cotista": false,
+        "nota": 68.083,
+        "classificacao": 695
+    },
+    {
+        "inscricao": "290771",
+        "nome": "JO\u00c3O PAULO TEN\u00d3RIO ALVES SANTOS",
+        "cotista": false,
+        "nota": 68.083,
+        "classificacao": 696
+    },
+    {
+        "inscricao": "241605",
+        "nome": "PEDRO CEZAR DE SOUZA GUIMAR\u00c3ES DE OLIVEIRA",
+        "cotista": true,
+        "nota": 68,
+        "classificacao": 697
+    },
+    {
+        "inscricao": "180485",
+        "nome": "JO\u00c3O VITOR CASSIMIRO DA COSTA",
+        "cotista": true,
+        "nota": 68,
+        "classificacao": 698
+    },
+    {
+        "inscricao": "150940",
+        "nome": "MARCO ANT\u00d4NIO LIMA DE SOUZA",
+        "cotista": false,
+        "nota": 68,
+        "classificacao": 699
+    },
+    {
+        "inscricao": "280570",
+        "nome": "MARCELO DO NASCIMENTO COSTA",
+        "cotista": true,
+        "nota": 68,
+        "classificacao": 700
+    },
+    {
+        "inscricao": "100618",
+        "nome": "IGOR GUIMARAES DA ROCHA",
+        "cotista": false,
+        "nota": 68,
+        "classificacao": 701
+    },
+    {
+        "inscricao": "010121",
+        "nome": "BERNARDO LIMA PICCOLI",
+        "cotista": false,
+        "nota": 68,
+        "classificacao": 702
+    },
+    {
+        "inscricao": "100152",
+        "nome": "BERNARDO DE PAULA SOARES",
+        "cotista": false,
+        "nota": 68,
+        "classificacao": 703
+    },
+    {
+        "inscricao": "271677",
+        "nome": "PEDRO BEN\u00cdCIO LACET DA SILVA",
+        "cotista": false,
+        "nota": 68,
+        "classificacao": 704
+    },
+    {
+        "inscricao": "141072",
+        "nome": "MAX D'LUCAS MEDEIROS ALVES",
+        "cotista": true,
+        "nota": 68,
+        "classificacao": 705
+    },
+    {
+        "inscricao": "291392",
+        "nome": "RENAN CASTRO BANDEIRA",
+        "cotista": false,
+        "nota": 68,
+        "classificacao": 706
+    },
+    {
+        "inscricao": "100165",
+        "nome": "BRENER DAVI MONTEIRO DOS SANTOS",
+        "cotista": false,
+        "nota": 67.917,
+        "classificacao": 707
+    },
+    {
+        "inscricao": "270915",
+        "nome": "JO\u00c3O GABRIEL BARROS DOS SANTOS",
+        "cotista": false,
+        "nota": 67.917,
+        "classificacao": 708
+    },
+    {
+        "inscricao": "290966",
+        "nome": "LEVY ELIAS FERREIRA MARINHO",
+        "cotista": true,
+        "nota": 67.917,
+        "classificacao": 709
+    },
+    {
+        "inscricao": "120557",
+        "nome": "HUGO FIRMINO DA SILVA",
+        "cotista": false,
+        "nota": 67.917,
+        "classificacao": 710
+    },
+    {
+        "inscricao": "300752",
+        "nome": "WERNER DE CARVALHO COSTA",
+        "cotista": false,
+        "nota": 67.917,
+        "classificacao": 711
+    },
+    {
+        "inscricao": "130535",
+        "nome": "GUILHERME OLIVEIRA DA COSTA",
+        "cotista": false,
+        "nota": 67.917,
+        "classificacao": 712
+    },
+    {
+        "inscricao": "240962",
+        "nome": "JOAO PEDRO SANTOS MARCIAL GOMES",
+        "cotista": true,
+        "nota": 67.917,
+        "classificacao": 713
+    },
+    {
+        "inscricao": "130647",
+        "nome": "JO\u00c3O GUILHERME FERREIRA DA SILVA",
+        "cotista": true,
+        "nota": 67.917,
+        "classificacao": 714
+    },
+    {
+        "inscricao": "080151",
+        "nome": "CLEBER FERREIRA DE MORAIS JUNIOR",
+        "cotista": false,
+        "nota": 67.833,
+        "classificacao": 715
+    },
+    {
+        "inscricao": "040544",
+        "nome": "GABRIEL TREVISAN MELFI ANDREASSA",
+        "cotista": false,
+        "nota": 67.833,
+        "classificacao": 716
+    },
+    {
+        "inscricao": "101572",
+        "nome": "VICTOR TEIXEIRA SCALAMRBRINI",
+        "cotista": false,
+        "nota": 67.833,
+        "classificacao": 717
+    },
+    {
+        "inscricao": "180300",
+        "nome": "GABRIEL EMANUEL EITERER",
+        "cotista": false,
+        "nota": 67.833,
+        "classificacao": 718
+    },
+    {
+        "inscricao": "160588",
+        "nome": "GUILHERME DE ALEXANDRIA BARROS",
+        "cotista": true,
+        "nota": 67.75,
+        "classificacao": 719
+    },
+    {
+        "inscricao": "131069",
+        "nome": "MATHEUS DE FIGUEIREDO DA SILVA",
+        "cotista": false,
+        "nota": 67.75,
+        "classificacao": 720
+    },
+    {
+        "inscricao": "310448",
+        "nome": "GIAN VICTOR GON\u00c7ALVES FIGUEIREDO",
+        "cotista": false,
+        "nota": 67.75,
+        "classificacao": 721
+    },
+    {
+        "inscricao": "040272",
+        "nome": "DANIEL PIRES DE ALMEIDA",
+        "cotista": false,
+        "nota": 67.667,
+        "classificacao": 722
+    },
+    {
+        "inscricao": "250666",
+        "nome": "JO\u00c3O PAULLO DE SOUZA REIS",
+        "cotista": false,
+        "nota": 67.667,
+        "classificacao": 723
+    },
+    {
+        "inscricao": "100334",
+        "nome": "EDUARDO GON\u00c7ALVES CRESPO DE MELO",
+        "cotista": false,
+        "nota": 67.667,
+        "classificacao": 724
+    },
+    {
+        "inscricao": "030125",
+        "nome": "DIOGO DONADEL",
+        "cotista": false,
+        "nota": 67.667,
+        "classificacao": 725
+    },
+    {
+        "inscricao": "040354",
+        "nome": "EDUARDO RECH",
+        "cotista": false,
+        "nota": 67.667,
+        "classificacao": 726
+    },
+    {
+        "inscricao": "270158",
+        "nome": "ARTHUR ALBUQUERQUE SANTOS",
+        "cotista": false,
+        "nota": 67.667,
+        "classificacao": 727
+    },
+    {
+        "inscricao": "290191",
+        "nome": "BRUNO CAMPOS SILVA",
+        "cotista": false,
+        "nota": 67.583,
+        "classificacao": 728
+    },
+    {
+        "inscricao": "020106",
+        "nome": "ARTHUR TAVARES CUNHA",
+        "cotista": false,
+        "nota": 67.5,
+        "classificacao": 729
+    },
+    {
+        "inscricao": "010639",
+        "nome": "LEONARDO BERNARDES",
+        "cotista": false,
+        "nota": 67.5,
+        "classificacao": 730
+    },
+    {
+        "inscricao": "131056",
+        "nome": "MATEUS DE SOUZA MORAIS",
+        "cotista": false,
+        "nota": 67.5,
+        "classificacao": 731
+    },
+    {
+        "inscricao": "110129",
+        "nome": "DANILO QUINTANILHA RODRIGUES",
+        "cotista": false,
+        "nota": 67.5,
+        "classificacao": 732
+    },
+    {
+        "inscricao": "240907",
+        "nome": "JOAO GABRIEL GONCALVES CURADO",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 733
+    },
+    {
+        "inscricao": "060321",
+        "nome": "ISAAC RIOS MARTINS",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 734
+    },
+    {
+        "inscricao": "050329",
+        "nome": "DANIEL DE SOUSA PEREIRA",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 735
+    },
+    {
+        "inscricao": "270260",
+        "nome": "CAIO LEONARDO DA SILVA SANTOS",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 736
+    },
+    {
+        "inscricao": "251170",
+        "nome": "RAFAEL DI GIROLAMO COUTINHO DA CRUZ",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 737
+    },
+    {
+        "inscricao": "120170",
+        "nome": "CAIO DA SILVA CRUZ",
+        "cotista": true,
+        "nota": 67.417,
+        "classificacao": 738
+    },
+    {
+        "inscricao": "180497",
+        "nome": "JOAQUIM PEDRO RODRIGUES ARAUJO",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 739
+    },
+    {
+        "inscricao": "160620",
+        "nome": "GUSTAVO DA SILVA ROSA",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 740
+    },
+    {
+        "inscricao": "260187",
+        "nome": "JO\u00c3O CARLOS CAVALCANTE MOURA FILHO",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 741
+    },
+    {
+        "inscricao": "130879",
+        "nome": "LUCAS AQUINO DA CRUZ ROSA",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 742
+    },
+    {
+        "inscricao": "130882",
+        "nome": "LUCAS BARBOZA DE JESUS",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 743
+    },
+    {
+        "inscricao": "300120",
+        "nome": "CAUE RODRIGUES DE MACEDO",
+        "cotista": false,
+        "nota": 67.417,
+        "classificacao": 744
+    },
+    {
+        "inscricao": "150899",
+        "nome": "LUIS GUILHERME ALVES BRITO",
+        "cotista": false,
+        "nota": 67.334,
+        "classificacao": 745
+    },
+    {
+        "inscricao": "010122",
+        "nome": "BERNARDO OLIVEIRA COSTA",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 746
+    },
+    {
+        "inscricao": "240811",
+        "nome": "ICARO CAMPOS NUNES HENRIQUES",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 747
+    },
+    {
+        "inscricao": "300026",
+        "nome": "ALVARO RODRIGUES FONTES CAMINHA",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 748
+    },
+    {
+        "inscricao": "240407",
+        "nome": "DOUGLAS EM\u00cdDIO LE\u00c3O",
+        "cotista": true,
+        "nota": 67.333,
+        "classificacao": 749
+    },
+    {
+        "inscricao": "080247",
+        "nome": "GABRIEL ALVES MORAIS DOS SANTOS",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 750
+    },
+    {
+        "inscricao": "020229",
+        "nome": "DAVI MICAEL DA ROSA",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 751
+    },
+    {
+        "inscricao": "210053",
+        "nome": "ANT\u00d4NIO AUGUSTO SUZANA DE ARA\u00daJO",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 752
+    },
+    {
+        "inscricao": "041024",
+        "nome": "LUCAS FERREIRA DE LARA",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 753
+    },
+    {
+        "inscricao": "071811",
+        "nome": "VINICIUS CORREIA LEITE",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 754
+    },
+    {
+        "inscricao": "241948",
+        "nome": "VITOR PAIVA DE ALMEIDA",
+        "cotista": false,
+        "nota": 67.25,
+        "classificacao": 755
+    },
+    {
+        "inscricao": "160451",
+        "nome": "FELIPE VIEIRA DE SOUSA",
+        "cotista": false,
+        "nota": 67.25,
+        "classificacao": 756
+    },
+    {
+        "inscricao": "191058",
+        "nome": "WALLACE MARTINS DOS REIS",
+        "cotista": true,
+        "nota": 67.25,
+        "classificacao": 757
+    },
+    {
+        "inscricao": "120301",
+        "nome": "DIOGO DA SILVA MEDEIROS",
+        "cotista": false,
+        "nota": 67.25,
+        "classificacao": 758
+    },
+    {
+        "inscricao": "080131",
+        "nome": "CARLOS EDUARDO DE CASTRO MAXIMO RODRIGUES",
+        "cotista": true,
+        "nota": 67.167,
+        "classificacao": 759
+    },
+    {
+        "inscricao": "180954",
+        "nome": "THIAGO ALVES RIBEIRO GOMES",
+        "cotista": false,
+        "nota": 67.167,
+        "classificacao": 760
+    },
+    {
+        "inscricao": "291519",
+        "nome": "VICTOR CARVALHO SOARES",
+        "cotista": false,
+        "nota": 67.167,
+        "classificacao": 761
+    },
+    {
+        "inscricao": "100803",
+        "nome": "JOS\u00c9 LUCIANO AZEVEDO MACHADO J\u00daNIOR",
+        "cotista": true,
+        "nota": 67.167,
+        "classificacao": 762
+    },
+    {
+        "inscricao": "100555",
+        "nome": "GUILHERME GARCIA XAVIER",
+        "cotista": true,
+        "nota": 67.167,
+        "classificacao": 763
+    },
+    {
+        "inscricao": "131085",
+        "nome": "MATHEUS MOZER DE CARVALHO",
+        "cotista": false,
+        "nota": 67.167,
+        "classificacao": 764
+    },
+    {
+        "inscricao": "160015",
+        "nome": "ALEX LEI",
+        "cotista": false,
+        "nota": 67.167,
+        "classificacao": 765
+    },
+    {
+        "inscricao": "290408",
+        "nome": "ERICK ADAMS RIBEIRO SOUZA",
+        "cotista": false,
+        "nota": 67.083,
+        "classificacao": 766
+    },
+    {
+        "inscricao": "180484",
+        "nome": "JOAO VICTOR VENTURA LOPES",
+        "cotista": true,
+        "nota": 67.083,
+        "classificacao": 767
+    },
+    {
+        "inscricao": "071270",
+        "nome": "MARCOS ROG\u00c9RIO DA SILVA J\u00daNIOR",
+        "cotista": false,
+        "nota": 67.083,
+        "classificacao": 768
+    },
+    {
+        "inscricao": "250485",
+        "nome": "GIANLUCCA RODRIGUES GOMES BOSETTI",
+        "cotista": false,
+        "nota": 67.083,
+        "classificacao": 769
+    },
+    {
+        "inscricao": "151146",
+        "nome": "PEDRO FARIAS DE SOUZA",
+        "cotista": false,
+        "nota": 67.083,
+        "classificacao": 770
+    },
+    {
+        "inscricao": "290983",
+        "nome": "LORENZO LOZANO ABREU",
+        "cotista": false,
+        "nota": 67.083,
+        "classificacao": 771
+    },
+    {
+        "inscricao": "290343",
+        "nome": "DIEGO ANDRADE REBOUCAS",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 772
+    },
+    {
+        "inscricao": "050389",
+        "nome": "DIOGO DE SOUSA SCHISSATTI",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 773
+    },
+    {
+        "inscricao": "041518",
+        "nome": "THEO MARTINEZ GUGISCH",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 774
+    },
+    {
+        "inscricao": "270439",
+        "nome": "EDMAR FREIRE BORBA NETO",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 775
+    },
+    {
+        "inscricao": "070383",
+        "nome": "ERASMO ROCCO BRAGI\u00c3O",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 776
+    },
+    {
+        "inscricao": "200173",
+        "nome": "GABRIEL ALVES GAUDIO",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 777
+    },
+    {
+        "inscricao": "071010",
+        "nome": "KAU\u00c3 FELIPE SANTIAGO REIS",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 778
+    },
+    {
+        "inscricao": "091029",
+        "nome": "PATRICK DOS SANTOS SANTANA",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 779
+    },
+    {
+        "inscricao": "130410",
+        "nome": "FL\u00c1VIO LUIZ BASTOS DOS SANTOS JUNIOR",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 780
+    },
+    {
+        "inscricao": "190856",
+        "nome": "PEDRO HENRIQUE BIRRO DE QUEIROZ",
+        "cotista": false,
+        "nota": 67,
+        "classificacao": 781
+    },
+    {
+        "inscricao": "290410",
+        "nome": "ERICK DOS SANTOS CARVALHO",
+        "cotista": true,
+        "nota": 67,
+        "classificacao": 782
+    },
+    {
+        "inscricao": "280839",
+        "nome": "VITOR LUCINDO DA SILVA",
+        "cotista": false,
+        "nota": 66.917,
+        "classificacao": 783
+    },
+    {
+        "inscricao": "260321",
+        "nome": "MURILO DE OLIVEIRA SOLER",
+        "cotista": false,
+        "nota": 66.917,
+        "classificacao": 784
+    },
+    {
+        "inscricao": "191044",
+        "nome": "VITOR AUGUSTO KONRAD HEGERMANN",
+        "cotista": false,
+        "nota": 66.917,
+        "classificacao": 785
+    },
+    {
+        "inscricao": "100458",
+        "nome": "GABRIEL DE MENEZES MALVAR DE CARVALHO",
+        "cotista": false,
+        "nota": 66.917,
+        "classificacao": 786
+    },
+    {
+        "inscricao": "071809",
+        "nome": "VINICIUS CANTO HECKSHER",
+        "cotista": false,
+        "nota": 66.833,
+        "classificacao": 787
+    },
+    {
+        "inscricao": "300468",
+        "nome": "LUCAS BARBOSA DOS REIS",
+        "cotista": true,
+        "nota": 66.833,
+        "classificacao": 788
+    },
+    {
+        "inscricao": "120288",
+        "nome": "DAVI PEREIRA CORREA",
+        "cotista": false,
+        "nota": 66.833,
+        "classificacao": 789
+    },
+    {
+        "inscricao": "241598",
+        "nome": "PEDRO ALEXANDRE SOARES DO NASCIMENTO",
+        "cotista": false,
+        "nota": 66.833,
+        "classificacao": 790
+    },
+    {
+        "inscricao": "101296",
+        "nome": "PAULO DIAS VITELLI",
+        "cotista": false,
+        "nota": 66.833,
+        "classificacao": 791
+    },
+    {
+        "inscricao": "290301",
+        "nome": "DANILO SENA XIMENES MAIA",
+        "cotista": false,
+        "nota": 66.75,
+        "classificacao": 792
+    },
+    {
+        "inscricao": "080199",
+        "nome": "ELISIEL DA SILVA SAMPAIO",
+        "cotista": true,
+        "nota": 66.75,
+        "classificacao": 793
+    },
+    {
+        "inscricao": "300331",
+        "nome": "ITALO PIRES DA SILVEIRA FONTENELE DE MENESES",
+        "cotista": false,
+        "nota": 66.75,
+        "classificacao": 794
+    },
+    {
+        "inscricao": "050400",
+        "nome": "DOUGLAS FERREIRA NASSIF MIGUEL",
+        "cotista": false,
+        "nota": 66.75,
+        "classificacao": 795
+    },
+    {
+        "inscricao": "060792",
+        "nome": "TALES ARAUJO OLIVEIRA LEITE",
+        "cotista": false,
+        "nota": 66.75,
+        "classificacao": 796
+    },
+    {
+        "inscricao": "020944",
+        "nome": "LUIZ FELIPE FERREIRA",
+        "cotista": false,
+        "nota": 66.75,
+        "classificacao": 797
+    },
+    {
+        "inscricao": "021367",
+        "nome": "WILLIAM DE GOZ MACHADO",
+        "cotista": false,
+        "nota": 66.667,
+        "classificacao": 798
+    },
+    {
+        "inscricao": "180924",
+        "nome": "SAMUEL FILLIPE NASCIMENTO SANTOS",
+        "cotista": true,
+        "nota": 66.667,
+        "classificacao": 799
+    },
+    {
+        "inscricao": "210484",
+        "nome": "JO\u00c3O VICTOR DA ROCHA AVALO",
+        "cotista": false,
+        "nota": 66.667,
+        "classificacao": 800
+    },
+    {
+        "inscricao": "010852",
+        "nome": "NATHAN PERUSSO FARIA",
+        "cotista": false,
+        "nota": 66.667,
+        "classificacao": 801
+    },
+    {
+        "inscricao": "101212",
+        "nome": "MAXLI BARROSO CAMPOS JUNIOR",
+        "cotista": false,
+        "nota": 66.667,
+        "classificacao": 802
+    },
+    {
+        "inscricao": "350041",
+        "nome": "EZEQUIEL DA SILVA MOTA",
+        "cotista": false,
+        "nota": 66.583,
+        "classificacao": 803
+    },
+    {
+        "inscricao": "310452",
+        "nome": "GIOVANI MACHADO DE ARAUJO",
+        "cotista": false,
+        "nota": 66.583,
+        "classificacao": 804
+    },
+    {
+        "inscricao": "091061",
+        "nome": "PEDRO HENRIQUE DE CARVALHO FERREIRA",
+        "cotista": false,
+        "nota": 66.583,
+        "classificacao": 805
+    },
+    {
+        "inscricao": "270762",
+        "nome": "HENRIQUE CESAR SILVEIRA THEOPHILO",
+        "cotista": false,
+        "nota": 66.583,
+        "classificacao": 806
+    },
+    {
+        "inscricao": "310920",
+        "nome": "MARCUS PAULO PESS\u00d4A PACHECO FILHO",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 807
+    },
+    {
+        "inscricao": "241445",
+        "nome": "MATHEUS GARCEZ FERNANDES",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 808
+    },
+    {
+        "inscricao": "140402",
+        "nome": "GABRIEL DUARTE DE AZEVEDO",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 809
+    },
+    {
+        "inscricao": "210517",
+        "nome": "JOS\u00c9 RONALDO NOGUEIRA DA SILVA GOIS",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 810
+    },
+    {
+        "inscricao": "272010",
+        "nome": "VICTOR AMORIM COSTA DO NASCIMENTO",
+        "cotista": true,
+        "nota": 66.5,
+        "classificacao": 811
+    },
+    {
+        "inscricao": "060723",
+        "nome": "RAFAEL MELLO NOGUEIRA CHAVES DE ANDRADE",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 812
+    },
+    {
+        "inscricao": "291398",
+        "nome": "RENATO DOS SANTOS GUINA",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 813
+    },
+    {
+        "inscricao": "190500",
+        "nome": "JOAO PEDRO MURTA HUGUET",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 814
+    },
+    {
+        "inscricao": "240130",
+        "nome": "ANTONIO HENRIQUE DUBAL MARTINS",
+        "cotista": false,
+        "nota": 66.417,
+        "classificacao": 815
+    },
+    {
+        "inscricao": "120205",
+        "nome": "CARLOS EDUARDO BLANCO GUEVARA VIEIRA",
+        "cotista": false,
+        "nota": 66.417,
+        "classificacao": 816
+    },
+    {
+        "inscricao": "310306",
+        "nome": "EDUARDO SANTROVITSCH CARDOSO",
+        "cotista": false,
+        "nota": 66.417,
+        "classificacao": 817
+    },
+    {
+        "inscricao": "240877",
+        "nome": "JHONATA CAU\u00c3 PEREIRA DINIZ",
+        "cotista": true,
+        "nota": 66.417,
+        "classificacao": 818
+    },
+    {
+        "inscricao": "150127",
+        "nome": "BERNARDO BULGARELLI TEIXEIRA",
+        "cotista": false,
+        "nota": 66.417,
+        "classificacao": 819
+    },
+    {
+        "inscricao": "120695",
+        "nome": "JONATHAN SANTOS RODRIGUES DE ARA\u00daJO",
+        "cotista": true,
+        "nota": 66.417,
+        "classificacao": 820
+    },
+    {
+        "inscricao": "210642",
+        "nome": "LUIS GUSTAVO BELLO NUNES",
+        "cotista": false,
+        "nota": 66.417,
+        "classificacao": 821
+    },
+    {
+        "inscricao": "120221",
+        "nome": "CAUA MUNIZ MARINHO DA SILVA",
+        "cotista": true,
+        "nota": 66.333,
+        "classificacao": 822
+    },
+    {
+        "inscricao": "291060",
+        "nome": "LUIZ FERNANDO SOUSA LEAO VIANA DE CARVALHO",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 823
+    },
+    {
+        "inscricao": "240152",
+        "nome": "ARTHUR FELLIPE PEREIRA DA SILVEIRA",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 824
+    },
+    {
+        "inscricao": "230242",
+        "nome": "GABRIEL HENRIQUE SILVA LOULY",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 825
+    },
+    {
+        "inscricao": "041271",
+        "nome": "NATAN SANTOS DINIZ",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 826
+    },
+    {
+        "inscricao": "080852",
+        "nome": "VITOR VIEIRA LEMOS ROMEU",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 827
+    },
+    {
+        "inscricao": "050227",
+        "nome": "BRUNO HENRIQUE ARA\u00daJO MESTRINER",
+        "cotista": true,
+        "nota": 66.333,
+        "classificacao": 828
+    },
+    {
+        "inscricao": "271411",
+        "nome": "MARCOS AUR\u00c9LIO NETO DE MORAIS",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 829
+    },
+    {
+        "inscricao": "141271",
+        "nome": "RODRIGO MALTA STYLO PERES",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 830
+    },
+    {
+        "inscricao": "360086",
+        "nome": "GUILHERME FINAMOR FROTA SALDANHA DE FREITAS",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 831
+    },
+    {
+        "inscricao": "030344",
+        "nome": "LUCAS CECHINEL DA SILVEIRA",
+        "cotista": false,
+        "nota": 66.25,
+        "classificacao": 832
+    },
+    {
+        "inscricao": "120399",
+        "nome": "FILIPE AUGUSTO DE OLIVEIRA RODRIGUES",
+        "cotista": false,
+        "nota": 66.25,
+        "classificacao": 833
+    },
+    {
+        "inscricao": "180857",
+        "nome": "RAFAEL ALEXSANDER BORTONI DE OLIVEIRA",
+        "cotista": false,
+        "nota": 66.25,
+        "classificacao": 834
+    },
+    {
+        "inscricao": "280093",
+        "nome": "BRUNO CAVALCANTE OLIVEIRA",
+        "cotista": false,
+        "nota": 66.25,
+        "classificacao": 835
+    },
+    {
+        "inscricao": "100300",
+        "nome": "DAVI DE SOUZA E SILVA MELO",
+        "cotista": false,
+        "nota": 66.25,
+        "classificacao": 836
+    },
+    {
+        "inscricao": "100201",
+        "nome": "CAIO FELIPE CAMILO DO NASCIMENTO",
+        "cotista": false,
+        "nota": 66.167,
+        "classificacao": 837
+    },
+    {
+        "inscricao": "100417",
+        "nome": "FELIPE ROCHA PIRES",
+        "cotista": false,
+        "nota": 66.167,
+        "classificacao": 838
+    },
+    {
+        "inscricao": "180974",
+        "nome": "VICTOR HUGO DA SILVA RODRIGUES",
+        "cotista": false,
+        "nota": 66.167,
+        "classificacao": 839
+    },
+    {
+        "inscricao": "101076",
+        "nome": "MAGNUM JOHANSON DE ABREU",
+        "cotista": false,
+        "nota": 66.167,
+        "classificacao": 840
+    },
+    {
+        "inscricao": "240747",
+        "nome": "GUSTAVO VIEIRA RAMOS",
+        "cotista": false,
+        "nota": 66.083,
+        "classificacao": 841
+    },
+    {
+        "inscricao": "020856",
+        "nome": "LINCOLN DA SILVA BERTIM",
+        "cotista": false,
+        "nota": 66.083,
+        "classificacao": 842
+    },
+    {
+        "inscricao": "180730",
+        "nome": "MATEUS ORTELAN ARAUJO",
+        "cotista": false,
+        "nota": 66.083,
+        "classificacao": 843
+    },
+    {
+        "inscricao": "080839",
+        "nome": "VINICIUS EDUARDO BATISTA MENDON\u00c7A",
+        "cotista": false,
+        "nota": 66.083,
+        "classificacao": 844
+    },
+    {
+        "inscricao": "210671",
+        "nome": "MARCELO VENDRAMINI MENEGASSO",
+        "cotista": false,
+        "nota": 66.083,
+        "classificacao": 845
+    },
+    {
+        "inscricao": "120521",
+        "nome": "GUILHERME TEIXEIRA VIEIRA",
+        "cotista": false,
+        "nota": 66.083,
+        "classificacao": 846
+    },
+    {
+        "inscricao": "080850",
+        "nome": "VITOR MIRANDA GUEDES COELHO",
+        "cotista": false,
+        "nota": 66.083,
+        "classificacao": 847
+    },
+    {
+        "inscricao": "210848",
+        "nome": "RAPHAEL LUIZ DA SILVA DILKIN",
+        "cotista": false,
+        "nota": 66,
+        "classificacao": 848
+    },
+    {
+        "inscricao": "200442",
+        "nome": "OTAVIO EMMANUEL MACHADO CARMO",
+        "cotista": false,
+        "nota": 66,
+        "classificacao": 849
+    },
+    {
+        "inscricao": "280337",
+        "nome": "ICARO CAUA DA COSTA LIMA",
+        "cotista": false,
+        "nota": 66,
+        "classificacao": 850
+    },
+    {
+        "inscricao": "190358",
+        "nome": "GUILHERME DOMINGOS DO CARMO FARIA",
+        "cotista": false,
+        "nota": 66,
+        "classificacao": 851
+    },
+    {
+        "inscricao": "290758",
+        "nome": "JO\u00c3O MANUEL FERNANDES PACHECO",
+        "cotista": false,
+        "nota": 66,
+        "classificacao": 852
+    },
+    {
+        "inscricao": "110212",
+        "nome": "GABRIEL MARQUES DE LIMA DE SANTANA",
+        "cotista": false,
+        "nota": 66,
+        "classificacao": 853
+    },
+    {
+        "inscricao": "340467",
+        "nome": "JOAO VITOR NAVES MAGALHAES",
+        "cotista": false,
+        "nota": 65.917,
+        "classificacao": 854
+    },
+    {
+        "inscricao": "311004",
+        "nome": "NAHIDION PEREIRA TAVEIRA",
+        "cotista": true,
+        "nota": 65.917,
+        "classificacao": 855
+    },
+    {
+        "inscricao": "311270",
+        "nome": "WADYSON DE JESUS B\u00c9LICHE",
+        "cotista": true,
+        "nota": 65.917,
+        "classificacao": 856
+    },
+    {
+        "inscricao": "110670",
+        "nome": "VICTOR BISKUP FERRAZ",
+        "cotista": false,
+        "nota": 65.917,
+        "classificacao": 857
+    },
+    {
+        "inscricao": "161372",
+        "nome": "NIKOLAS DE FREITAS SILVA",
+        "cotista": true,
+        "nota": 65.917,
+        "classificacao": 858
+    },
+    {
+        "inscricao": "040857",
+        "nome": "JO\u00c3O VITOR XIMENES ROGOSKI",
+        "cotista": false,
+        "nota": 65.917,
+        "classificacao": 859
+    },
+    {
+        "inscricao": "120186",
+        "nome": "CAIO SANTOS PIRES",
+        "cotista": true,
+        "nota": 65.917,
+        "classificacao": 860
+    },
+    {
+        "inscricao": "160970",
+        "nome": "KAWAN SOUZA BARBOZA",
+        "cotista": false,
+        "nota": 65.917,
+        "classificacao": 861
+    },
+    {
+        "inscricao": "210148",
+        "nome": "CESAR AUGUSTO SOUZA PAIVA",
+        "cotista": false,
+        "nota": 65.833,
+        "classificacao": 862
+    },
+    {
+        "inscricao": "041291",
+        "nome": "NICOLAS JOSE BARATA",
+        "cotista": false,
+        "nota": 65.833,
+        "classificacao": 863
+    },
+    {
+        "inscricao": "080528",
+        "nome": "LUCAS DE OLIVEIRA BRAGA",
+        "cotista": false,
+        "nota": 65.833,
+        "classificacao": 864
+    },
+    {
+        "inscricao": "150668",
+        "nome": "JO\u00c3O VICTOR DE BARROS GIRIANELLI RODRIGUES",
+        "cotista": false,
+        "nota": 65.833,
+        "classificacao": 865
+    },
+    {
+        "inscricao": "311249",
+        "nome": "VINICIUS MOREIRA MACIEL",
+        "cotista": false,
+        "nota": 65.833,
+        "classificacao": 866
+    },
+    {
+        "inscricao": "120914",
+        "nome": "LUIZ FELIPE CORREIA DE ARA\u00daJO",
+        "cotista": true,
+        "nota": 65.833,
+        "classificacao": 867
+    },
+    {
+        "inscricao": "241202",
+        "nome": "LUCAS EDUARDO ZORDAN LOPES",
+        "cotista": false,
+        "nota": 65.75,
+        "classificacao": 868
+    },
+    {
+        "inscricao": "130880",
+        "nome": "LUCAS AROUCA GUIMAR\u00c3ES",
+        "cotista": true,
+        "nota": 65.75,
+        "classificacao": 869
+    },
+    {
+        "inscricao": "180397",
+        "nome": "HENRIQUE PRADO MACELLI",
+        "cotista": false,
+        "nota": 65.75,
+        "classificacao": 870
+    },
+    {
+        "inscricao": "010536",
+        "nome": "JO\u00c3O PEDRO SARMANHO BOABAID",
+        "cotista": false,
+        "nota": 65.75,
+        "classificacao": 871
+    },
+    {
+        "inscricao": "210353",
+        "nome": "GLAUCIO CIPRIANO LIMA JUNIOR",
+        "cotista": true,
+        "nota": 65.75,
+        "classificacao": 872
+    },
+    {
+        "inscricao": "180363",
+        "nome": "GUILHERME DE ANDRADE FERREIRA",
+        "cotista": false,
+        "nota": 65.75,
+        "classificacao": 873
+    },
+    {
+        "inscricao": "271127",
+        "nome": "JULIO FELIPE DE ALMEIDA SA",
+        "cotista": false,
+        "nota": 65.75,
+        "classificacao": 874
+    },
+    {
+        "inscricao": "230717",
+        "nome": "RAPHAEL ANDR\u00c9 DE OLIVEIRA CARDOSO",
+        "cotista": false,
+        "nota": 65.75,
+        "classificacao": 875
+    },
+    {
+        "inscricao": "141228",
+        "nome": "RAFAEL ARAUJO BARROS",
+        "cotista": true,
+        "nota": 65.75,
+        "classificacao": 876
+    },
+    {
+        "inscricao": "010185",
+        "nome": "DANIEL JOSHUA FERNANDES MARQUES",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 877
+    },
+    {
+        "inscricao": "160764",
+        "nome": "JOAO HENRIQUE DE FREITAS CERQUEIRA",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 878
+    },
+    {
+        "inscricao": "070626",
+        "nome": "GUILHERME BAITELO",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 879
+    },
+    {
+        "inscricao": "240503",
+        "nome": "FELIPE BORGES FALLEIROS",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 880
+    },
+    {
+        "inscricao": "241275",
+        "nome": "LUIZ AUGUSTO DE FREITAS MARIZ",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 881
+    },
+    {
+        "inscricao": "090360",
+        "nome": "GABRIEL BAPTISTA OLIVEIRA",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 882
+    },
+    {
+        "inscricao": "291466",
+        "nome": "S\u00c9RGIO WILLIAM SILVA DE OLIVEIRA",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 883
+    },
+    {
+        "inscricao": "070026",
+        "nome": "ALEXANDRE ROTH MONDA",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 884
+    },
+    {
+        "inscricao": "250333",
+        "nome": "EDUARDO SACCHI MACIEL",
+        "cotista": true,
+        "nota": 65.667,
+        "classificacao": 885
+    },
+    {
+        "inscricao": "170293",
+        "nome": "PEDRO LUCAS SILVA DE SOUZA",
+        "cotista": false,
+        "nota": 65.583,
+        "classificacao": 886
+    },
+    {
+        "inscricao": "260045",
+        "nome": "BRYAN MOURA RIBEIRO",
+        "cotista": false,
+        "nota": 65.583,
+        "classificacao": 887
+    },
+    {
+        "inscricao": "272143",
+        "nome": "YURI FARIAS DE SIQUEIRA",
+        "cotista": false,
+        "nota": 65.5,
+        "classificacao": 888
+    },
+    {
+        "inscricao": "060343",
+        "nome": "JOAO LUCAS SERAFIM LUZ PEREIRA",
+        "cotista": false,
+        "nota": 65.5,
+        "classificacao": 889
+    },
+    {
+        "inscricao": "060206",
+        "nome": "GABRIEL ALEXANDRE PACHECO",
+        "cotista": false,
+        "nota": 65.5,
+        "classificacao": 890
+    },
+    {
+        "inscricao": "180966",
+        "nome": "VEN\u00c2NCIO GAU ABREU E LIMA",
+        "cotista": false,
+        "nota": 65.5,
+        "classificacao": 891
+    },
+    {
+        "inscricao": "050698",
+        "nome": "GIANCARLO BONAMICO",
+        "cotista": false,
+        "nota": 65.5,
+        "classificacao": 892
+    },
+    {
+        "inscricao": "290947",
+        "nome": "LEON LUCA DE ARAUJO CALHEIRA",
+        "cotista": false,
+        "nota": 65.5,
+        "classificacao": 893
+    },
+    {
+        "inscricao": "161490",
+        "nome": "RAFAEL ALMEIDA MOREIRA",
+        "cotista": false,
+        "nota": 65.5,
+        "classificacao": 894
+    },
+    {
+        "inscricao": "130202",
+        "nome": "CAIO RODRIGUES BADAR\u00d3",
+        "cotista": false,
+        "nota": 65.417,
+        "classificacao": 895
+    },
+    {
+        "inscricao": "141291",
+        "nome": "RYAN MATHEUS LUCAS DE LIMA",
+        "cotista": true,
+        "nota": 65.417,
+        "classificacao": 896
+    },
+    {
+        "inscricao": "121441",
+        "nome": "YLAN GOMES FRAN\u00c7A DE ALMEIDA",
+        "cotista": false,
+        "nota": 65.417,
+        "classificacao": 897
+    },
+    {
+        "inscricao": "300623",
+        "nome": "PEDRO MAX MOURA BUHLER",
+        "cotista": false,
+        "nota": 65.417,
+        "classificacao": 898
+    },
+    {
+        "inscricao": "100316",
+        "nome": "DENZEL MAIA SILVA DO NASCIMENTO",
+        "cotista": true,
+        "nota": 65.333,
+        "classificacao": 899
+    },
+    {
+        "inscricao": "180344",
+        "nome": "GILSON GABRIEL BAUER DE OLIVEIRA",
+        "cotista": false,
+        "nota": 65.333,
+        "classificacao": 900
+    },
+    {
+        "inscricao": "040713",
+        "nome": "IGOR MADEIRA DE SA PACHECO",
+        "cotista": true,
+        "nota": 65.333,
+        "classificacao": 901
+    },
+    {
+        "inscricao": "051869",
+        "nome": "ROMILDO BRUNO MELATO PORTELA",
+        "cotista": false,
+        "nota": 65.333,
+        "classificacao": 902
+    },
+    {
+        "inscricao": "180982",
+        "nome": "VIN\u00cdCIUS DA SILVA MAGALH\u00c3ES",
+        "cotista": false,
+        "nota": 65.333,
+        "classificacao": 903
+    },
+    {
+        "inscricao": "110058",
+        "nome": "ARTHUR MARTINEZ CASTRO",
+        "cotista": false,
+        "nota": 65.333,
+        "classificacao": 904
+    },
+    {
+        "inscricao": "121212",
+        "nome": "RAFAEL ROCHA GUIMAR\u00c3ES",
+        "cotista": false,
+        "nota": 65.25,
+        "classificacao": 905
+    },
+    {
+        "inscricao": "100686",
+        "nome": "JO\u00c3O FREDERICO MOURA DE DEUS",
+        "cotista": false,
+        "nota": 65.25,
+        "classificacao": 906
+    },
+    {
+        "inscricao": "060700",
+        "nome": "PEDRO HENRIQUE MARTINS NEVES",
+        "cotista": false,
+        "nota": 65.25,
+        "classificacao": 907
+    },
+    {
+        "inscricao": "240135",
+        "nome": "APOLO CONCEICAO DE ARAUJO CAETANO",
+        "cotista": true,
+        "nota": 65.25,
+        "classificacao": 908
+    },
+    {
+        "inscricao": "280686",
+        "nome": "PEDRO HENRIQUE DANTAS FERREIRA",
+        "cotista": true,
+        "nota": 65.25,
+        "classificacao": 909
+    },
+    {
+        "inscricao": "240427",
+        "nome": "EDUARDO DE SOUSA FERREIRA",
+        "cotista": false,
+        "nota": 65.167,
+        "classificacao": 910
+    },
+    {
+        "inscricao": "180440",
+        "nome": "JO\u00c3O GUILHERME LOPES CAMPOS",
+        "cotista": false,
+        "nota": 65.167,
+        "classificacao": 911
+    },
+    {
+        "inscricao": "110126",
+        "nome": "DANIEL ROCHA GALIATI",
+        "cotista": true,
+        "nota": 65.167,
+        "classificacao": 912
+    },
+    {
+        "inscricao": "161462",
+        "nome": "PEDRO LUCAS FIGUEIREDO VICENTE",
+        "cotista": true,
+        "nota": 65.167,
+        "classificacao": 913
+    },
+    {
+        "inscricao": "291353",
+        "nome": "PEDRO VIN\u00cdCIUS POMPEU DE OLIVEIRA",
+        "cotista": true,
+        "nota": 65.167,
+        "classificacao": 914
+    },
+    {
+        "inscricao": "300737",
+        "nome": "VIN\u00cdCIUS PEREIRA SANTOS",
+        "cotista": true,
+        "nota": 65.167,
+        "classificacao": 915
+    },
+    {
+        "inscricao": "240320",
+        "nome": "CHRISTIAN CHAVES FARIA EBRE",
+        "cotista": false,
+        "nota": 65.167,
+        "classificacao": 916
+    },
+    {
+        "inscricao": "290254",
+        "nome": "CARLOS VINICIUS AGUIAR ROCHA",
+        "cotista": false,
+        "nota": 65.083,
+        "classificacao": 917
+    },
+    {
+        "inscricao": "240532",
+        "nome": "FELIPE RIBEIRO DE ALMEIDA",
+        "cotista": false,
+        "nota": 65.083,
+        "classificacao": 918
+    },
+    {
+        "inscricao": "180740",
+        "nome": "MATHEUS DA SILVA BRAGA",
+        "cotista": false,
+        "nota": 65.083,
+        "classificacao": 919
+    },
+    {
+        "inscricao": "180893",
+        "nome": "RHAVI GOMES DE SOUZA RAMOS MIRANDA",
+        "cotista": false,
+        "nota": 65.083,
+        "classificacao": 920
+    },
+    {
+        "inscricao": "121384",
+        "nome": "VITOR ENRIQUE GUIMARAES SOUSA",
+        "cotista": false,
+        "nota": 65.083,
+        "classificacao": 921
+    },
+    {
+        "inscricao": "010930",
+        "nome": "PIETRO LONGO LEAL",
+        "cotista": false,
+        "nota": 65,
+        "classificacao": 922
+    },
+    {
+        "inscricao": "130749",
+        "nome": "JUAN VAZ FERRAZ EWEN",
+        "cotista": false,
+        "nota": 65,
+        "classificacao": 923
+    },
+    {
+        "inscricao": "130089",
+        "nome": "ANDREY POZ DE OLIVEIRA NASCIMENTO",
+        "cotista": true,
+        "nota": 65,
+        "classificacao": 924
+    },
+    {
+        "inscricao": "080680",
+        "nome": "NICKOLAS NATHANIEL BELCHIOR",
+        "cotista": false,
+        "nota": 65,
+        "classificacao": 925
+    },
+    {
+        "inscricao": "131280",
+        "nome": "RODRIGO DE LIMA SOARES",
+        "cotista": true,
+        "nota": 65,
+        "classificacao": 926
+    },
+    {
+        "inscricao": "020717",
+        "nome": "JO\u00c3O VITOR FERIGOLO DA SILVA",
+        "cotista": false,
+        "nota": 64.917,
+        "classificacao": 927
+    },
+    {
+        "inscricao": "190532",
+        "nome": "JOS\u00c9 EDUARDO OSS TRINDADE",
+        "cotista": false,
+        "nota": 64.917,
+        "classificacao": 928
+    },
+    {
+        "inscricao": "091017",
+        "nome": "NICOLLAS DO ROSARIO NAVEGA",
+        "cotista": true,
+        "nota": 64.917,
+        "classificacao": 929
+    },
+    {
+        "inscricao": "021130",
+        "nome": "OTAVIO BOEZZIO REZERES",
+        "cotista": true,
+        "nota": 64.917,
+        "classificacao": 930
+    },
+    {
+        "inscricao": "180271",
+        "nome": "FELIPE MAGALH\u00c3ES DE OLIVEIRA",
+        "cotista": false,
+        "nota": 64.917,
+        "classificacao": 931
+    },
+    {
+        "inscricao": "251227",
+        "nome": "RIVALDO OLIVEIRA CALDAS DE JESUS",
+        "cotista": true,
+        "nota": 64.917,
+        "classificacao": 932
+    },
+    {
+        "inscricao": "040500",
+        "nome": "GABRIEL FELIPE ARAUJO",
+        "cotista": false,
+        "nota": 64.917,
+        "classificacao": 933
+    },
+    {
+        "inscricao": "020566",
+        "nome": "HENRIQUE SCHMIDT DA ROSA",
+        "cotista": false,
+        "nota": 64.917,
+        "classificacao": 934
+    },
+    {
+        "inscricao": "010831",
+        "nome": "MIGUEL DALBERTO PEDRO",
+        "cotista": false,
+        "nota": 64.917,
+        "classificacao": 935
+    },
+    {
+        "inscricao": "310106",
+        "nome": "ANGELO DANIEL BARRETO TAVARES",
+        "cotista": true,
+        "nota": 64.833,
+        "classificacao": 936
+    },
+    {
+        "inscricao": "340828",
+        "nome": "RYANN YGOR GALDINO ALMEIDA",
+        "cotista": true,
+        "nota": 64.833,
+        "classificacao": 937
+    },
+    {
+        "inscricao": "101385",
+        "nome": "RAFAEL FELIPE COELHO SANTOS DA SILVA",
+        "cotista": true,
+        "nota": 64.667,
+        "classificacao": 938
+    },
+    {
+        "inscricao": "110107",
+        "nome": "CAUAN DA SILVA ISIDORO",
+        "cotista": true,
+        "nota": 64.667,
+        "classificacao": 939
+    },
+    {
+        "inscricao": "120713",
+        "nome": "JUAN PABLO DA SILVA SANTANA",
+        "cotista": true,
+        "nota": 64.583,
+        "classificacao": 940
+    },
+    {
+        "inscricao": "051466",
+        "nome": "MATEUS RODRIGUES BASILIO DOS SANTOS",
+        "cotista": true,
+        "nota": 64.583,
+        "classificacao": 941
+    },
+    {
+        "inscricao": "310784",
+        "nome": "L\u00c1ZARO GABRIEL DA SILVA FRAZ\u00c3O",
+        "cotista": true,
+        "nota": 64.583,
+        "classificacao": 942
+    },
+    {
+        "inscricao": "300462",
+        "nome": "LUAN DAVI SOUSA",
+        "cotista": true,
+        "nota": 64.583,
+        "classificacao": 943
+    },
+    {
+        "inscricao": "290587",
+        "nome": "GUILHERME ALVES MALVEIRA",
+        "cotista": true,
+        "nota": 64.333,
+        "classificacao": 944
+    },
+    {
+        "inscricao": "240551",
+        "nome": "FERNANDO LUIZ ALVES JUNIOR",
+        "cotista": true,
+        "nota": 64.25,
+        "classificacao": 945
+    },
+    {
+        "inscricao": "270258",
+        "nome": "CAIO LEAO ATTIAS LIMA",
+        "cotista": true,
+        "nota": 64.167,
+        "classificacao": 946
+    },
+    {
+        "inscricao": "240839",
+        "nome": "ISA\u00cdAS DE PAIVA CARVALHO",
+        "cotista": true,
+        "nota": 64.167,
+        "classificacao": 947
+    },
+    {
+        "inscricao": "250691",
+        "nome": "JO\u00c3O VICTOR REIS CONCEI\u00c7\u00c3O",
+        "cotista": true,
+        "nota": 64.083,
+        "classificacao": 948
+    },
+    {
+        "inscricao": "330157",
+        "nome": "VICTOR MATHEUS BRAGA NARZETTI",
+        "cotista": true,
+        "nota": 64.083,
+        "classificacao": 949
+    },
+    {
+        "inscricao": "011078",
+        "nome": "VINICIUS MACHADO DOS SANTOS",
+        "cotista": true,
+        "nota": 63.75,
+        "classificacao": 950
+    },
+    {
+        "inscricao": "250675",
+        "nome": "JO\u00c3O PEDRO DE OLIVEIRA BENJAMIM",
+        "cotista": true,
+        "nota": 63.75,
+        "classificacao": 951
+    },
+    {
+        "inscricao": "280541",
+        "nome": "LUCAS PEREIRA LEITE DE OLIVEIRA",
+        "cotista": true,
+        "nota": 63.75,
+        "classificacao": 952
+    },
+    {
+        "inscricao": "240535",
+        "nome": "FELIPE UENIO SOUZA ANJOS",
+        "cotista": true,
+        "nota": 63.667,
+        "classificacao": 953
+    },
+    {
+        "inscricao": "110422",
+        "nome": "LUCAS DA SILVA DE OLIVEIRA",
+        "cotista": true,
+        "nota": 63.667,
+        "classificacao": 954
+    },
+    {
+        "inscricao": "161281",
+        "nome": "MATHEUS DA ROCHA NUNES",
+        "cotista": true,
+        "nota": 63.333,
+        "classificacao": 955
+    },
+    {
+        "inscricao": "280469",
+        "nome": "KADSON JOS\u00c9 MARTINS",
+        "cotista": true,
+        "nota": 63.25,
+        "classificacao": 956
+    },
+    {
+        "inscricao": "140100",
+        "nome": "ANTONIO VICTOR GOMES COTTA",
+        "cotista": true,
+        "nota": 63,
+        "classificacao": 957
+    },
+    {
+        "inscricao": "101195",
+        "nome": "MATHEUS FERREIRA CARVALHO",
+        "cotista": true,
+        "nota": 62.917,
+        "classificacao": 958
+    },
+    {
+        "inscricao": "110437",
+        "nome": "LUIGI BASILIO LEON",
+        "cotista": true,
+        "nota": 62.917,
+        "classificacao": 959
+    },
+    {
+        "inscricao": "241573",
+        "nome": "OTHON FERREIRA DA SILVA ROCHA",
+        "cotista": true,
+        "nota": 62.833,
+        "classificacao": 960
+    },
+    {
+        "inscricao": "130425",
+        "nome": "GABRIEL DA SILVA PINHEIRO",
+        "cotista": true,
+        "nota": 62.667,
+        "classificacao": 961
+    },
+    {
+        "inscricao": "340929",
+        "nome": "YAN DE ALMEIDA PEREIRA",
+        "cotista": true,
+        "nota": 62.667,
+        "classificacao": 962
+    },
+    {
+        "inscricao": "161448",
+        "nome": "PEDRO HENRIQUE NUNES DA SILVA",
+        "cotista": true,
+        "nota": 62.583,
+        "classificacao": 963
+    },
+    {
+        "inscricao": "160870",
+        "nome": "JONATHAN SILVA DE ALMEIDA",
+        "cotista": true,
+        "nota": 62.5,
+        "classificacao": 964
+    },
+    {
+        "inscricao": "040136",
+        "nome": "ARTHUR MONTEIRO MOUR\u00c3O",
+        "cotista": true,
+        "nota": 62.333,
+        "classificacao": 965
+    },
+    {
+        "inscricao": "130257",
+        "nome": "DANIEL GASPAR RIBEIRO DOS SANTOS",
+        "cotista": true,
+        "nota": 62.167,
+        "classificacao": 966
+    },
+    {
+        "inscricao": "240898",
+        "nome": "JOAO GABRIEL ARRAES",
+        "cotista": true,
+        "nota": 62.167,
+        "classificacao": 967
+    },
+    {
+        "inscricao": "241010",
+        "nome": "JOHN GABRIEL LOPES VALEN\u00c7A",
+        "cotista": true,
+        "nota": 62.167,
+        "classificacao": 968
+    },
+    {
+        "inscricao": "241327",
+        "nome": "MARCOS FILIPE DE SOUSA SANTOS",
+        "cotista": true,
+        "nota": 61.917,
+        "classificacao": 969
+    },
+    {
+        "inscricao": "141393",
+        "nome": "VINICIUS DOS SANTOS MONTEIRO DE OLIVEIRA",
+        "cotista": true,
+        "nota": 61.917,
+        "classificacao": 970
+    },
+    {
+        "inscricao": "141348",
+        "nome": "THIAGO FERREIRA GON\u00c7ALVES",
+        "cotista": true,
+        "nota": 61.75,
+        "classificacao": 971
+    },
+    {
+        "inscricao": "310512",
+        "nome": "HELIABE ARA\u00daJO DINIZ CHAVES",
+        "cotista": true,
+        "nota": 61.75,
+        "classificacao": 972
+    },
+    {
+        "inscricao": "070822",
+        "nome": "ISAQUE SOUZA CRUZ",
+        "cotista": true,
+        "nota": 61.667,
+        "classificacao": 973
+    },
+    {
+        "inscricao": "121350",
+        "nome": "VICTOR GABRIELL LISBOA ALVES",
+        "cotista": true,
+        "nota": 61.583,
+        "classificacao": 974
+    },
+    {
+        "inscricao": "270936",
+        "nome": "JO\u00c3O LUCAS TORRES DE LIMA DE ANDRADE",
+        "cotista": true,
+        "nota": 61.583,
+        "classificacao": 975
+    },
+    {
+        "inscricao": "170118",
+        "nome": "GUSTAVO VICENTE DE FREITAS FIRMINO",
+        "cotista": true,
+        "nota": 61.583,
+        "classificacao": 976
+    },
+    {
+        "inscricao": "180294",
+        "nome": "GABRIEL DE OLIVEIRA BARRETO",
+        "cotista": true,
+        "nota": 61.5,
+        "classificacao": 977
+    },
+    {
+        "inscricao": "230707",
+        "nome": "PL\u00c1CIDO CORREIA DA SILVA NETO",
+        "cotista": true,
+        "nota": 61.5,
+        "classificacao": 978
+    },
+    {
+        "inscricao": "271571",
+        "nome": "MAURO LUIZ DA SILVA FILHO",
+        "cotista": true,
+        "nota": 61.417,
+        "classificacao": 979
+    },
+    {
+        "inscricao": "241778",
+        "nome": "SAMUEL FARIAS DA PAZ",
+        "cotista": true,
+        "nota": 61.333,
+        "classificacao": 980
+    },
+    {
+        "inscricao": "120424",
+        "nome": "GABRIEL DE JESUS DA FONSECA",
+        "cotista": true,
+        "nota": 61.25,
+        "classificacao": 981
+    },
+    {
+        "inscricao": "121151",
+        "nome": "PAULO VINICIUS DOS SANTOS LUZ",
+        "cotista": true,
+        "nota": 61.167,
+        "classificacao": 982
+    },
+    {
+        "inscricao": "210312",
+        "nome": "GABRIEL JACINTO TEIXEIRA",
+        "cotista": true,
+        "nota": 61.167,
+        "classificacao": 983
+    },
+    {
+        "inscricao": "010830",
+        "nome": "MIGUEL BORTOLINI RAMIRES SOUSA",
+        "cotista": true,
+        "nota": 61.083,
+        "classificacao": 984
+    },
+    {
+        "inscricao": "070909",
+        "nome": "JO\u00c3O VICTOR DE SOUZA SANTOS",
+        "cotista": true,
+        "nota": 61.083,
+        "classificacao": 985
+    },
+    {
+        "inscricao": "241683",
+        "nome": "RAFAEL DA LUZ CARVALHO",
+        "cotista": true,
+        "nota": 61,
+        "classificacao": 986
+    },
+    {
+        "inscricao": "190046",
+        "nome": "ANDR\u00c9 ALVES ROCHA",
+        "cotista": true,
+        "nota": 60.917,
+        "classificacao": 987
+    },
+    {
+        "inscricao": "290780",
+        "nome": "JO\u00c3O PEDRO PINHEIRO DANTAS DE OLIVEIRA",
+        "cotista": true,
+        "nota": 60.833,
+        "classificacao": 988
+    },
+    {
+        "inscricao": "271651",
+        "nome": "PABLO DANILLO DE BARROS GON\u00c7ALVES",
+        "cotista": true,
+        "nota": 60.833,
+        "classificacao": 989
+    },
+    {
+        "inscricao": "150401",
+        "nome": "FILIPE ZAPHIRO DA SILVA",
+        "cotista": true,
+        "nota": 60.667,
+        "classificacao": 990
+    },
+    {
+        "inscricao": "290252",
+        "nome": "CARLOS VICTOR ALMEIDA PINHO",
+        "cotista": true,
+        "nota": 60.667,
+        "classificacao": 991
+    },
+    {
+        "inscricao": "120029",
+        "nome": "ALLIPHER COSTA BHERING",
+        "cotista": true,
+        "nota": 60.667,
+        "classificacao": 992
+    },
+    {
+        "inscricao": "100766",
+        "nome": "JO\u00c3O VITOR DE ALMEIDA MAIA",
+        "cotista": true,
+        "nota": 60.583,
+        "classificacao": 993
+    },
+    {
+        "inscricao": "120913",
+        "nome": "LUIZ DANIEL DE CARVALHO MENEZES",
+        "cotista": true,
+        "nota": 60.5,
+        "classificacao": 994
+    },
+    {
+        "inscricao": "010816",
+        "nome": "MATHEUS SANTOS DE OLIVEIRA",
+        "cotista": true,
+        "nota": 60.5,
+        "classificacao": 995
+    },
+    {
+        "inscricao": "300483",
+        "nome": "LUIS DAVID DA SILVA SANTOS",
+        "cotista": true,
+        "nota": 60.333,
+        "classificacao": 996
+    },
+    {
+        "inscricao": "101094",
+        "nome": "MARCIO MATHIE PRIVADO GOMES",
+        "cotista": true,
+        "nota": 60.333,
+        "classificacao": 997
+    },
+    {
+        "inscricao": "131396",
+        "nome": "VINICIUS GABRIEL QUINTINO COSTA",
+        "cotista": true,
+        "nota": 60.333,
+        "classificacao": 998
+    },
+    {
+        "inscricao": "100567",
+        "nome": "GUSTAVO CERQUEIRA GUILHERME",
+        "cotista": true,
+        "nota": 60.25,
+        "classificacao": 999
+    },
+    {
+        "inscricao": "290610",
+        "nome": "GUILHERME SILVA DE ALBURQUERQUE",
+        "cotista": true,
+        "nota": 60.167,
+        "classificacao": 1000
+    },
+    {
+        "inscricao": "270502",
+        "nome": "ENDREWS JOSE PORTUGAL DIAS",
+        "cotista": true,
+        "nota": 60.167,
+        "classificacao": 1001
+    },
+    {
+        "inscricao": "250800",
+        "nome": "LEONARDO MATHEUS DE SOUSA SA",
+        "cotista": true,
+        "nota": 60.083,
+        "classificacao": 1002
+    },
+    {
+        "inscricao": "100415",
+        "nome": "FELIPE PACHECO MAC\u00c1RIO DE MEDEIROS",
+        "cotista": true,
+        "nota": 60,
+        "classificacao": 1003
+    },
+    {
+        "inscricao": "100553",
+        "nome": "GUILHERME FABR\u00cdCIO DOS SANTOS ARRUDA",
+        "cotista": true,
+        "nota": 59.75,
+        "classificacao": 1004
+    },
+    {
+        "inscricao": "101462",
+        "nome": "RODRIGO PEREIRA GARAROBA",
+        "cotista": true,
+        "nota": 59.584,
+        "classificacao": 1005
+    },
+    {
+        "inscricao": "310180",
+        "nome": "CALEBE SOUSA PEREIRA",
+        "cotista": true,
+        "nota": 59.5,
+        "classificacao": 1006
+    },
+    {
+        "inscricao": "300316",
+        "nome": "ISAAC MATHEUS RIBEIRO MOURA",
+        "cotista": true,
+        "nota": 59.417,
+        "classificacao": 1007
+    },
+    {
+        "inscricao": "251237",
+        "nome": "RODRIGO BRASILEIRO FERNANDES",
+        "cotista": true,
+        "nota": 59.333,
+        "classificacao": 1008
+    },
+    {
+        "inscricao": "140382",
+        "nome": "GABRIEL DA CONCEI\u00c7\u00c3O BARCELOS",
+        "cotista": true,
+        "nota": 59.25,
+        "classificacao": 1009
+    },
+    {
+        "inscricao": "120539",
+        "nome": "GUSTAVO LOUREN\u00c7O DA ASSUN\u00c7\u00c3O",
+        "cotista": true,
+        "nota": 59.167,
+        "classificacao": 1010
+    },
+    {
+        "inscricao": "161082",
+        "nome": "LUCAS DE OLIVEIRA LUIS",
+        "cotista": true,
+        "nota": 59,
+        "classificacao": 1011
+    },
+    {
+        "inscricao": "010892",
+        "nome": "PEDRO ARTHUR PEREIRA ROCHA",
+        "cotista": true,
+        "nota": 58.917,
+        "classificacao": 1012
+    },
+    {
+        "inscricao": "271366",
+        "nome": "LUIZ MARCOS MONTEIRO DOS SANTOS",
+        "cotista": true,
+        "nota": 58.917,
+        "classificacao": 1013
+    },
+    {
+        "inscricao": "101341",
+        "nome": "PEDRO HENRIQUE RODRIGUES DE OLIVEIRA",
+        "cotista": true,
+        "nota": 58.833,
+        "classificacao": 1014
+    },
+    {
+        "inscricao": "060411",
+        "nome": "JUAN DA SILVA NOGUEIRA",
+        "cotista": true,
+        "nota": 58.833,
+        "classificacao": 1015
+    },
+    {
+        "inscricao": "141040",
+        "nome": "MATEUS LUCAS SILVA DOS SANTOS",
+        "cotista": true,
+        "nota": 58.833,
+        "classificacao": 1016
+    },
+    {
+        "inscricao": "090538",
+        "nome": "JHONATAN LUIS QUITES SIMPLICIO",
+        "cotista": true,
+        "nota": 58.75,
+        "classificacao": 1017
+    },
+    {
+        "inscricao": "130659",
+        "nome": "JOAO PAULO VIEIRA PEREIRA TEIXEIRA",
+        "cotista": false,
+        "nota": 2,
+        "classificacao": 1
+    },
+    {
+        "inscricao": "230408",
+        "nome": "JOAO PHELLIPE MOREIRA ARAUJO DOS SANTOS",
+        "cotista": false,
+        "nota": 85.667,
+        "classificacao": 2
+    },
+    {
+        "inscricao": "090768",
+        "nome": "LUCAS BRAGA ELEUTERIO",
+        "cotista": true,
+        "nota": 85.333,
+        "classificacao": 3
+    },
+    {
+        "inscricao": "280726",
+        "nome": "RAPHAEL MARINHO SEGUNDO",
+        "cotista": false,
+        "nota": 84.417,
+        "classificacao": 4
+    },
+    {
+        "inscricao": "030019",
+        "nome": "ALYSSON LUIZ DA SILVA",
+        "cotista": false,
+        "nota": 83.667,
+        "classificacao": 5
+    },
+    {
+        "inscricao": "270524",
+        "nome": "ESDRAS AUGUSTO SANTOS PARAIBANO",
+        "cotista": false,
+        "nota": 83.167,
+        "classificacao": 6
+    },
+    {
+        "inscricao": "180918",
+        "nome": "SAIMON CHARLES DA SILVA",
+        "cotista": false,
+        "nota": 81.917,
+        "classificacao": 7
+    },
+    {
+        "inscricao": "241442",
+        "nome": "MATHEUS EDUARDO LISBOA MARQUES",
+        "cotista": true,
+        "nota": 58.417,
+        "classificacao": 1025
+    },
+    {
+        "inscricao": "101090",
+        "nome": "MARCELO HUGO BRITO SANTIAGO",
+        "cotista": true,
+        "nota": 58.333,
+        "classificacao": 1026
+    },
+    {
+        "inscricao": "130362",
+        "nome": "ERICK SILVEIRA DE OLIVEIRA",
+        "cotista": true,
+        "nota": 58.083,
+        "classificacao": 1027
+    },
+    {
+        "inscricao": "280824",
+        "nome": "VICTOR RAFAEL DA ROCHA",
+        "cotista": true,
+        "nota": 58,
+        "classificacao": 1028
+    },
+    {
+        "inscricao": "141030",
+        "nome": "MARIO LUCAS FERREIRA ABDALA",
+        "cotista": true,
+        "nota": 57.917,
+        "classificacao": 1029
+    },
+    {
+        "inscricao": "100793",
+        "nome": "JORGE ANTONIO RODRIGUES DIAS",
+        "cotista": true,
+        "nota": 57.917,
+        "classificacao": 1030
+    },
+    {
+        "inscricao": "160358",
+        "nome": "DIOGO DOS SANTOS GENELHOUD",
+        "cotista": true,
+        "nota": 57.917,
+        "classificacao": 1031
+    },
+    {
+        "inscricao": "310902",
+        "nome": "MARCIO HENRIQUE FARIAS CRUZ",
+        "cotista": true,
+        "nota": 57.833,
+        "classificacao": 1032
+    },
+    {
+        "inscricao": "130734",
+        "nome": "JORGE HENRIQUE CARDOSO VIANA",
+        "cotista": true,
+        "nota": 57.667,
+        "classificacao": 1033
+    },
+    {
+        "inscricao": "060371",
+        "nome": "JO\u00c3O PEDRO SANTOS MIGOTTO",
+        "cotista": true,
+        "nota": 57.667,
+        "classificacao": 1034
+    },
+    {
+        "inscricao": "060073",
+        "nome": "BRUNO ALEXANDRE PINTO DA SILVA",
+        "cotista": true,
+        "nota": 57.667,
+        "classificacao": 1035
+    },
+    {
+        "inscricao": "160472",
+        "nome": "GABRIEL ALMEIDA DIAS",
+        "cotista": true,
+        "nota": 57.667,
+        "classificacao": 1036
+    },
+    {
+        "inscricao": "101188",
+        "nome": "MATHEUS DA SILVA VAL\u00c9RIO",
+        "cotista": true,
+        "nota": 57.667,
+        "classificacao": 1037
+    },
+    {
+        "inscricao": "120880",
+        "nome": "LUCAS MENDES DE MATTOS",
+        "cotista": true,
+        "nota": 57.583,
+        "classificacao": 1038
+    },
+    {
+        "inscricao": "120609",
+        "nome": "JEAN ARTHUR DOS SANTOS CAMPELO",
+        "cotista": true,
+        "nota": 57.5,
+        "classificacao": 1039
+    },
+    {
+        "inscricao": "020178",
+        "nome": "CARLOS EDUARDO MEDEIROS FERREIRA",
+        "cotista": true,
+        "nota": 57.5,
+        "classificacao": 1040
+    },
+    {
+        "inscricao": "101192",
+        "nome": "MATHEUS DE SOUZA LAGO",
+        "cotista": true,
+        "nota": 57.417,
+        "classificacao": 1041
+    },
+    {
+        "inscricao": "191015",
+        "nome": "TIAGO GONCALVES DE JESUS",
+        "cotista": true,
+        "nota": 57.333,
+        "classificacao": 1042
+    },
+    {
+        "inscricao": "161566",
+        "nome": "RODRIGO SANTOS SILVA",
+        "cotista": true,
+        "nota": 57.333,
+        "classificacao": 1043
+    },
+    {
+        "inscricao": "060678",
+        "nome": "PAULO DE TOLEDO VALENTIM DOS REIS",
+        "cotista": true,
+        "nota": 57.25,
+        "classificacao": 1044
+    },
+    {
+        "inscricao": "280433",
+        "nome": "JOS\u00c9 ALEXANDRE NETO",
+        "cotista": true,
+        "nota": 57.25,
+        "classificacao": 1045
+    },
+    {
+        "inscricao": "160218",
+        "nome": "CAIO MEIRELLES GOMES DO NASCIMENTO",
+        "cotista": true,
+        "nota": 57,
+        "classificacao": 1046
+    },
+    {
+        "inscricao": "240711",
+        "nome": "GUILHERME TENORIO VIANA FARIAS",
+        "cotista": true,
+        "nota": 56.917,
+        "classificacao": 1047
+    },
+    {
+        "inscricao": "121050",
+        "nome": "MATHEUS HENRIQUE DE S\u00c1 GAMA DOS SANTOS",
+        "cotista": true,
+        "nota": 56.917,
+        "classificacao": 1048
+    },
+    {
+        "inscricao": "121111",
+        "nome": "NICOLAS COUTINHO BORGES FREITAS",
+        "cotista": true,
+        "nota": 56.833,
+        "classificacao": 1049
+    },
+    {
+        "inscricao": "130912",
+        "nome": "LUCAS NEVES DINYS COSTA",
+        "cotista": true,
+        "nota": 56.833,
+        "classificacao": 1050
+    },
+    {
+        "inscricao": "161692",
+        "nome": "VICTOR HUGO REZENDE DOS SANTOS",
+        "cotista": true,
+        "nota": 56.75,
+        "classificacao": 1051
+    },
+    {
+        "inscricao": "140140",
+        "nome": "BRENO DE SOUSA SAMPAIO",
+        "cotista": true,
+        "nota": 56.75,
+        "classificacao": 1052
+    },
+    {
+        "inscricao": "310948",
+        "nome": "MATEUS HENRIQUE DORNELE MACHADO ROCHA",
+        "cotista": true,
+        "nota": 56.75,
+        "classificacao": 1053
+    },
+    {
+        "inscricao": "100875",
+        "nome": "KAU\u00c3 LEMOS RODRIGUES",
+        "cotista": true,
+        "nota": 56.583,
+        "classificacao": 1054
+    },
+    {
+        "inscricao": "091015",
+        "nome": "NICOLAS RODRIGUES VIEIRA",
+        "cotista": true,
+        "nota": 56.5,
+        "classificacao": 1055
+    },
+    {
+        "inscricao": "150298",
+        "nome": "DERICK RODRIGUES VELASCO",
+        "cotista": true,
+        "nota": 56.333,
+        "classificacao": 1056
+    },
+    {
+        "inscricao": "110521",
+        "nome": "MATHEUS HENRIQUE DA SILVA OLIVEIRA",
+        "cotista": true,
+        "nota": 56.25,
+        "classificacao": 1057
+    },
+    {
+        "inscricao": "090490",
+        "nome": "HUGO FREITAS CARDOSO DA SILVA",
+        "cotista": true,
+        "nota": 56.167,
+        "classificacao": 1058
+    },
+    {
+        "inscricao": "160437",
+        "nome": "FABIO VALERIO DE ALCANTARA FILHO",
+        "cotista": true,
+        "nota": 56.083,
+        "classificacao": 1059
+    },
+    {
+        "inscricao": "241829",
+        "nome": "TALES SOUZA FERREIRA",
+        "cotista": true,
+        "nota": 56.083,
+        "classificacao": 1060
+    },
+    {
+        "inscricao": "080693",
+        "nome": "OT\u00c1VIO AUGUSTO DINIZ MARQUES",
+        "cotista": true,
+        "nota": 56.083,
+        "classificacao": 1061
+    },
+    {
+        "inscricao": "251350",
+        "nome": "VICTOR GIOVANNI MAGALH\u00c3ES DA COSTA",
+        "cotista": true,
+        "nota": 56.083,
+        "classificacao": 1062
+    }
+]

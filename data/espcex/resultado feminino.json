@@ -1,0 +1,1639 @@
+[
+    {
+        "inscricao": "100043",
+        "nome": "ANA BEATRIZ GUEDES MELO",
+        "cotista": false,
+        "nota": 86.25,
+        "classificacao": 1
+    },
+    {
+        "inscricao": "291410",
+        "nome": "RITA DE CASSIA DOS ANJOS PINHEIRO",
+        "cotista": false,
+        "nota": 85.667,
+        "classificacao": 2
+    },
+    {
+        "inscricao": "080338",
+        "nome": "HAUANY GON\u00c7ALVES LEITE",
+        "cotista": true,
+        "nota": 85.333,
+        "classificacao": 3
+    },
+    {
+        "inscricao": "020453",
+        "nome": "GABRIELA ANTUNES COMAR\u00da",
+        "cotista": false,
+        "nota": 84.417,
+        "classificacao": 4
+    },
+    {
+        "inscricao": "310110",
+        "nome": "ANNA LUIZA BRAGA DE ALBUQUERQUE",
+        "cotista": false,
+        "nota": 83.667,
+        "classificacao": 5
+    },
+    {
+        "inscricao": "030138",
+        "nome": "ELIZA HOFFMANN",
+        "cotista": false,
+        "nota": 83.167,
+        "classificacao": 6
+    },
+    {
+        "inscricao": "060031",
+        "nome": "ANA LAURA MARTINS DE LIMA",
+        "cotista": false,
+        "nota": 81.917,
+        "classificacao": 7
+    },
+    {
+        "inscricao": "141019",
+        "nome": "MARIA LU\u00cdZA BERTIN DOS SANTOS",
+        "cotista": false,
+        "nota": 81.167,
+        "classificacao": 8
+    },
+    {
+        "inscricao": "010753",
+        "nome": "MANUELLA DA ROSA MACHADO",
+        "cotista": false,
+        "nota": 80.917,
+        "classificacao": 9
+    },
+    {
+        "inscricao": "291474",
+        "nome": "ST\u00c9FANI DUR\u00c3O PEREIRA",
+        "cotista": false,
+        "nota": 79.834,
+        "classificacao": 10
+    },
+    {
+        "inscricao": "101130",
+        "nome": "MARIA EDUARDA FREIRE LOPES",
+        "cotista": false,
+        "nota": 79.75,
+        "classificacao": 11
+    },
+    {
+        "inscricao": "101637",
+        "nome": "YASMIN SILENE DA COSTA SILVA",
+        "cotista": false,
+        "nota": 79.583,
+        "classificacao": 12
+    },
+    {
+        "inscricao": "290714",
+        "nome": "JANA ALMEIDA PACHECO DOS SANTOS",
+        "cotista": false,
+        "nota": 79.417,
+        "classificacao": 13
+    },
+    {
+        "inscricao": "120192",
+        "nome": "CAMILA DE LIMA BAPTISTA",
+        "cotista": false,
+        "nota": 79.333,
+        "classificacao": 14
+    },
+    {
+        "inscricao": "241067",
+        "nome": "JULLYANA FERREIRA CARVALHO",
+        "cotista": false,
+        "nota": 78.75,
+        "classificacao": 15
+    },
+    {
+        "inscricao": "080218",
+        "nome": "ESTER CARVALHO SANTOS DE MATOS",
+        "cotista": true,
+        "nota": 78.417,
+        "classificacao": 16
+    },
+    {
+        "inscricao": "290574",
+        "nome": "GIOVANA SILVA DOS SANTOS",
+        "cotista": false,
+        "nota": 76.917,
+        "classificacao": 17
+    },
+    {
+        "inscricao": "180351",
+        "nome": "GIOVANNA MARIA DA SILVA DE MARTIN",
+        "cotista": false,
+        "nota": 76.417,
+        "classificacao": 18
+    },
+    {
+        "inscricao": "101109",
+        "nome": "MARIA CAROLINA LIMA BALBINO",
+        "cotista": true,
+        "nota": 76.25,
+        "classificacao": 19
+    },
+    {
+        "inscricao": "020855",
+        "nome": "LET\u00cdCIA PORPORATTI DE G\u00d3ES",
+        "cotista": false,
+        "nota": 76,
+        "classificacao": 20
+    },
+    {
+        "inscricao": "100090",
+        "nome": "ANNA ELISA FERREIRA COSTA RODRIGUES",
+        "cotista": true,
+        "nota": 76,
+        "classificacao": 21
+    },
+    {
+        "inscricao": "120264",
+        "nome": "DANIELA DE LEMOS OLIVEIRA",
+        "cotista": false,
+        "nota": 76,
+        "classificacao": 22
+    },
+    {
+        "inscricao": "250787",
+        "nome": "LAURA CERQUEIRA FAHEL",
+        "cotista": false,
+        "nota": 75.833,
+        "classificacao": 23
+    },
+    {
+        "inscricao": "050447",
+        "nome": "EMILLY DE SOUSA MOREIRA",
+        "cotista": false,
+        "nota": 75.833,
+        "classificacao": 24
+    },
+    {
+        "inscricao": "121119",
+        "nome": "NICOLE MARIA FEREIRA FREIRE",
+        "cotista": false,
+        "nota": 75.75,
+        "classificacao": 25
+    },
+    {
+        "inscricao": "040891",
+        "nome": "JULIA FREITAS DA SILVEIRA",
+        "cotista": false,
+        "nota": 75.667,
+        "classificacao": 26
+    },
+    {
+        "inscricao": "291568",
+        "nome": "VITORIA MARIA COSTA MELO",
+        "cotista": false,
+        "nota": 75.583,
+        "classificacao": 27
+    },
+    {
+        "inscricao": "010224",
+        "nome": "DUANNI EVELYN DA ROSA COSTA",
+        "cotista": false,
+        "nota": 75.5,
+        "classificacao": 28
+    },
+    {
+        "inscricao": "010686",
+        "nome": "LUANA MOGNON DA SILVA",
+        "cotista": false,
+        "nota": 75.25,
+        "classificacao": 29
+    },
+    {
+        "inscricao": "010056",
+        "nome": "ANITA NUNES DE OLIVEIRA",
+        "cotista": false,
+        "nota": 75.167,
+        "classificacao": 30
+    },
+    {
+        "inscricao": "161312",
+        "nome": "MELL BITTENCOURT MEDEIROS",
+        "cotista": true,
+        "nota": 75,
+        "classificacao": 31
+    },
+    {
+        "inscricao": "210563",
+        "nome": "LARISSA VILLAS BOAS DUARTE",
+        "cotista": false,
+        "nota": 75,
+        "classificacao": 32
+    },
+    {
+        "inscricao": "251096",
+        "nome": "PAULA VICTORIA MEIRELES DA SILVA",
+        "cotista": false,
+        "nota": 75,
+        "classificacao": 33
+    },
+    {
+        "inscricao": "101574",
+        "nome": "VICT\u00d3RIA CHRISTINE ROCHA MACEDO",
+        "cotista": false,
+        "nota": 74.917,
+        "classificacao": 34
+    },
+    {
+        "inscricao": "290176",
+        "nome": "BEATRIZ SOARES MENEZES",
+        "cotista": false,
+        "nota": 74.75,
+        "classificacao": 35
+    },
+    {
+        "inscricao": "110286",
+        "nome": "ISABELLY DA SILVA DURAO",
+        "cotista": false,
+        "nota": 74.5,
+        "classificacao": 36
+    },
+    {
+        "inscricao": "060546",
+        "nome": "LUIZA OROSCO SILVA",
+        "cotista": false,
+        "nota": 74.5,
+        "classificacao": 37
+    },
+    {
+        "inscricao": "310150",
+        "nome": "BIANCA MONIQUE ABREU GUIMAR\u00c3ES",
+        "cotista": false,
+        "nota": 74.417,
+        "classificacao": 38
+    },
+    {
+        "inscricao": "130765",
+        "nome": "JULIA PEREIRA DINIZ",
+        "cotista": false,
+        "nota": 74.25,
+        "classificacao": 39
+    },
+    {
+        "inscricao": "101078",
+        "nome": "MANUELA ABATI BORDEAUX RONCONI",
+        "cotista": false,
+        "nota": 74.167,
+        "classificacao": 40
+    },
+    {
+        "inscricao": "340661",
+        "nome": "MARIA CLARA BARROS DE MATTOS",
+        "cotista": false,
+        "nota": 74.167,
+        "classificacao": 41
+    },
+    {
+        "inscricao": "121313",
+        "nome": "THAISA OLIVEIRA DE SOUZA",
+        "cotista": false,
+        "nota": 74.167,
+        "classificacao": 42
+    },
+    {
+        "inscricao": "291076",
+        "nome": "MAISA SOARES NATIVIDADE",
+        "cotista": false,
+        "nota": 74.167,
+        "classificacao": 43
+    },
+    {
+        "inscricao": "060643",
+        "nome": "MIRIAN ALESSANDRA ANDRADE",
+        "cotista": false,
+        "nota": 74,
+        "classificacao": 44
+    },
+    {
+        "inscricao": "080032",
+        "nome": "ANA CAROLINA DA SILVA HIPOLITO",
+        "cotista": true,
+        "nota": 73.917,
+        "classificacao": 45
+    },
+    {
+        "inscricao": "161504",
+        "nome": "RAFAELA DA SILVA PITTA",
+        "cotista": true,
+        "nota": 73.417,
+        "classificacao": 46
+    },
+    {
+        "inscricao": "290222",
+        "nome": "CAMILLY VIDAL TEIXEIRA",
+        "cotista": false,
+        "nota": 73.333,
+        "classificacao": 47
+    },
+    {
+        "inscricao": "271897",
+        "nome": "SARAH RAQUEL AMARAL OLIVEIRA",
+        "cotista": true,
+        "nota": 73.167,
+        "classificacao": 48
+    },
+    {
+        "inscricao": "240313",
+        "nome": "CAUANNE MAGALH\u00c3ES CAMPOS",
+        "cotista": false,
+        "nota": 73.083,
+        "classificacao": 49
+    },
+    {
+        "inscricao": "120721",
+        "nome": "JULIA FERREIRA DE SOUSA",
+        "cotista": true,
+        "nota": 73,
+        "classificacao": 50
+    },
+    {
+        "inscricao": "050069",
+        "nome": "ANA BEATRIZ NISHII TODAKI",
+        "cotista": false,
+        "nota": 72.833,
+        "classificacao": 51
+    },
+    {
+        "inscricao": "131014",
+        "nome": "MARIA EDUARDA MARIANO PINHEIRO DA SILVA",
+        "cotista": false,
+        "nota": 72.75,
+        "classificacao": 52
+    },
+    {
+        "inscricao": "160382",
+        "nome": "ELISA CARVALHO SANTOS",
+        "cotista": false,
+        "nota": 72.667,
+        "classificacao": 53
+    },
+    {
+        "inscricao": "010680",
+        "nome": "LOUISE DA SILVEIRA KRONBAUER",
+        "cotista": false,
+        "nota": 72.583,
+        "classificacao": 54
+    },
+    {
+        "inscricao": "040057",
+        "nome": "AMANDA SCHIESSL DA SILVA",
+        "cotista": false,
+        "nota": 72.5,
+        "classificacao": 55
+    },
+    {
+        "inscricao": "180545",
+        "nome": "KELLY CRISTINA ANDR\u00c9 FERREIRA",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 56
+    },
+    {
+        "inscricao": "240673",
+        "nome": "GIOVANNA MENDONCA LOBO",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 57
+    },
+    {
+        "inscricao": "020190",
+        "nome": "C\u00c1SSIA STRAGLIOTTO MELLOS",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 58
+    },
+    {
+        "inscricao": "161246",
+        "nome": "MARIANA BITENCOURT DE LIMA",
+        "cotista": false,
+        "nota": 72.417,
+        "classificacao": 59
+    },
+    {
+        "inscricao": "210564",
+        "nome": "LAURA BEATRIZ DE SOUZA COLPO",
+        "cotista": false,
+        "nota": 72,
+        "classificacao": 60
+    },
+    {
+        "inscricao": "240109",
+        "nome": "ANDRESSA RODRIGUES DE ARA\u00daJO",
+        "cotista": true,
+        "nota": 72,
+        "classificacao": 61
+    },
+    {
+        "inscricao": "010745",
+        "nome": "LUIZA FRANCO PISSETTI",
+        "cotista": false,
+        "nota": 71.917,
+        "classificacao": 62
+    },
+    {
+        "inscricao": "241763",
+        "nome": "RUTH FRANCA DE LIMA ARAUJO",
+        "cotista": false,
+        "nota": 71.917,
+        "classificacao": 63
+    },
+    {
+        "inscricao": "120978",
+        "nome": "MARIA CLARA RIBEIRO MACEDO",
+        "cotista": false,
+        "nota": 71.917,
+        "classificacao": 64
+    },
+    {
+        "inscricao": "271458",
+        "nome": "MARIA EDUARDA GOMES DA CUNHA",
+        "cotista": false,
+        "nota": 71.833,
+        "classificacao": 65
+    },
+    {
+        "inscricao": "290922",
+        "nome": "LAIS PALACIO DE QUEIROZ",
+        "cotista": false,
+        "nota": 71.833,
+        "classificacao": 66
+    },
+    {
+        "inscricao": "110492",
+        "nome": "MARIA EDUARDA RODRIGUES BERNARDES",
+        "cotista": false,
+        "nota": 71.583,
+        "classificacao": 67
+    },
+    {
+        "inscricao": "290923",
+        "nome": "LA\u00cdS SARAIVA CRUZ",
+        "cotista": false,
+        "nota": 71.583,
+        "classificacao": 68
+    },
+    {
+        "inscricao": "120985",
+        "nome": "MARIA EDUARDA COURA BORGES BEHLING",
+        "cotista": false,
+        "nota": 71.417,
+        "classificacao": 69
+    },
+    {
+        "inscricao": "020827",
+        "nome": "LAUREN ARAIS SOARES",
+        "cotista": false,
+        "nota": 71.333,
+        "classificacao": 70
+    },
+    {
+        "inscricao": "040997",
+        "nome": "LET\u00cdCIA RUCHINSKI DE FREITAS",
+        "cotista": false,
+        "nota": 71.167,
+        "classificacao": 71
+    },
+    {
+        "inscricao": "290688",
+        "nome": "ISABEL COSTA ARA\u00daJO FROTA",
+        "cotista": false,
+        "nota": 71.167,
+        "classificacao": 72
+    },
+    {
+        "inscricao": "050473",
+        "nome": "ERICA AIYUME MONIZ UEDA",
+        "cotista": false,
+        "nota": 71,
+        "classificacao": 73
+    },
+    {
+        "inscricao": "260110",
+        "nome": "ESTHER MOTA DE GOIS",
+        "cotista": false,
+        "nota": 70.917,
+        "classificacao": 74
+    },
+    {
+        "inscricao": "100813",
+        "nome": "JOYCE VIT\u00d3RIA NASCIMENTO VIEIRA",
+        "cotista": true,
+        "nota": 70.667,
+        "classificacao": 75
+    },
+    {
+        "inscricao": "020953",
+        "nome": "LUIZA PEYROT TATSCH",
+        "cotista": false,
+        "nota": 70.583,
+        "classificacao": 76
+    },
+    {
+        "inscricao": "101272",
+        "nome": "NICOLE KUHN DE BORBA",
+        "cotista": false,
+        "nota": 70.5,
+        "classificacao": 77
+    },
+    {
+        "inscricao": "300178",
+        "nome": "ELLEN CASTELO BRANCO FERREIRA",
+        "cotista": false,
+        "nota": 70.417,
+        "classificacao": 78
+    },
+    {
+        "inscricao": "060056",
+        "nome": "BEATRIZ DE FARIA GERALDO",
+        "cotista": false,
+        "nota": 70.25,
+        "classificacao": 79
+    },
+    {
+        "inscricao": "210709",
+        "nome": "MARIANA DE SOUZA SANTIAGO PESSOA",
+        "cotista": false,
+        "nota": 70.25,
+        "classificacao": 80
+    },
+    {
+        "inscricao": "240299",
+        "nome": "CAROLINA CARVALHO DA SILVA",
+        "cotista": false,
+        "nota": 70.167,
+        "classificacao": 81
+    },
+    {
+        "inscricao": "200351",
+        "nome": "L\u00cdVIA DA SILVA WAGMAKER",
+        "cotista": false,
+        "nota": 70.083,
+        "classificacao": 82
+    },
+    {
+        "inscricao": "241988",
+        "nome": "YARA CRISTINA CASSEMIRO DUTRA",
+        "cotista": false,
+        "nota": 69.917,
+        "classificacao": 83
+    },
+    {
+        "inscricao": "271774",
+        "nome": "RAIANE BAUER",
+        "cotista": false,
+        "nota": 69.667,
+        "classificacao": 84
+    },
+    {
+        "inscricao": "020458",
+        "nome": "GABRIELA MENDES GOULART",
+        "cotista": false,
+        "nota": 69.5,
+        "classificacao": 85
+    },
+    {
+        "inscricao": "180565",
+        "nome": "LAVINIA REZENDE PIRES",
+        "cotista": false,
+        "nota": 69.167,
+        "classificacao": 86
+    },
+    {
+        "inscricao": "180416",
+        "nome": "ISABELLE LABES",
+        "cotista": false,
+        "nota": 68.917,
+        "classificacao": 87
+    },
+    {
+        "inscricao": "140088",
+        "nome": "ANDYARA MOSTAVENCO GOMES",
+        "cotista": false,
+        "nota": 68.917,
+        "classificacao": 88
+    },
+    {
+        "inscricao": "090752",
+        "nome": "LORENA RODRIGUES MARTINS",
+        "cotista": true,
+        "nota": 68.667,
+        "classificacao": 89
+    },
+    {
+        "inscricao": "090758",
+        "nome": "LOUISE UMEBARA DE SOUZA LIMA",
+        "cotista": false,
+        "nota": 68.583,
+        "classificacao": 90
+    },
+    {
+        "inscricao": "101145",
+        "nome": "MARIA ELIZABETH DE SOUZA MARQUES",
+        "cotista": false,
+        "nota": 68.333,
+        "classificacao": 91
+    },
+    {
+        "inscricao": "190737",
+        "nome": "MARIA J\u00daLIA TEODORO VILAMAIOR",
+        "cotista": false,
+        "nota": 68.333,
+        "classificacao": 92
+    },
+    {
+        "inscricao": "291576",
+        "nome": "WENDHY MARIANA DE SOUSA SANTOS",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 93
+    },
+    {
+        "inscricao": "100241",
+        "nome": "CAROLINE FIGUEIREDO SEQUEIRA",
+        "cotista": false,
+        "nota": 68.25,
+        "classificacao": 94
+    },
+    {
+        "inscricao": "260241",
+        "nome": "LARA LU\u00cdZA DE OLIVEIRA MENEZES",
+        "cotista": false,
+        "nota": 68.167,
+        "classificacao": 95
+    },
+    {
+        "inscricao": "190043",
+        "nome": "ANA LUIZA PEREIRA",
+        "cotista": false,
+        "nota": 68.167,
+        "classificacao": 96
+    },
+    {
+        "inscricao": "290224",
+        "nome": "CARLA VIDA FA\u00c7ANHA QUEZADO",
+        "cotista": false,
+        "nota": 68.083,
+        "classificacao": 97
+    },
+    {
+        "inscricao": "180715",
+        "nome": "MARIANA DE SOUZA ROSA",
+        "cotista": false,
+        "nota": 68,
+        "classificacao": 98
+    },
+    {
+        "inscricao": "241154",
+        "nome": "LETICIA MARTINEZ COSTA",
+        "cotista": false,
+        "nota": 68,
+        "classificacao": 99
+    },
+    {
+        "inscricao": "040051",
+        "nome": "AMANDA FERNANDES DE MORAES",
+        "cotista": true,
+        "nota": 67.833,
+        "classificacao": 100
+    },
+    {
+        "inscricao": "070613",
+        "nome": "GIULIANNA BIANCO GERES",
+        "cotista": false,
+        "nota": 67.75,
+        "classificacao": 101
+    },
+    {
+        "inscricao": "020601",
+        "nome": "ISABELA DUTRA VENTORINI",
+        "cotista": false,
+        "nota": 67.75,
+        "classificacao": 102
+    },
+    {
+        "inscricao": "120495",
+        "nome": "GIULIA CRUZ DE CARVALHO",
+        "cotista": false,
+        "nota": 67.75,
+        "classificacao": 103
+    },
+    {
+        "inscricao": "141119",
+        "nome": "NATH\u00c1LIA ROTTA VIDAL DA SILVA",
+        "cotista": false,
+        "nota": 67.75,
+        "classificacao": 104
+    },
+    {
+        "inscricao": "210844",
+        "nome": "RAFAELA TINASSO CASTELO BRANCO",
+        "cotista": false,
+        "nota": 67.667,
+        "classificacao": 105
+    },
+    {
+        "inscricao": "020813",
+        "nome": "LA\u00cdZE DE FREITAS MAZZARDO",
+        "cotista": false,
+        "nota": 67.583,
+        "classificacao": 106
+    },
+    {
+        "inscricao": "240029",
+        "nome": "ALESSANDRA SANTOS DE OLIVEIRA",
+        "cotista": false,
+        "nota": 67.583,
+        "classificacao": 107
+    },
+    {
+        "inscricao": "280867",
+        "nome": "YASMIM RIBEIRO DOS SANTOS",
+        "cotista": false,
+        "nota": 67.5,
+        "classificacao": 108
+    },
+    {
+        "inscricao": "120016",
+        "nome": "ALEXANDRA ZAVARIZE ALMEIDA DE ARAUJO",
+        "cotista": false,
+        "nota": 67.333,
+        "classificacao": 109
+    },
+    {
+        "inscricao": "080149",
+        "nome": "CLARA BEATRIZ OLIVEIRA CRUZ",
+        "cotista": false,
+        "nota": 67.25,
+        "classificacao": 110
+    },
+    {
+        "inscricao": "030415",
+        "nome": "MIRELA MOREIRA RIBEIRO",
+        "cotista": false,
+        "nota": 67.083,
+        "classificacao": 111
+    },
+    {
+        "inscricao": "100221",
+        "nome": "CAMILA HELENA MESQUITA DE OLIVEIRA",
+        "cotista": false,
+        "nota": 67.083,
+        "classificacao": 112
+    },
+    {
+        "inscricao": "290366",
+        "nome": "EDUARDA BRUNO TEIXEIRA DE OLIVEIRA",
+        "cotista": false,
+        "nota": 67.083,
+        "classificacao": 113
+    },
+    {
+        "inscricao": "240648",
+        "nome": "GABRIELA VIT\u00d3RIA PIRES THEOPHILO",
+        "cotista": true,
+        "nota": 67,
+        "classificacao": 114
+    },
+    {
+        "inscricao": "041003",
+        "nome": "LORENA SANTOS MARCONDES",
+        "cotista": false,
+        "nota": 66.917,
+        "classificacao": 115
+    },
+    {
+        "inscricao": "240082",
+        "nome": "ANA GABRIELA MEDEIROS RODRIGUES",
+        "cotista": true,
+        "nota": 66.833,
+        "classificacao": 116
+    },
+    {
+        "inscricao": "241049",
+        "nome": "J\u00daLIA MARQUES OLIVEIRA",
+        "cotista": true,
+        "nota": 66.667,
+        "classificacao": 117
+    },
+    {
+        "inscricao": "080510",
+        "nome": "L\u00cdVIA PFAFF MORAES",
+        "cotista": false,
+        "nota": 66.583,
+        "classificacao": 118
+    },
+    {
+        "inscricao": "110686",
+        "nome": "VITORIA RODRIGUES BERNARDES",
+        "cotista": false,
+        "nota": 66.583,
+        "classificacao": 119
+    },
+    {
+        "inscricao": "160317",
+        "nome": "DANIELLA DE AZEVEDO SARAIVA",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 120
+    },
+    {
+        "inscricao": "020141",
+        "nome": "BIANCA GARCIA RAMIRES",
+        "cotista": false,
+        "nota": 66.5,
+        "classificacao": 121
+    },
+    {
+        "inscricao": "020618",
+        "nome": "ISADORA SEIDEL WOUTERS",
+        "cotista": false,
+        "nota": 66.333,
+        "classificacao": 122
+    },
+    {
+        "inscricao": "180704",
+        "nome": "MARIA EDUARDA NUNES DA SILVA ARAUJO",
+        "cotista": true,
+        "nota": 66.25,
+        "classificacao": 123
+    },
+    {
+        "inscricao": "120583",
+        "nome": "ISABELA DO NASCIMENTO XAVIER",
+        "cotista": true,
+        "nota": 66.25,
+        "classificacao": 124
+    },
+    {
+        "inscricao": "310783",
+        "nome": "LAYSE THAYS DOS SANTOS LE\u00c3O",
+        "cotista": false,
+        "nota": 66.167,
+        "classificacao": 125
+    },
+    {
+        "inscricao": "170246",
+        "nome": "MARIA CLARA MAFRA DE SOUZA",
+        "cotista": false,
+        "nota": 66.083,
+        "classificacao": 126
+    },
+    {
+        "inscricao": "271253",
+        "nome": "L\u00cdVIA DE OLIVEIRA SOUZA",
+        "cotista": false,
+        "nota": 65.834,
+        "classificacao": 127
+    },
+    {
+        "inscricao": "060839",
+        "nome": "VICT\u00d3RIA MELLO ALVES DOS SANTOS",
+        "cotista": false,
+        "nota": 65.833,
+        "classificacao": 128
+    },
+    {
+        "inscricao": "090636",
+        "nome": "J\u00daLIA VIT\u00d3RIA ROLD\u00c3O LEITE",
+        "cotista": true,
+        "nota": 65.75,
+        "classificacao": 129
+    },
+    {
+        "inscricao": "120592",
+        "nome": "ISABELLY OLIVEIRA MARQUES",
+        "cotista": false,
+        "nota": 65.75,
+        "classificacao": 130
+    },
+    {
+        "inscricao": "180592",
+        "nome": "LORENA CRISTINE SILVA",
+        "cotista": true,
+        "nota": 65.667,
+        "classificacao": 131
+    },
+    {
+        "inscricao": "041137",
+        "nome": "MARIA EDUARDA FERREIRA FERNANDES",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 132
+    },
+    {
+        "inscricao": "250975",
+        "nome": "MARIA LU\u00cdSA FONSECA VILAR",
+        "cotista": false,
+        "nota": 65.667,
+        "classificacao": 133
+    },
+    {
+        "inscricao": "101143",
+        "nome": "MARIA EDUARDA SOARES DO CABO",
+        "cotista": true,
+        "nota": 65.5,
+        "classificacao": 134
+    },
+    {
+        "inscricao": "291086",
+        "nome": "MANUELA CAMPOS NOVAES",
+        "cotista": false,
+        "nota": 65.5,
+        "classificacao": 135
+    },
+    {
+        "inscricao": "190097",
+        "nome": "BEATRIZ DA SILVA PAIX\u00c3O",
+        "cotista": false,
+        "nota": 65.25,
+        "classificacao": 136
+    },
+    {
+        "inscricao": "190442",
+        "nome": "ISABELLA COELHO DE OLIVEIRA",
+        "cotista": false,
+        "nota": 65.25,
+        "classificacao": 137
+    },
+    {
+        "inscricao": "030027",
+        "nome": "ANA LU\u00cdSA DE ABREU HAAG",
+        "cotista": false,
+        "nota": 65.167,
+        "classificacao": 138
+    },
+    {
+        "inscricao": "290257",
+        "nome": "CAROLINE OLIVEIRA ALVES",
+        "cotista": false,
+        "nota": 65.083,
+        "classificacao": 139
+    },
+    {
+        "inscricao": "290992",
+        "nome": "LUANA ANDRADE FARIAS",
+        "cotista": false,
+        "nota": 64.917,
+        "classificacao": 140
+    },
+    {
+        "inscricao": "180036",
+        "nome": "ANA ELISA AMARAL",
+        "cotista": false,
+        "nota": 64.833,
+        "classificacao": 141
+    },
+    {
+        "inscricao": "160056",
+        "nome": "ANA CAROLINA DOS SANTOS AZEVEDO VIANNA",
+        "cotista": true,
+        "nota": 64.75,
+        "classificacao": 142
+    },
+    {
+        "inscricao": "271206",
+        "nome": "LARISSA VITORIA BARBOSA CONSTANTINO",
+        "cotista": true,
+        "nota": 64.5,
+        "classificacao": 143
+    },
+    {
+        "inscricao": "160571",
+        "nome": "GIULIA ROSA DA SILVA",
+        "cotista": true,
+        "nota": 64.333,
+        "classificacao": 144
+    },
+    {
+        "inscricao": "130971",
+        "nome": "MARCELLY VIEIRA DO ROS\u00c1RIO FERREIRA",
+        "cotista": false,
+        "nota": 64.25,
+        "classificacao": 145
+    },
+    {
+        "inscricao": "210740",
+        "nome": "MICAELA YASMIN DUARTE MACIEL ROMEIRO",
+        "cotista": false,
+        "nota": 64.25,
+        "classificacao": 146
+    },
+    {
+        "inscricao": "230597",
+        "nome": "MARIA VIT\u00d3RIA FERREIRA NOVAIS",
+        "cotista": false,
+        "nota": 64.167,
+        "classificacao": 147
+    },
+    {
+        "inscricao": "090031",
+        "nome": "AMANDA OLIVEIRA DA SILVA RODRIGUES",
+        "cotista": false,
+        "nota": 64.167,
+        "classificacao": 148
+    },
+    {
+        "inscricao": "120493",
+        "nome": "GIOVANNA SILVEIRA SERRA",
+        "cotista": false,
+        "nota": 64,
+        "classificacao": 149
+    },
+    {
+        "inscricao": "120200",
+        "nome": "CARINA DE SOUZA SANTOS",
+        "cotista": false,
+        "nota": 64,
+        "classificacao": 150
+    },
+    {
+        "inscricao": "041153",
+        "nome": "MARIANA CHEVALIER SANTOS",
+        "cotista": false,
+        "nota": 63.833,
+        "classificacao": 151
+    },
+    {
+        "inscricao": "100539",
+        "nome": "GIULIANA OLIVIA SILVA DE LIMA",
+        "cotista": false,
+        "nota": 63.667,
+        "classificacao": 152
+    },
+    {
+        "inscricao": "240832",
+        "nome": "ISABELA TARGINO SILVESTRE PENEDO",
+        "cotista": false,
+        "nota": 63.667,
+        "classificacao": 153
+    },
+    {
+        "inscricao": "020815",
+        "nome": "LARA SANTOS DO NASCIMENTO",
+        "cotista": true,
+        "nota": 63.667,
+        "classificacao": 154
+    },
+    {
+        "inscricao": "060242",
+        "nome": "GABRIELE VITORIA DE MENDONCA SOARES",
+        "cotista": false,
+        "nota": 63.583,
+        "classificacao": 155
+    },
+    {
+        "inscricao": "120830",
+        "nome": "LETICIA SOUZA ARAUJO",
+        "cotista": false,
+        "nota": 63.583,
+        "classificacao": 156
+    },
+    {
+        "inscricao": "030321",
+        "nome": "LA\u00cdS MAY BONELLI MEDEIROS",
+        "cotista": false,
+        "nota": 63.417,
+        "classificacao": 157
+    },
+    {
+        "inscricao": "240022",
+        "nome": "ALANIS KELLY ALVES SAMPAIO GUIMAR\u00c3ES",
+        "cotista": true,
+        "nota": 63.417,
+        "classificacao": 158
+    },
+    {
+        "inscricao": "240068",
+        "nome": "ANA CAROLINA CAMPOS FONTENELE",
+        "cotista": false,
+        "nota": 63.333,
+        "classificacao": 159
+    },
+    {
+        "inscricao": "280784",
+        "nome": "SARA GASPAR DIAS",
+        "cotista": true,
+        "nota": 63.25,
+        "classificacao": 160
+    },
+    {
+        "inscricao": "140945",
+        "nome": "LUIZA SOUZA",
+        "cotista": false,
+        "nota": 63.167,
+        "classificacao": 161
+    },
+    {
+        "inscricao": "120041",
+        "nome": "ANA BEATRIZ DOS SANTOS GUIMAR\u00c3ES",
+        "cotista": false,
+        "nota": 63.167,
+        "classificacao": 162
+    },
+    {
+        "inscricao": "100383",
+        "nome": "EVELYN DO NASCIMENTO NEVES",
+        "cotista": true,
+        "nota": 62.917,
+        "classificacao": 163
+    },
+    {
+        "inscricao": "071374",
+        "nome": "MELLORY KEITH GARCIA",
+        "cotista": false,
+        "nota": 62.833,
+        "classificacao": 164
+    },
+    {
+        "inscricao": "160155",
+        "nome": "BEATRIZ ELEUTERIO ALVES DOS SANTOS",
+        "cotista": false,
+        "nota": 62.833,
+        "classificacao": 165
+    },
+    {
+        "inscricao": "290569",
+        "nome": "GEOVANA MARIA BARROS GUERRA",
+        "cotista": false,
+        "nota": 62.75,
+        "classificacao": 166
+    },
+    {
+        "inscricao": "151193",
+        "nome": "PRISCILA OLIVEIRA DOS SANTOS",
+        "cotista": false,
+        "nota": 62.75,
+        "classificacao": 167
+    },
+    {
+        "inscricao": "130048",
+        "nome": "ANA BEATRIZ MAC\u00caDO DA SILVA",
+        "cotista": true,
+        "nota": 62.75,
+        "classificacao": 168
+    },
+    {
+        "inscricao": "041564",
+        "nome": "VICTORIA CARUSO DE LIMA",
+        "cotista": true,
+        "nota": 62.667,
+        "classificacao": 169
+    },
+    {
+        "inscricao": "100013",
+        "nome": "ALESSANDRA FERNANDES DE ANDRADE",
+        "cotista": true,
+        "nota": 62.583,
+        "classificacao": 170
+    },
+    {
+        "inscricao": "180940",
+        "nome": "SOPHIA CONTI BARBOSA AVILA",
+        "cotista": false,
+        "nota": 62.583,
+        "classificacao": 171
+    },
+    {
+        "inscricao": "080578",
+        "nome": "MAITE CARVALHO ALVES ZAGUINI",
+        "cotista": false,
+        "nota": 62.5,
+        "classificacao": 172
+    },
+    {
+        "inscricao": "290297",
+        "nome": "DANIELLY S\u00c1TYRO DE ALMEIDA ROSAS",
+        "cotista": false,
+        "nota": 62.5,
+        "classificacao": 173
+    },
+    {
+        "inscricao": "190551",
+        "nome": "J\u00daLIA SOUZA ROCHA",
+        "cotista": true,
+        "nota": 61.75,
+        "classificacao": 174
+    },
+    {
+        "inscricao": "250363",
+        "nome": "EMILLY CARNEIRO DA CRUZ SANTOS",
+        "cotista": true,
+        "nota": 61.583,
+        "classificacao": 175
+    },
+    {
+        "inscricao": "240119",
+        "nome": "ANNA LUISA ARA\u00daJO FARIAS",
+        "cotista": true,
+        "nota": 61.5,
+        "classificacao": 176
+    },
+    {
+        "inscricao": "100833",
+        "nome": "J\u00daLIA SANGES WEBER",
+        "cotista": true,
+        "nota": 61.5,
+        "classificacao": 177
+    },
+    {
+        "inscricao": "040060",
+        "nome": "ANA CAROLINA CONCEI\u00c7\u00c3O",
+        "cotista": true,
+        "nota": 61.333,
+        "classificacao": 178
+    },
+    {
+        "inscricao": "050313",
+        "nome": "CLARA SOARES RAMOS",
+        "cotista": true,
+        "nota": 61.25,
+        "classificacao": 179
+    },
+    {
+        "inscricao": "080834",
+        "nome": "VICT\u00d3RIA DE SOUZA BRASIL NASCIMENTO",
+        "cotista": true,
+        "nota": 61.167,
+        "classificacao": 180
+    },
+    {
+        "inscricao": "270094",
+        "nome": "ANA LAURA DE MAGALH\u00c3ES DAS NEVES",
+        "cotista": true,
+        "nota": 61.083,
+        "classificacao": 181
+    },
+    {
+        "inscricao": "290899",
+        "nome": "KAREN ALVES DE HOLANDA",
+        "cotista": true,
+        "nota": 53.417,
+        "classificacao": 215
+    },
+    {
+        "inscricao": "130007",
+        "nome": "AGDA ESTHER FELIX RIBEIRO",
+        "cotista": true,
+        "nota": 53.083,
+        "classificacao": 216
+    },
+    {
+        "inscricao": "100095",
+        "nome": "ANNA KAROLINI OLIVEIRA SERPA BARBOSA",
+        "cotista": true,
+        "nota": 52.833,
+        "classificacao": 217
+    },
+    {
+        "inscricao": "110453",
+        "nome": "LUIZA CALDAS MANSO GON\u00c7ALVES",
+        "cotista": true,
+        "nota": 52.75,
+        "classificacao": 218
+    },
+    {
+        "inscricao": "161028",
+        "nome": "LET\u00cdCIA EVANGELISTA MARINS NUNES",
+        "cotista": true,
+        "nota": 52.667,
+        "classificacao": 219
+    },
+    {
+        "inscricao": "200521",
+        "nome": "THAIN\u00c1 RODRIGUES DO NASCIMENTO",
+        "cotista": true,
+        "nota": 52.584,
+        "classificacao": 220
+    },
+    {
+        "inscricao": "040150",
+        "nome": "BEATRIZ BAZ\u00c3O DA SILVA",
+        "cotista": true,
+        "nota": 52.083,
+        "classificacao": 221
+    },
+    {
+        "inscricao": "241727",
+        "nome": "REBECA DE MELO GERMANO DA SILVA",
+        "cotista": true,
+        "nota": 52.083,
+        "classificacao": 222
+    },
+    {
+        "inscricao": "120948",
+        "nome": "MANUELLA MOTTA RODRIGUES",
+        "cotista": true,
+        "nota": 52.083,
+        "classificacao": 223
+    },
+    {
+        "inscricao": "121000",
+        "nome": "MARIA EDUARDA MARINHO DE SOUZA",
+        "cotista": true,
+        "nota": 51.833,
+        "classificacao": 224
+    },
+    {
+        "inscricao": "161040",
+        "nome": "LEYA MERYAN DOS SANTOS GON\u00c7ALVES",
+        "cotista": true,
+        "nota": 51.583,
+        "classificacao": 225
+    },
+    {
+        "inscricao": "251060",
+        "nome": "MYLLENA DA CONCEI\u00c7\u00c3O MOTA",
+        "cotista": true,
+        "nota": 51.583,
+        "classificacao": 226
+    },
+    {
+        "inscricao": "140590",
+        "nome": "ISABELA VIT\u00d3RIA SILVA DOS SANTOS",
+        "cotista": true,
+        "nota": 51.5,
+        "classificacao": 227
+    },
+    {
+        "inscricao": "121315",
+        "nome": "THAISSA MOTTA PEDRO DOS SANTOS",
+        "cotista": true,
+        "nota": 51.417,
+        "classificacao": 228
+    },
+    {
+        "inscricao": "270081",
+        "nome": "ANA BEATRIZ GOMES DOS SANTOS",
+        "cotista": true,
+        "nota": 51.333,
+        "classificacao": 229
+    },
+    {
+        "inscricao": "271372",
+        "nome": "LUMA EDUARDA RIBEIRO CAMPELO",
+        "cotista": true,
+        "nota": 51.25,
+        "classificacao": 230
+    },
+    {
+        "inscricao": "101137",
+        "nome": "MARIA EDUARDA RABELLO DAS NEVES",
+        "cotista": true,
+        "nota": 51.167,
+        "classificacao": 231
+    },
+    {
+        "inscricao": "160024",
+        "nome": "ALINE DA SILVA PEREIRA DO CARMO",
+        "cotista": true,
+        "nota": 50.917,
+        "classificacao": 232
+    },
+    {
+        "inscricao": "160026",
+        "nome": "ALINE SILVA DE SOUSA ARRUDA",
+        "cotista": true,
+        "nota": 50.75,
+        "classificacao": 233
+    },
+    {
+        "inscricao": "241057",
+        "nome": "JULIANA SCAPIN SANTANA",
+        "cotista": true,
+        "nota": 50.583,
+        "classificacao": 234
+    },
+    {
+        "inscricao": "161215",
+        "nome": "MARIA EDUARDA DA SILVA GOMES",
+        "cotista": true,
+        "nota": 50.333,
+        "classificacao": 235
+    },
+    {
+        "inscricao": "180411",
+        "nome": "ISABELLA FERNANDES TEIXEIRA",
+        "cotista": true,
+        "nota": 50.25,
+        "classificacao": 236
+    },
+    {
+        "inscricao": "141035",
+        "nome": "MARYANA DA SILVA GARCIA",
+        "cotista": true,
+        "nota": 50.167,
+        "classificacao": 237
+    },
+    {
+        "inscricao": "340727",
+        "nome": "NATASHA ARAUJO CAXIAS",
+        "cotista": true,
+        "nota": 49.75,
+        "classificacao": 238
+    },
+    {
+        "inscricao": "240116",
+        "nome": "ANNA J\u00daLIA SILVA LIMA",
+        "cotista": true,
+        "nota": 54.5,
+        "classificacao": 206
+    },
+    {
+        "inscricao": "250982",
+        "nome": "MARIA VIT\u00d3RIA LUCAS DE SOUSA",
+        "cotista": true,
+        "nota": 54.167,
+        "classificacao": 207
+    },
+    {
+        "inscricao": "170310",
+        "nome": "RAFAELA MAGALHAES SOUZA",
+        "cotista": true,
+        "nota": 54.083,
+        "classificacao": 208
+    },
+    {
+        "inscricao": "130040",
+        "nome": "ANA BEATRIZ BENTO DE OLIVEIRA FREITAS",
+        "cotista": true,
+        "nota": 54,
+        "classificacao": 209
+    },
+    {
+        "inscricao": "040385",
+        "nome": "EMMANUELLE LORRANY DA SILVA BRAND\u00c3O",
+        "cotista": true,
+        "nota": 53.833,
+        "classificacao": 210
+    },
+    {
+        "inscricao": "131017",
+        "nome": "MARIA EDUARDA OLIVEIRA DE ALMEIDA",
+        "cotista": true,
+        "nota": 53.833,
+        "classificacao": 211
+    },
+    {
+        "inscricao": "240067",
+        "nome": "ANA BEATRIZ SOUSA DE ARAUJO",
+        "cotista": true,
+        "nota": 53.667,
+        "classificacao": 212
+    },
+    {
+        "inscricao": "280516",
+        "nome": "L\u00cdVIA DE FREITAS PADILHA",
+        "cotista": true,
+        "nota": 53.5,
+        "classificacao": 213
+    },
+    {
+        "inscricao": "120790",
+        "nome": "LARISSA FRAN\u00c7A RODRIGUES",
+        "cotista": true,
+        "nota": 53.5,
+        "classificacao": 214
+    },
+    {
+        "inscricao": "131256",
+        "nome": "REBECCA SOUZA RODRIGUES FERREGUETTE DO NASCIMENTO"
+    },
+    {
+        "inscricao": "160544",
+        "nome": "GABRIELLA POMPEU DOMINGOS NUNES"
+    },
+    {
+        "inscricao": "100662",
+        "nome": "IZABELLY ESTEVES DO CARMO"
+    },
+    {
+        "inscricao": "180410",
+        "nome": "ISABELLA CESAR DOSSANTOS"
+    },
+    {
+        "inscricao": "071736",
+        "nome": "SOPHIA ELIZ DE MELO"
+    },
+    {
+        "inscricao": "130874",
+        "nome": "LUANA ALVES DA SILVA GARCIA"
+    },
+    {
+        "inscricao": "100812",
+        "nome": "JOYCE MOISES DA SILVA"
+    },
+    {
+        "inscricao": "241164",
+        "nome": "L\u00cdVIA DA SILVA RABELLO DA CONCEI\u00c7\u00c3O"
+    },
+    {
+        "inscricao": "060593",
+        "nome": "MARIA LUIZA OLIVEIRA DE PAULA"
+    },
+    {
+        "inscricao": "100011",
+        "nome": "ALANNA CRISTINA TAVARES NEPOMUCENO"
+    },
+    {
+        "inscricao": "240226",
+        "nome": "BRENDA OLIVEIRA PASCOAL CRUZ"
+    },
+    {
+        "inscricao": "121007",
+        "nome": "MARIA LU\u00cdSA REIS NEVES"
+    },
+    {
+        "inscricao": "120992",
+        "nome": "MARIA EDUARDA DO NASCIMENTO DA SILVA"
+    },
+    {
+        "inscricao": "241825",
+        "nome": "SUELEN DA SILVA FERNANDES"
+    },
+    {
+        "inscricao": "010025",
+        "nome": "ALICE GABRIELLE DE OLIVEIRA DA SILVA"
+    },
+    {
+        "inscricao": "140985",
+        "nome": "MARIA CLARA BRAGA RODRIGUES"
+    },
+    {
+        "inscricao": "130074",
+        "nome": "ANA LUIZA SANTOS DA ROSA"
+    },
+    {
+        "inscricao": "090982",
+        "nome": "MILENA DA SILVA PECANHA"
+    },
+    {
+        "inscricao": "290879",
+        "nome": "JULIA MAFFEI DA SILVA"
+    },
+    {
+        "inscricao": "150996",
+        "nome": "MARIANNE LEAL NASCIMENTO"
+    },
+    {
+        "inscricao": "141314",
+        "nome": "SCARLETH BERINGUI MORENO BARBOSA"
+    },
+    {
+        "inscricao": "251385",
+        "nome": "VIT\u00d3RIA DA SILVA IRENO BRAZ"
+    },
+    {
+        "inscricao": "150364",
+        "nome": "EVELYN CAETANO BARRETO"
+    },
+    {
+        "inscricao": "160105",
+        "nome": "ANNA CLARA LEAO GULLO",
+        "classificacao": 238
+    },
+    {
+        "inscricao": "071722",
+        "nome": "SANDY FERNANDES ARAUJO LINS",
+        "cotista": true,
+        "nota": 49.75,
+        "classificacao": 239
+    },
+    {
+        "inscricao": "270070",
+        "nome": "AMANDA ANDRADE",
+        "cotista": true,
+        "nota": 49.667,
+        "classificacao": 240
+    },
+    {
+        "inscricao": "120936",
+        "nome": "LYSANDRA SANTOS DE SOUZA",
+        "cotista": true,
+        "nota": 49.5,
+        "classificacao": 241
+    },
+    {
+        "inscricao": "130508",
+        "nome": "GIULIA SANTOS BELMONTE",
+        "cotista": true,
+        "nota": 48.75,
+        "classificacao": 242
+    },
+    {
+        "inscricao": "020026",
+        "nome": "ALICE ROSADO DE MELO",
+        "cotista": true,
+        "nota": 48.167,
+        "classificacao": 243
+    },
+    {
+        "inscricao": "251164",
+        "nome": "RACHEL LUISA CAETANO DOS SANTOS",
+        "cotista": true,
+        "nota": 47.5,
+        "classificacao": 244
+    }
+]
